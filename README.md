@@ -75,3 +75,10 @@
 
 ### 学会関連
 - 2017年6月-2019年6月: - [経営情報学会](http://www.jasmin.jp/)理事、広報委員長: [普及誌担当=経営情報フォーラム編集長](https://iss.ndl.go.jp/books?rft.title=%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0&search_mode=advanced)
+
+## 研究業績
+### 論文/著書
+論文/著書は[こちら](https://github.com/icat-lab/CurriculumVitae.md/blob/master/researchPapers.md)にまとめてありますので参照ください。
+
+### 学会口頭発表
+[こちらのページ](https://github.com/icat-lab/CurriculumVitae.md/blob/master/ResearchPresentation.md)を御覧ください。
