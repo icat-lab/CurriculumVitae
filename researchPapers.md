@@ -49,5 +49,5 @@
   Bibtexなどは，[citeUlike](http://jp.citeulike.org/user/yofukami/tag/yfjpnjournal)にまとめてあるのでどうぞ．
 
 ### 紀要
-- 深見嘉明.  [医療・ヘルスケア領域におけるイノベーション源泉拡張と普及: コンテストの導入と患者起点イノベーション](https://rikkyo.repo.nii.ac.jp/?action=repository_uri&item_id=14097). [立教DBA ジャーナル](https://rikkyo.repo.nii.ac.jp/?action=repository_opensearch&index_id=71&count=50&order=17&pn=1), [No. 7](https://rikkyo.repo.nii.ac.jp/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=1775&pn=1&count=50&order=17&lang=japanese&page_id=13&block_id=49), [pp. 1-13]((https://rikkyo.repo.nii.ac.jp/?action=repository_uri&item_id=14097), 2016.
+- 深見嘉明.  [医療・ヘルスケア領域におけるイノベーション源泉拡張と普及: コンテストの導入と患者起点イノベーション](https://rikkyo.repo.nii.ac.jp/?action=repository_uri&item_id=14097). [立教DBA ジャーナル](https://rikkyo.repo.nii.ac.jp/?action=repository_opensearch&index_id=71&count=50&order=17&pn=1), [No. 7](https://rikkyo.repo.nii.ac.jp/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=1775&pn=1&count=50&order=17&lang=japanese&page_id=13&block_id=49), [pp. 1-13](https://rikkyo.repo.nii.ac.jp/?action=repository_uri&item_id=14097), 2016.
   - [CiNii](https://ci.nii.ac.jp/naid/120005993712/)
