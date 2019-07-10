@@ -38,10 +38,14 @@
 
 - 深見嘉明. [日常生活に浸透するメタデータ](http://www.infosta.or.jp/journal/201012j.html#5). [情報の科学と技術](http://www.infosta.or.jp/journal/journal.html), [Vol.60](http://www.infosta.or.jp/journal/back2010j.html), [No.12](http://www.infosta.or.jp/journal/back2010j.html#12), [pp.501--506](http://www.infosta.or.jp/journal/201012j.html#5), 2010年12月1日. [(CiNii)](http://ci.nii.ac.jp/naid/110007989450)
 
-- 深見嘉明, 國領二郎. 意図せざる協働−ソーシャルブックマークにおけるボトムアップメタデータ生成による情報共有−. [情報社会学会誌](http://infosocio.org/journal_index.html#vol2no2), Vol. 2, No. 2, pp. 6--19], 2007. [(pdf)](http://infosocio.org/journal/vol2no2/vol2no2-2.pdf)
+- 深見嘉明, 國領二郎. 意図せざる協働−ソーシャルブックマークにおけるボトムアップメタデータ生成による情報共有−. [情報社会学会誌](http://infosocio.org/journal_index.html#vol2no2), Vol. 2, No. 2, pp. 6--19], 2007.
 
-### Springer Lecture Note
-- Yoshiaki Fukami, Masao Isshiki, Hideaki Takeda, Ikki Ohmukai, and Jiro Kokuryo. [Specification Patent Management for Web Application Platform Ecosystem](http://www.springerlink.com/content/gx738105676q1671/). In: Zaman M., Liang Y., Siddiqui S.M., Wang T., Liu V., Lu C. (eds)[E-business Technology and Strategy.](https://link.springer.com/book/10.1007/978-3-642-16397-5)[CETS 2010.](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=9051&copyownerid=10425) [(2010 International Conference on E-business Technology & Strategy)](https://web.archive.org/web/20100417122741/http://www.cets2010.com/)[Communications in Computer and Information Science,](https://link.springer.com/bookseries/7899)Vol. 113, [Springer,](https://link.springer.com/) 2010.(2010年10月6日）
+### Springer books and Lecture Notes
+- <u>Yoshiaki Fukami</u> and Yoshimasa Masuda. [Success Factors for Realizing Regional Comprehensive Care by EHR with Administrative Data](https://link.springer.com/chapter/10.1007/978-981-13-8566-7_4). In: [Yen-Wei Chen, Alfred Zimmermann, Robert J. Howlett and Lakhmi C. Jain (eds).Innovation in Medicine and Healthcare Systems, and Multimedia](https://www.springer.com/gp/book/9789811385650#): Proceedings of [KES-InMed-19](http://inmed-19.kesinternational.org/) and KES-IIMSS-19 Conferences, [Smart Innovation, Systems and Technologies](https://www.springer.com/series/8767), Vol. 145, pp. 35-45, [Springer Singapore](https://link.springer.com/), 2019. (2019年7月6日）
+  - [Scopus index](https/www.scopus.com/sourceid/21100204111)
+  - [(Amazon.co.jp)](https://www.amazon.co.jp/dp/9811385653/)
+
+- <u>Yoshiaki Fukami</>, Masao Isshiki, Hideaki Takeda, Ikki Ohmukai, and Jiro Kokuryo. [Specification Patent Management for Web Application Platform Ecosystem](http://www.springerlink.com/content/gx738105676q1671/). In: Zaman M., Liang Y., Siddiqui S.M., Wang T., Liu V., Lu C. (eds)[E-business Technology and Strategy.](https://link.springer.com/book/10.1007/978-3-642-16397-5)[CETS 2010.](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=9051&copyownerid=10425) [(2010 International Conference on E-business Technology & Strategy)](https://web.archive.org/web/20100417122741/http://www.cets2010.com/)[Communications in Computer and Information Science,](https://link.springer.com/bookseries/7899)Vol. 113, pp. 269-280, [Springer,](https://link.springer.com/) 2010.(2010年10月6日）
   - [Lecture Notes in Computer Science LNCS](https://www.springer.com/gp/computer-science/lncs)
   - [Scopus index](https/www.scopus.com/sourceid/17700155007)
   - [(Amazon.co.jp)](https://www.amazon.co.jp/dp/3642163963/)
