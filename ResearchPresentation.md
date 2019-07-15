@@ -42,6 +42,10 @@
 - <u>深見嘉明</u>. プレ標準化フェイズにおける仕様コンセプト収斂メカニズムの解析: 国土地理院・地理院地図のGitHub活用とコミュニケーション戦略, [情報処理学会](http://www.ipsj.or.jp/)[第137回情報システムと社会環境研究発表会](http://ipsj-is.jp/2016/07/is137/), 2016年8月26日. (公立はこだて未来大学, Hakodate, Hokkaido) Japan.
 
 #### 2015以前
+- <u>深見嘉明</u>, 小林巌生, 嘉村哲郎, 加藤文彦, 大向一輝, 武田英明, 高橋徹, 上田洋. [Linked Dataとコミュニティ が拓くオープンガバメント](http://www.bookpark.ne.jp/cm/ipsj/search.asp?flag=6&keyword=IPSJ-DD11079001&mode=). [(情報処理学会研究報告. DD(デジタル・ドキュメント)](http://www.bookpark.ne.jp/cm/ipsj/select_signotes2.asp?category2=DD), [Vol. 2011-DD-079](http://www.bookpark.ne.jp/cm/ipsj/select_signotes3.asp?category2=DD&vol=2011-DD-79&no=9&code=2011-DD-079), [pp1--8](http://www.bookpark.ne.jp/cm/ipsj/search.asp?flag=6&keyword=IPSJ-DD11079001&mode=), 2011年12月18日.
+  - [(Presentation])](http://www.slideshare.net/AWAlab/linked-data-6706524)
+  - [(CiNii)](http://ci.nii.ac.jp/naid/110007891128)
+
 - <u>深見嘉明</u>, 小林巌生, 嘉村哲郎, 加藤文彦, 大向一輝, 武田英明, 高橋徹, 上田洋. [Linked Open Dataによるボトムアップ型オープンガバメントの試み](http://www.slideshare.net/AWAlab/79-6716077). [情報処理学会](http://www.ipsj.or.jp/) [第79回デジタルドキュメント研究会](http://sigdd.sakura.ne.jp/index.php?title=%E7%AC%AC79%E5%9B%9E%E7%A0%94%E7%A9%B6%E4%BC%9A), 2010年1月21日. (開港記念会館 7号会議室, Yokohama, Kanagawa)
   - [(Presentation)](http://www.slideshare.net/AWAlab/79-6716077)
   - [(Togetter)](http://togetter.com/li/91466)
