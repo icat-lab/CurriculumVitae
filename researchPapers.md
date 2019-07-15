@@ -1,17 +1,17 @@
 ## 論文/著書
 ### 著書 (分担執筆を含む)
-- 深見嘉明「IoT時代のプラットフォーム戦略―エコシステムをどう作り上げ,関与するのか―」[立教大学大学院ビジネスデザイン研究科編](https://business-school.rikkyo.ac.jp/)[『ビジネスデザインと経営学』](https://www.amazon.co.jp/dp/4794424906/) , pp. 227-247, 創成社, 2016.     [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4794424906)
+- 深見嘉明「IoT時代のプラットフォーム戦略―エコシステムをどう作り上げ,関与するのか―」[立教大学大学院ビジネスデザイン研究科編](https://business-school.rikkyo.ac.jp/)[『ビジネスデザインと経営学』](https://www.amazon.co.jp/dp/4794424906/) , pp. 227-247, 創成社, 2016年11月20日.     [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4794424906)
 
 - 深見嘉明 「謎を解きたがる人たち」の正体を解き明かしたくて」苦楽堂編『次の本へ』 pp. 270-273, 苦楽堂, 2014. [(Amazon.co.jp)](http://www.amazon.co.jp/dp/4908087008/)
 
 - W3C/Keio（慶應義塾大学SFC研究所 World Wide Web Consortium)監修,  深見嘉明 , 外山 真, 池田拓司, 小松健作, 竹迫良範, 浅野紀予(著)　[『スキル向上のためのHTML５テクニカルレビュー　Web標準の進化系（Web to Go）』](http://www.ric.co.jp/book/contents/book_893.html)[リックテレコム](http://www.ric.co.jp/telecom/), 2012. [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4897978939)
 
-- 深見嘉明・夏野剛 「エコシステム形成のフラットフォーム:標準化活動の行動分析」[『創発経営のプラットフォーム』(國領二郎,プラットフォームデザイン・ラボ編著)](http://www.nikkeibook.com/book_detail/13413/), pp. 119-154. [日本経済新聞出版社](http://www.nikkeibook.com/index.php). 2011. [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4532134137)
+- 深見嘉明・夏野剛 「エコシステム形成のフラットフォーム:標準化活動の行動分析」[『創発経営のプラットフォーム』(國領二郎,プラットフォームデザイン・ラボ編著)](http://www.nikkeibook.com/book_detail/13413/), pp. 119-154. [日本経済新聞出版社](http://www.nikkeibook.com/index.php). 2011年10月21日. [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4532134137)
 
-- 深見嘉明 [『文系ビジネスパーソンのためのウェブ力最大化計画』](http://www.d21.co.jp/modules/shop/product_info.php?products_id=623) [ディスカヴァー・トゥエンティワン](http://www.d21.co.jp/), 2009.
+- 深見嘉明 [『文系ビジネスパーソンのためのウェブ力最大化計画』](http://www.d21.co.jp/modules/shop/product_info.php?products_id=623) [ディスカヴァー・トゥエンティワン](http://www.d21.co.jp/), 2009年4月15日.
 [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4887597029)
 
-- 深見嘉明 [『ウェブは菩薩である 〜メタデータが世界を変える』](http://www.nttpub.co.jp/vbook/list/detail/0241.html) NTT出版, 2008.
+- 深見嘉明 [『ウェブは菩薩である 〜メタデータが世界を変える』](http://www.nttpub.co.jp/vbook/list/detail/0241.html) NTT出版, 2008年6月30日.
 [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4757102410)
 
 ### 訳書
@@ -34,11 +34,9 @@
 
 - 深見嘉明. 図書館とメタデータの新たな関係性―ユーザのアクティビティをどう活かすのか. [現代の図書館, Vol.50, No.2](http://jlakc.seesaa.net/article/285892498.html), pp. 106--113, 2012年6月. [(CiNii)](http://ci.nii.ac.jp/naid/40019368503)
 
-- 深見嘉明, 小林巌生, 嘉村哲郎, 加藤文彦, 大向一輝, 武田英明, 高橋徹, 上田洋. [Linked Dataとコミュニティ が拓くオープンガバメント](http://www.bookpark.ne.jp/cm/ipsj/search.asp?flag=6&keyword=IPSJ-DD11079001&mode=). [(情報処理学会研究報告. DD(デジタル・ドキュメント)](http://www.bookpark.ne.jp/cm/ipsj/select_signotes2.asp?category2=DD), [Vol. 2011-DD-079](http://www.bookpark.ne.jp/cm/ipsj/select_signotes3.asp?category2=DD&vol=2011-DD-79&no=9&code=2011-DD-079), [pp1--8](http://www.bookpark.ne.jp/cm/ipsj/search.asp?flag=6&keyword=IPSJ-DD11079001&mode=), 2011年12月18日. [(Presentation])](http://www.slideshare.net/AWAlab/linked-data-6706524) [(CiNii)](http://ci.nii.ac.jp/naid/110007891128)
-
 - 深見嘉明. [日常生活に浸透するメタデータ](http://www.infosta.or.jp/journal/201012j.html#5). [情報の科学と技術](http://www.infosta.or.jp/journal/journal.html), [Vol.60](http://www.infosta.or.jp/journal/back2010j.html), [No.12](http://www.infosta.or.jp/journal/back2010j.html#12), [pp.501--506](http://www.infosta.or.jp/journal/201012j.html#5), 2010年12月1日. [(CiNii)](http://ci.nii.ac.jp/naid/110007989450)
 
-- 深見嘉明, 國領二郎. 意図せざる協働−ソーシャルブックマークにおけるボトムアップメタデータ生成による情報共有−. [情報社会学会誌](http://infosocio.org/journal_index.html#vol2no2), Vol. 2, No. 2, pp. 6--19], 2007.
+- 深見嘉明, 國領二郎. [意図せざる協働−ソーシャルブックマークにおけるボトムアップメタデータ生成による情報共有−](https://infosocio.org/archives/paper/vol2no2-2). [情報社会学会誌](https://infosocio.org/archives/paper), [Vol. 2](https://infosocio.org/archives/papervolno/vol2), [No. 2](https://infosocio.org/archives/papervolno/vol2no2), pp. 6--19, 2007年6月.
 
 ### Springer books and Lecture Notes
 - <u>Yoshiaki Fukami</u> and Yoshimasa Masuda. [Success Factors for Realizing Regional Comprehensive Care by EHR with Administrative Data](https://link.springer.com/chapter/10.1007/978-981-13-8566-7_4). In: [Yen-Wei Chen, Alfred Zimmermann, Robert J. Howlett and Lakhmi C. Jain (eds).Innovation in Medicine and Healthcare Systems, and Multimedia](https://www.springer.com/gp/book/9789811385650#): Proceedings of [KES-InMed-19](http://inmed-19.kesinternational.org/) and KES-IIMSS-19 Conferences, [Smart Innovation, Systems and Technologies](https://www.springer.com/series/8767), Vol. 145, pp. 35-45, [Springer Singapore](https://link.springer.com/), 2019. (2019年7月6日）
