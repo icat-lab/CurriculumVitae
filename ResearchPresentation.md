@@ -11,7 +11,7 @@
 
 #### 2018
 - <u>深見嘉明</u>. Rough-consensus, running-code”から実装主義へ: 相互可用性標準確立プロセスの成熟化. [日本情報経営学会第77回全国大会.](http://www.jsim.gr.jp/conferences/jsim77/) [2018年11月23日.](http://www.jsim.gr.jp/conferences/jsim77/doc/jsim77program_1123_final5.pdf)(西南学院大学, Fukuoka)
-  - [(若手研究発表賞:YIA, Young Investigator Award 受賞）](https://conferenceservice.jp/www/jsim77/doc/yiajia_jsim77result.pdf)
+  - [(若手研究発表賞:YIA, Young Investigator Award 優秀賞 受賞）](https://conferenceservice.jp/www/jsim77/doc/yiajia_jsim77result.pdf)
   - [(立教大学大学院ビジネスデザイン研究科ウェブサイト記事)](https://business-school.rikkyo.ac.jp/news/2018/fqvjit0000000i6f.html)
   - [公益財団法人電気通信普及財団　研究調査助成](https://www.taf.or.jp/grant-a/)
 
