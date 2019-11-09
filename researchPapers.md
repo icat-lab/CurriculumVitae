@@ -1,5 +1,8 @@
 ## 論文/著書
 ### 著書 (分担執筆を含む)
+- 亀川雅人編 [「最新500項目 経営学用語ハンドブック」](https://www.books-sosei.com/book/25546.html), 創成社, 2019年11月12日. [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4794425546/)
+  - 深見は26項目を担当
+
 - 深見嘉明「IoT時代のプラットフォーム戦略―エコシステムをどう作り上げ,関与するのか―」[立教大学大学院ビジネスデザイン研究科編](https://business-school.rikkyo.ac.jp/)[『ビジネスデザインと経営学』](https://www.amazon.co.jp/dp/4794424906/) , pp. 227-247, 創成社, 2016年11月20日.     [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4794424906)
 
 - 深見嘉明 「謎を解きたがる人たち」の正体を解き明かしたくて」苦楽堂編『次の本へ』 pp. 270-273, 苦楽堂, 2014. [(Amazon.co.jp)](http://www.amazon.co.jp/dp/4908087008/)
