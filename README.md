@@ -80,11 +80,33 @@
 - 2017年6月-2019年6月: [経営情報学会](http://www.jasmin.jp/)理事、広報委員長: [普及誌担当=経営情報フォーラム編集長](https://iss.ndl.go.jp/books?rft.title=%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0&search_mode=advanced)
 
 ### 産業関連
-- 2019年6月-: [一般社団法人データ流通推進協議会](https://data-trading.org/) 戦略企画委員会議長
+- 2019年6月-: [一般社団法人データ流通推進協議会](https://data-trading.org/) 戦略企画委員会議長、World Wide Web Consortium Account commitee represantative
+
+### 学会関連
+- 2019年6月-: [経営情報学会](http://www.jasmin.jp/)学会誌副編集長
+- 2017年6月-2019年6月: [経営情報学会](http://www.jasmin.jp/)理事、広報委員長: [普及誌担当=経営情報フォーラム編集長](https://iss.ndl.go.jp/books?rft.title=%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0&search_mode=advanced)
 
 ## 研究業績
-### 論文/著書
-論文/著書は[こちら](https://github.com/icat-lab/CurriculumVitae.md/blob/master/researchPapers.md)にまとめてありますので参照ください。
+- [論文/著書](https://github.com/icat-lab/CurriculumVitae.md/blob/master/researchPapers.md)
+- [学会口頭発表](https://github.com/icat-lab/CurriculumVitae.md/blob/master/ResearchPresentation.md)
 
-### 学会口頭発表
-[こちらのページ](https://github.com/icat-lab/CurriculumVitae.md/blob/master/ResearchPresentation.md)を御覧ください。
+## 論考記事
+- [日経 xTECH | データ時代の国際標準化競争](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/01021/)
+  - <u>深見嘉明</u>. [スマホ時代の「標準化競争」に勝ったグーグル、マイクロソフトを制した意外な戦略](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/01021/101600004/), 2019年10月18日
+  - <u>深見嘉明</u>. [GAFAら世界の強者が時には競合すら巻き込んで戦略的に「協調領域」を作る真の理由）](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/01021/101700005/), 2019年10月21日
+  - <u>深見嘉明</u>. [「データ経済」の時代に日本企業が大逆転勝利を収める秘策を示そう](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/01021/101700006/), 2019年10月23日
+  - <u>深見嘉明</u>. [日本企業は標準化人材の育成を急げ、「データ経済」時代に必要な2種類のタイプ](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/01021/102100007/), 2019年10月24日
+
+- <u>深見嘉明</u>. [2012年通信業界気になるキーワード](http://wirelesswire.jp/special/201112/01/)[「HTML5」,](http://wirelesswire.jp/special/201112/01/article/7.html)[WirelessWire News](http://wirelesswire.jp/). 2011年12月26日
+
+- <u>深見嘉明</u>(監修) 「Web標準を巡る10年」[Web Designing](http://book.mycom.co.jp/wd/) [2011年6月号](http://book.mycom.co.jp/wd/backnumber/201106.html)、pp. 56-57. [http://www.mynavi.jp/:title=毎日コミュニケーションズ], 2011. [(Amazon.co.jp)](https://www.amazon.co.jp/dp/B004YDXVI2/)
+
+- <u>深見嘉明</u>. POSからクラウド　データ処理の歩みをたどる. 『[エコノミスト増刊](https://www.weekly-economist.com/) 巨大データ経済の勝者』2010年8月9日号増刊, pp43-45, 毎日新聞社, 2010. [(Amazon.co.jp)](https://www.amazon.co.jp/dp/B003VKUMD6/)
+
+# インタビューなど
+- [GAFA実は協調巧者 知らられざる標準化戦略,](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/01021/100900001/)[ 日経コンピュータ ,](https://tech.nikkeibp.co.jp/sp/nikkeicomputer/)[2019年10月17日号,](https://tech.nikkeibp.co.jp/sp/nikkeicomputer/backnumber20191017/) p. 42-45, 日経BP社, 2019. [(日経 xTECH版: 2019年10月15日)](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/01021/100900001/)
+- 歴史を語り尽くすWebブラウザ談義, CodeIQ MAGAZINE
+  - [【前編】インターネットとWebの誕生が、いつか知ってる？,](https://codeiq.jp/magazine/2016/04/40089/)  2016年4月20日.
+  - [【後編】ブラウザ戦争、HTML5の標準化、ブラウザの未来,](https://codeiq.jp/magazine/2016/04/40093/) 2016年4月22日.
+
+- [HTML5に関わらないと日本企業は世界から遅れる,](http://www.atmarkit.co.jp/fwcr/design/benkyo/html5_05/01.html) [＠IT](https://www.atmarkit.co.jp/) 2010年4月6日.
