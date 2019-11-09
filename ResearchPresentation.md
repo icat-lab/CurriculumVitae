@@ -1,5 +1,9 @@
 ### 学会口頭発表
 #### 2019
+- <u>Y. Fukami</u>. Standardization for innovation with data exchange. [The 2nd International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC).](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/)[2019年11月8日.](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/schedule.html) [(China National Convention Center \(CNCC\), Beijing)](http://icdm2019.bigke.org/)
+  - JSPS科研費 18K12858
+  - Best presentation award
+
 - <u>Y. Fukami</u>. How communities of users appear in standardization processes like ghost. [The 37th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2019)](https://www.york.ac.uk/management/events/2019/scos-conference-2019-york/). [2019年7月9日](https://www.york.ac.uk/media/tyms/documents/events/archive2018-19/Draft%20timetable%20for%20circulationv3.pdf). ([The King's Manor,](https://www.york.ac.uk/about/campus/landmarks/kings-manor/) [York management school,](https://www.york.ac.uk/management/) [University of York.](https://www.york.ac.uk/))
   - JSPS科研費 18K12858
 
@@ -29,7 +33,7 @@
 - 古崎晃司, <u>深見嘉明</u>, 横山輝明. [国際会議参加者の移動履歴の収集とLOD化の試み](http://id.nii.ac.jp/1004/00008458/). [第41回](http://www.sigswo.org/papers/41program)[セマンティックウェブとオントロジー研究会](http://www.sigswo.org/). 2017年2月26日. (休暇村志賀島, Fukuoka, Fukuoka)(人工知能学会研究会資料, SIG-SWO-041-09)
 
 #### 2016
-- <u>深見嘉明</u>. カタログギフトによる患者起点イノベーション普及阻害要因の克服. [国際公共経済学会](http://ciriec.com/index.html) [第31回研究大会(http://ciriec.com/conference/winter/31_pgm_s/). 2016年12月4日. (大阪市立大学, Osaka)
+- <u>深見嘉明</u>. カタログギフトによる患者起点イノベーション普及阻害要因の克服. [国際公共経済学会](http://ciriec.com/index.html) [第31回研究大会](http://ciriec.com/conference/winter/31_pgm_s/). 2016年12月4日. (大阪市立大学, Osaka)
 
 - <u>深見嘉明</u>. プレ標準化フェイズにおける技術仕様コンセプト収斂戦略：国土地理院・地理院地図のGitHub活用とコミュニケーションの効果. [情報通信学会](http://www.jsicr.jp/)[2016年度（第35回）秋季大会](http://www.jsicr.jp/operation/taikai/35tai-fall-member.html). 2016年12月3日, 芝浦工業大学, Tokyo. [(発表内容要約 PDF)](http://www.jsicr.jp/doc/taikai2016/fall/B3.pdf)
 
@@ -37,7 +41,7 @@
 
 - 伊藤博康, <u>深見嘉明</u>. [情報セキュリティビジネスにおける競争優位創出のための要因](http://www.jasmin.jp/activity/zenkoku_taikai/2016_fall/program/B2-4.html)[経営情報学会](http://www.jasmin.jp/) [2016年秋季全国研究発表大会](http://www.jasmin.jp/activity/zenkoku_taikai/2016_fall/program/index.html), 2016年9月15日. (岩手県立大学, Morioka, Iwate)
 
-- 伊藤博康, <u>深見嘉明</u>. 「情報セキュリティビジネスにおける競争優位創出のための要因」情報処理学会 情報システムと社会環境研究会 第137回研究発表会, 2016.
+- 伊藤博康, <u>深見嘉明</u>. 情報セキュリティビジネスにおける競争優位創出のための要因, [情報処理学会](http://www.ipsj.or.jp/)[第137回情報システムと社会環境研究発表会](http://ipsj-is.jp/2016/07/is137/), 2016年8月26日. (公立はこだて未来大学, Hakodate, Hokkaido) Japan.
 
 - <u>深見嘉明</u>. プレ標準化フェイズにおける仕様コンセプト収斂メカニズムの解析: 国土地理院・地理院地図のGitHub活用とコミュニケーション戦略, [情報処理学会](http://www.ipsj.or.jp/)[第137回情報システムと社会環境研究発表会](http://ipsj-is.jp/2016/07/is137/), 2016年8月26日. (公立はこだて未来大学, Hakodate, Hokkaido) Japan.
 
