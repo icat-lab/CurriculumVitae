@@ -1,5 +1,8 @@
 ## 論文/著書
 ### 著書 (分担執筆を含む)
+- **Yoshiaki Fukami** and Yoko Orito. The ethical issues on AI based medical information system architecture: the case of Tamba city model.
+In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María Lara Palma (eds.) [Societal Challenges in the Smart Society,](https://dialnet.unirioja.es/servlet/libro?codigo=769585) pp. 419-431, [Universidad de La Rioja,](https://dialnet.unirioja.es/institucion/unirioja/editor) 2020.
+
 - 亀川雅人編 [「最新500項目 経営学用語ハンドブック」](https://www.books-sosei.com/book/25546.html), 創成社, 2019年11月12日. [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4794425546/)
   - 深見は26項目を担当
 
