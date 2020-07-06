@@ -40,13 +40,16 @@
 
 - **深見嘉明**. 図書館とメタデータの新たな関係性―ユーザのアクティビティをどう活かすのか. [現代の図書館, Vol.50, No.2](http://jlakc.seesaa.net/article/285892498.html), pp. 106--113, 2012年6月. [(CiNii)](http://ci.nii.ac.jp/naid/40019368503)
 
-- **深見嘉明**. [日常生活に浸透するメタデータ](http://www.infosta.or.jp/journal/201012j.html#5). [情報の科学と技術](http://www.infosta.or.jp/journal/journal.html), [Vol.60](http://www.infosta.or.jp/journal/back2010j.html), [No.12](http://www.infosta.or.jp/journal/back2010j.html#12), [pp.501--506](http://www.infosta.or.jp/journal/201012j.html#5), 2010年12月1日. [(CiNii)](http://ci.nii.ac.jp/naid/110007989450)
+- **深見嘉明**. [日常生活に浸透するメタデータ](http://www.infosta.or.jp/journal/201012j.html#5). [情報の科学と技術](http://www.infosta.or.jp/journal/journal.html), [Vol.60](http://www.infosta.or.jp/journal/back2010j.html), [No.12](http://www.infosta.or.jp/journal/back2010j.html#12), [pp.501-506](http://www.infosta.or.jp/journal/201012j.html#5), 2010年12月1日. [(CiNii)](http://ci.nii.ac.jp/naid/110007989450)
 
 - **深見嘉明**, 國領二郎. [意図せざる協働−ソーシャルブックマークにおけるボトムアップメタデータ生成による情報共有−](https://infosocio.org/archives/paper/vol2no2-2). [情報社会学会誌](https://infosocio.org/archives/paper), [Vol. 2](https://infosocio.org/archives/papervolno/vol2), [No. 2](https://infosocio.org/archives/papervolno/vol2no2), pp. 6--19, 2007年6月.
 
 ### Springer books and Lecture Notes
+- **Yoshiaki Fukami** and Yoshimasa Masuda. [Stumbling Blocks of Utilizing Medical and Health Data: Success Factors Extracted from Australia–Japan Comparison](https://link.springer.com/chapter/10.1007/978-981-15-5852-8_2). In: [Yen-Wei Chen, Satoshi Tanaka, Robert J. Howlett and Lakhmi C. Jain (eds). Innovation in Medicine and Healthcare \| SpringerLink](https://link.springer.com/book/10.1007/978-981-15-5852-8): Proceedings of [8th KES-InMed 2020](http://inmed-20.kesinternational.org/), [Smart Innovation, Systems and Technologies](https://link.springer.com/bookseries/8767), vol. 192, pp. 15-25. [Springer Singapore](https://link.springer.com/), 2020. (2019年7月11日）
+  - [Scopus index](https://www.scopus.com/sourceid/21100204111)
+
 - **Yoshiaki Fukami** and Yoshimasa Masuda. [Success Factors for Realizing Regional Comprehensive Care by EHR with Administrative Data](https://link.springer.com/chapter/10.1007/978-981-13-8566-7_4). In: [Yen-Wei Chen, Alfred Zimmermann, Robert J. Howlett and Lakhmi C. Jain (eds).Innovation in Medicine and Healthcare Systems, and Multimedia](https://www.springer.com/gp/book/9789811385650#): Proceedings of [KES-InMed-19](http://inmed-19.kesinternational.org/) and KES-IIMSS-19 Conferences, [Smart Innovation, Systems and Technologies](https://www.springer.com/series/8767), Vol. 145, pp. 35-45, [Springer Singapore](https://link.springer.com/), 2019. (2019年7月6日）
-  - [Scopus index](https/www.scopus.com/sourceid/21100204111)
+  - [Scopus index](https://www.scopus.com/sourceid/21100204111)
   - [(Amazon.co.jp)](https://www.amazon.co.jp/dp/9811385653/)
 
 - **Yoshiaki Fukami**, Masao Isshiki, Hideaki Takeda, Ikki Ohmukai, and Jiro Kokuryo. [Specification Patent Management for Web Application Platform Ecosystem](http://www.springerlink.com/content/gx738105676q1671/). In: Zaman M., Liang Y., Siddiqui S.M., Wang T., Liu V., Lu C. (eds)[E-business Technology and Strategy.](https://link.springer.com/book/10.1007/978-3-642-16397-5)[CETS 2010.](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=9051&copyownerid=10425) [(2010 International Conference on E-business Technology & Strategy)](https://web.archive.org/web/20100417122741/http://www.cets2010.com/)[Communications in Computer and Information Science,](https://link.springer.com/bookseries/7899)Vol. 113, pp. 269-280, [Springer,](https://link.springer.com/) 2010.(2010年10月6日）
