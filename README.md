@@ -94,7 +94,7 @@
 
 ### 産業関連
 - [一般社団法人データ流通推進協議会](https://data-trading.org/) 
-     - 2019年6月-: 戦略企画委員会議長
+     - 2019年6月-: [戦略企画委員会](https://data-trading.org/activities/) 議長
      - 2019年10月-: [World Wide Web Consortium (W3C)](https://www.w3.org/), [Advisory commitee represantative](https://www.w3.org/Consortium/Member/List?__hstc=203306958.5bac5a80cf7e168316af0c9bbef9b878.1426636800051.1426636800052.1426636800053.1&__hssc=203306958.1.1426636800054&__hsfp=1314462730#xD)
 
 ### 学会関連
