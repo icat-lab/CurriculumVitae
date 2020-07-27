@@ -64,6 +64,9 @@
 
 - 2019年度 (補正）: [戦略的イノベーション創造プログラム（SIP）第2期／ビッグデータ・AIを活用したサイバー空間基盤技術](https://www.nedo.go.jp/koubo/CD2_100158.html)　におけるアーキテクチャ構築及び実証研究
   - [一般社団法人データ流通推進協議会](https://data-trading.org/)のメンバーとして参画
+  - 報告書
+     - [内閣府ウェブサイト](https://www8.cao.go.jp/cstp/stmain/20200318siparchitecture.html)
+     - [一般社団法人データ流通推進協議会ウェブサイト](https://data-trading.org/sipb-1_personaldataarchitecuture_dta/)
 
 - 2018-2020年度: 科研費 [「コネクテッド・イノベーションに必要な共有技術認識フレーム確立メカニズムの研究」](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18K12858/)
   - 課題番号: 18K12858
@@ -76,7 +79,9 @@
 ## 社会貢献活動
 ### 政府・行政関連
 - 一般社団法人オープン＆ビッグデータ活用・地方創生推進機構技術委員会 委員　（2014年10月14日〜現任）
-- 内閣府 令和元年度 イノベーション・エコシステムおける戦略的な標準の活用に関する調査研究 有識者発表 (2020年2月28日) [(研究会座長による報告資料)](https://www.kantei.go.jp/jp/singi/titeki2/tyousakai/kousou/2020/dai5/siryou7.pdf)  [(座長による報告が行われた会議:知的財産戦略本部　構想委員会（第５回）)](https://www.kantei.go.jp/jp/singi/titeki2/tyousakai/kousou/2020/dai5/gijisidai.html)
+- 内閣府 令和元年度 イノベーション・エコシステムおける戦略的な標準の活用に関する調査研究 有識者発表 (2020年2月28日) 
+     - [研究会座長による報告資料](https://www.kantei.go.jp/jp/singi/titeki2/tyousakai/kousou/2020/dai5/siryou7.pdf)  
+          - [座長による報告が行われた会議:知的財産戦略本部　構想委員会（第５回）](https://www.kantei.go.jp/jp/singi/titeki2/tyousakai/kousou/2020/dai5/gijisidai.html)
 - 経済産業省/ 独立行政法人情報処理推進機構　地方版IoT推進ラボ/ 大分県IoT推進ラボ メンター (2017年10月10日〜2018年3月31日)
 - 経済産業省/ 独立行政法人情報処理推進機構　共通語彙基盤ワーキンググループ 委員 (2014年1月7日〜2018年3月31日)
 - 経済産業省/ 独立行政法人情報処理推進機構　官民データの分野横断的な活用に関する検討会 委員 (2017年11月1日〜2017年3月31日)
@@ -88,7 +93,9 @@
 - 2017年6月-2019年6月: [経営情報学会](http://www.jasmin.jp/)理事、広報委員長: [普及誌担当=経営情報フォーラム編集長](https://iss.ndl.go.jp/books?rft.title=%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0&search_mode=advanced)
 
 ### 産業関連
-- 2019年6月-: [一般社団法人データ流通推進協議会](https://data-trading.org/) 戦略企画委員会議長、World Wide Web Consortium Account commitee represantative
+- [一般社団法人データ流通推進協議会](https://data-trading.org/) 
+     - 2019年6月-: 戦略企画委員会議長
+     - 2019年10月-: [World Wide Web Consortium (W3C)](https://www.w3.org/), [Advisory commitee represantative](https://www.w3.org/Consortium/Member/List?__hstc=203306958.5bac5a80cf7e168316af0c9bbef9b878.1426636800051.1426636800052.1426636800053.1&__hssc=203306958.1.1426636800054&__hsfp=1314462730#xD)
 
 ### 学会関連
 - 2019年6月-: [経営情報学会](http://www.jasmin.jp/)学会誌副編集長
