@@ -108,30 +108,32 @@ Marketing Researcher and Marketing Planner (1999-2003)
 - **深見嘉明**, 國領二郎. [意図せざる協働−ソーシャルブックマークにおけるボトムアップメタデータ生成による情報共有−](https://infosocio.org/archives/paper/vol2no2-2). [情報社会学会誌](https://infosocio.org/archives/paper), [Vol. 2](https://infosocio.org/archives/papervolno/vol2), [No. 2](https://infosocio.org/archives/papervolno/vol2no2), pp. 6--19, 2007年6月.
 
 ## Articles
-* Yoshiaki Fukami [“<HTML5> The Hot Keyword in Telecommunication Industry”](http://wirelesswire.jp/special/201112/01/) WirelessWire News, Tokyo, Japan. December 26, 2011  (written in Japanese: 「HTML5」2012年通信業界気になるキーワード)
+* **Yoshiaki Fukami** [“<HTML5> The Hot Keyword in Telecommunication Industry”](http://wirelesswire.jp/special/201112/01/) WirelessWire News, Tokyo, Japan. December 26, 2011  (written in Japanese: 「HTML5」2012年通信業界気になるキーワード)
 
-* Yoshiaki Fukami (supervising) “A decade chronicle of the Web Standard” Web Designing, vol. July-2011, pp. 56-57, Mainichi Communications, Tokyo, Japan. (written in Japanese: 「Web標準を巡る10年」Web Designing 2011年6月号)
+* Y**Yoshiaki Fukami** (supervising) “A decade chronicle of the Web Standard” Web Designing, vol. July-2011, pp. 56-57, Mainichi Communications, Tokyo, Japan. (written in Japanese: 「Web標準を巡る10年」Web Designing 2011年6月号)
 
-* Yoshiaki Fukami “From POS system to Crowd Computing Based Analysis: the History of Data Processing” Extra Edition of Economist (Japanese): The Winner of Bigdata Economy, vol. August-9th-2010, pp. 43-45, The Mainichi Newspapers, Tokyo, Japan. (written in Japanese: POSからクラウド　データ処理の歩みをたどる. 『エコノミスト増刊 巨大データ経済の勝者』2010年8月9日号増刊)
+* **Yoshiaki Fukami** “From POS system to Crowd Computing Based Analysis: the History of Data Processing” Extra Edition of Economist (Japanese): The Winner of Bigdata Economy, vol. August-9th-2010, pp. 43-45, The Mainichi Newspapers, Tokyo, Japan. (written in Japanese: POSからクラウド　データ処理の歩みをたどる. 『エコノミスト増刊 巨大データ経済の勝者』2010年8月9日号増刊)
 
 ## Academic Presentations
 ### 2019
-- <u>Y. Fukami</u>. Standardization for innovation with data exchange. [The 2nd International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC).](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/)[2019年11月8日.](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/schedule.html) [(China National Convention Center \(CNCC\), Beijing)](http://icdm2019.bigke.org/)
+- **Yoshiaki Fukami**. Standardization for innovation with data exchange. [The 2nd International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC).](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/)[2019年11月8日.](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/schedule.html) [(China National Convention Center \(CNCC\), Beijing)](http://icdm2019.bigke.org/)
   - Best presentation award
 
-- <u>Y. Fukami</u>. How communities of users appear in standardization processes like ghost. [The 37th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2019)](https://www.york.ac.uk/management/events/2019/scos-conference-2019-york/). [2019年7月9日](https://www.york.ac.uk/media/tyms/documents/events/archive2018-19/Draft%20timetable%20for%20circulationv3.pdf). ([The King's Manor,](https://www.york.ac.uk/about/campus/landmarks/kings-manor/) [York management school,](https://www.york.ac.uk/management/) [University of York.](https://www.york.ac.uk/))
+- **Yoshiaki Fukami**. How communities of users appear in standardization processes like ghost. [The 37th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2019)](https://www.york.ac.uk/management/events/2019/scos-conference-2019-york/). [2019年7月9日](https://www.york.ac.uk/media/tyms/documents/events/archive2018-19/Draft%20timetable%20for%20circulationv3.pdf). ([The King's Manor,](https://www.york.ac.uk/about/campus/landmarks/kings-manor/) [York management school,](https://www.york.ac.uk/management/) [University of York.](https://www.york.ac.uk/))
 
-* Yoshiaki Fukami. “From “Rough-consensus to Running-code” to Implementation-oriented Policy:
+- **Yoshiaki Fukami** and Yoshimasa Masuda. “Success factors for realizing regional comprehensive care by HER with Administrative data” In proceedings of The 7th KES International Conference on Innovation in Medicine and Healthcare. June, 2019.
+
+* **Yoshiaki Fukami**. “From “Rough-consensus to Running-code” to Implementation-oriented Policy:
 Maturity Process of Compatibility Standardization Process” In proceedings of Japan Society for Information and Management 78th Annual Conference, 2018.
 (Young Investigator Award of the conference）
 (written in Japanese: Rough-consensus, running-code”から実装主義へ: 相互可用性標準確立プロセスの成熟化)
 
-* Yoshiaki Fukami and Takumi Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms. In Proceedings of Twenty-Second Pacific Asia Conference on Information Systems, pp. 2273-2285, June 29, 2018.
+* **Yoshiaki Fukami** and Takumi Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms. In Proceedings of Twenty-Second Pacific Asia Conference on Information Systems, pp. 2273-2285, June 29, 2018.
 
-- <u>Y. Fukami</u>. [Google’s strategy to transform web architecture: Innovation through standardization overcoming framing contest.](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing) [The 36th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2018)](http://scos2018.org/)  2018年8月18日. [明治大学, Tokyo](https://www.meiji.ac.jp/) [(予稿集PDF)](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing)
+- **Yoshiaki Fukami**. [Google’s strategy to transform web architecture: Innovation through standardization overcoming framing contest.](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing) [The 36th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2018)](http://scos2018.org/)  2018年8月18日. [明治大学, Tokyo](https://www.meiji.ac.jp/) [(予稿集PDF)](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing)
 
 ## Technical Presentations
-* Takumi Shimizu, Fuyuko Matsumura, Toru Takahashi, Iwao Kobayashi, Fumihiro Kato, Hiroshi Ueda, Yoshiaki Fukami and Hideaki Takeda. “Bottom up Activities for linked open data, open government in Japan” Open Data on the Web (Workshop jointly held by the W3C/ Open Data Institute/ Open Knowledge Foundation). 2014
+* Takumi Shimizu, Fuyuko Matsumura, Toru Takahashi, Iwao Kobayashi, Fumihiro Kato, Hiroshi Ueda, **Yoshiaki Fukami** and Hideaki Takeda. “Bottom up Activities for linked open data, open government in Japan” Open Data on the Web (Workshop jointly held by the W3C/ Open Data Institute/ Open Knowledge Foundation). 2014
 
 ## Professional Presentations
 * November 2016	“Extended Role of University Libraries How to Utilize Metadata of Bibliography” Annual Workshop of Keio University Library, Tokyo, Japan.
