@@ -76,9 +76,36 @@ Marketing Researcher and Marketing Planner (1999-2003)
 * Yoshiaki Fukami “Metadata is changing the world” NTT Publishing, Tokyo, Japan. 2009 (written in Japanese: 『ウェブは菩薩である ～メタデータが世界を変える』)
 
 ## Book Chapters
+- **Yoshiaki Fukami** and Yoshimasa Masuda. [Stumbling Blocks of Utilizing Medical and Health Data: Success Factors Extracted from Australia–Japan Comparison](https://link.springer.com/chapter/10.1007/978-981-15-5852-8_2). In: [Yen-Wei Chen, Satoshi Tanaka, Robert J. Howlett and Lakhmi C. Jain (eds). Innovation in Medicine and Healthcare \| SpringerLink](https://link.springer.com/book/10.1007/978-981-15-5852-8): Proceedings of [8th KES-InMed 2020](http://inmed-20.kesinternational.org/), [Smart Innovation, Systems and Technologies](https://link.springer.com/bookseries/8767), vol. 192, pp. 15-25. [Springer Singapore](https://link.springer.com/), 2020. (2019年7月11日）
+
+- **Yoshiaki Fukami** and Yoshimasa Masuda. [Success Factors for Realizing Regional Comprehensive Care by EHR with Administrative Data](https://link.springer.com/chapter/10.1007/978-981-13-8566-7_4). In: [Yen-Wei Chen, Alfred Zimmermann, Robert J. Howlett and Lakhmi C. Jain (eds).Innovation in Medicine and Healthcare Systems, and Multimedia](https://www.springer.com/gp/book/9789811385650#): Proceedings of [KES-InMed-19](http://inmed-19.kesinternational.org/) and KES-IIMSS-19 Conferences, [Smart Innovation, Systems and Technologies](https://www.springer.com/series/8767), Vol. 145, pp. 35-45, [Springer Singapore](https://link.springer.com/), 2019. (2019年7月6日）
+  - [(Amazon.co.jp)](https://www.amazon.co.jp/dp/9811385653/)
+
 * Yoshiaki Fukami “Platform Strategy suited for IoT based technology: How to Develop and Engage Ecosystems”, in Rikkyo Business School (eds.) Business Design and Business Science, , pp. 227-247, Soseisha, Tokyo, Japan. 2016 (written in Japanese: 「IoT時代のプラットフォーム戦略―エコシステムをどう作り上げ,関与するのか―」『ビジネスデザインと経営学』)
 
 * Yoshiaki Fukami and Takeshi Natsuno “Behaviour Analysis in Activities for Building Ecosystems: Competitive Strategy of Platforms in Standardizing Processes”, in Jiro Kokuryo (ed.) Platform for Emergence, Nikkei Newspaper Publishing, Tokyo, Japan. 2011 (written in Japanese: 「エコシステム形成のフラットフォーム:標準化活動の行動分析」『創発経営のプラットフォーム』)
+
+- **Yoshiaki Fukami**, Masao Isshiki, Hideaki Takeda, Ikki Ohmukai, and Jiro Kokuryo. [Specification Patent Management for Web Application Platform Ecosystem](http://www.springerlink.com/content/gx738105676q1671/). In: Zaman M., Liang Y., Siddiqui S.M., Wang T., Liu V., Lu C. (eds)[E-business Technology and Strategy.](https://link.springer.com/book/10.1007/978-3-642-16397-5)[CETS 2010.](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=9051&copyownerid=10425) [(2010 International Conference on E-business Technology & Strategy)](https://web.archive.org/web/20100417122741/http://www.cets2010.com/)[Communications in Computer and Information Science,](https://link.springer.com/bookseries/7899)Vol. 113, pp. 269-280, [Springer,](https://link.springer.com/) 2010.(2010年10月6日）
+  - [Lecture Notes in Computer Science LNCS](https://www.springer.com/gp/computer-science/lncs)
+  - [(Amazon.co.jp)](https://www.amazon.co.jp/dp/3642163963/)
+
+
+## Papers
+- **Yoshiaki Fukami**.[Standardization Procedure for Data Exchange](https://www.mdpi.com/2078-2489/11/6/339),  [*Information*](https://www.mdpi.com/journal/information), [Vol. 11](https://www.mdpi.com/2078-2489/11), [Issue. 6](https://www.mdpi.com/2078-2489/11/6), 2020年6月25日.
+
+- 古崎晃司， 横山輝明， **深見嘉明**. [GPS移動履歴の収集とオープンデータを用いた移動軌跡のLOD化 ─国際会議ISWC2016における実証実験を例として─.](https://www.ipsj.or.jp/dp/contents/publication/33/S0901-T09.html) [情報処理学会デジタルプラクティス](https://www.ipsj.or.jp/dp/contents/dp-mokuji.html) [Vol.9, No.1.](https://www.ipsj.or.jp/dp/contents/publication/33/S0901-index.html) 2018年1月.
+
+- **深見嘉明**. [個人による情報収集からコミュニティベースの論点設定へ 〜ウェブ技術の進化による価値創造プロセスの変化.](http://ci.nii.ac.jp/naid/110009685946) [情報の科学と技術](http://www.infosta.or.jp/journal/journal.html), [Vol.63](http://www.infosta.or.jp/journal/back2013j.html), [No.12](http://www.infosta.or.jp/journal/back2013j.html#12), pp. 486~491, 2013年12月1日. [(CiNii)](http://ci.nii.ac.jp/naid/110009685946/)
+
+- **深見嘉明**. [共有プラットフォームとしてのソフトウェア標準: W3Cにおける実装主義設計プロセスが形成するエコシステム](http://ci.nii.ac.jp/naid/40019466731). [国際公共経済研究](http://ciriec.com/journal), Vol.23, pp. 102-112, 2012年9月. [(CiNii)](http://ci.nii.ac.jp/naid/40019466731)
+
+- 一色 正男, **深見 嘉明**. [コンシューマが切り拓くディジタル化社会の新しい潮流：1. ソーシャルメディアなどコンシューマ参加型サービスを発展させる標準技術](http://id.nii.ac.jp/1001/00083888/), [情報処理](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=1&page_no=1&list_view_num=20&sort_order=7&page_id=13&block_id=8), [Vol. 53](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=6573&page_no=1&list_view_num=20&sort_order=7&page_id=13&block_id=8), [No. 10](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=6576&page_no=1&list_view_num=20&sort_order=7&page_id=13&block_id=8), pp. 1014-1020,  2012年9月15日. [(CiNii)](http://ci.nii.ac.jp/naid/40019437137)
+
+- **深見嘉明**. 図書館とメタデータの新たな関係性―ユーザのアクティビティをどう活かすのか. [現代の図書館, Vol.50, No.2](http://jlakc.seesaa.net/article/285892498.html), pp. 106--113, 2012年6月. [(CiNii)](http://ci.nii.ac.jp/naid/40019368503)
+
+- **深見嘉明**. [日常生活に浸透するメタデータ](http://www.infosta.or.jp/journal/201012j.html#5). [情報の科学と技術](http://www.infosta.or.jp/journal/journal.html), [Vol.60](http://www.infosta.or.jp/journal/back2010j.html), [No.12](http://www.infosta.or.jp/journal/back2010j.html#12), [pp.501-506](http://www.infosta.or.jp/journal/201012j.html#5), 2010年12月1日. [(CiNii)](http://ci.nii.ac.jp/naid/110007989450)
+
+- **深見嘉明**, 國領二郎. [意図せざる協働−ソーシャルブックマークにおけるボトムアップメタデータ生成による情報共有−](https://infosocio.org/archives/paper/vol2no2-2). [情報社会学会誌](https://infosocio.org/archives/paper), [Vol. 2](https://infosocio.org/archives/papervolno/vol2), [No. 2](https://infosocio.org/archives/papervolno/vol2no2), pp. 6--19, 2007年6月.
 
 ## Articles
 * Yoshiaki Fukami [“<HTML5> The Hot Keyword in Telecommunication Industry”](http://wirelesswire.jp/special/201112/01/) WirelessWire News, Tokyo, Japan. December 26, 2011  (written in Japanese: 「HTML5」2012年通信業界気になるキーワード)
@@ -88,7 +115,11 @@ Marketing Researcher and Marketing Planner (1999-2003)
 * Yoshiaki Fukami “From POS system to Crowd Computing Based Analysis: the History of Data Processing” Extra Edition of Economist (Japanese): The Winner of Bigdata Economy, vol. August-9th-2010, pp. 43-45, The Mainichi Newspapers, Tokyo, Japan. (written in Japanese: POSからクラウド　データ処理の歩みをたどる. 『エコノミスト増刊 巨大データ経済の勝者』2010年8月9日号増刊)
 
 ## Academic Presentations
-* Yoshiaki Fukami and Yoshimasa Masuda. “Success factors for realizing regional comprehensive care by HER with Administrative data” In proceedings of The 7th KES International Conference on Innovation in Medicine and Healthcare. June, 2019.
+### 2019
+- <u>Y. Fukami</u>. Standardization for innovation with data exchange. [The 2nd International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC).](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/)[2019年11月8日.](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/schedule.html) [(China National Convention Center \(CNCC\), Beijing)](http://icdm2019.bigke.org/)
+  - Best presentation award
+
+- <u>Y. Fukami</u>. How communities of users appear in standardization processes like ghost. [The 37th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2019)](https://www.york.ac.uk/management/events/2019/scos-conference-2019-york/). [2019年7月9日](https://www.york.ac.uk/media/tyms/documents/events/archive2018-19/Draft%20timetable%20for%20circulationv3.pdf). ([The King's Manor,](https://www.york.ac.uk/about/campus/landmarks/kings-manor/) [York management school,](https://www.york.ac.uk/management/) [University of York.](https://www.york.ac.uk/))
 
 * Yoshiaki Fukami. “From “Rough-consensus to Running-code” to Implementation-oriented Policy:
 Maturity Process of Compatibility Standardization Process” In proceedings of Japan Society for Information and Management 78th Annual Conference, 2018.
@@ -96,6 +127,8 @@ Maturity Process of Compatibility Standardization Process” In proceedings of J
 (written in Japanese: Rough-consensus, running-code”から実装主義へ: 相互可用性標準確立プロセスの成熟化)
 
 * Yoshiaki Fukami and Takumi Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms. In Proceedings of Twenty-Second Pacific Asia Conference on Information Systems, pp. 2273-2285, June 29, 2018.
+
+- <u>Y. Fukami</u>. [Google’s strategy to transform web architecture: Innovation through standardization overcoming framing contest.](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing) [The 36th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2018)](http://scos2018.org/)  2018年8月18日. [明治大学, Tokyo](https://www.meiji.ac.jp/) [(予稿集PDF)](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing)
 
 ## Technical Presentations
 * Takumi Shimizu, Fuyuko Matsumura, Toru Takahashi, Iwao Kobayashi, Fumihiro Kato, Hiroshi Ueda, Yoshiaki Fukami and Hideaki Takeda. “Bottom up Activities for linked open data, open government in Japan” Open Data on the Web (Workshop jointly held by the W3C/ Open Data Institute/ Open Knowledge Foundation). 2014
