@@ -2,7 +2,7 @@
 July 5th, 2019
 
 # Affiliation
-## 2020-  Specially Appointed Professor at [Department of Management](https://www.univ.gakushuin.ac.jp/eco/en/education/management/), [Gakushuin University Faculty of Economics](https://www.univ.gakushuin.ac.jp/eco/en/), [Gakushuin University](https://www.univ.gakushuin.ac.jp/en/)
+## 2020-  Specially Appointed Professor at [Department of Management](https://www.univ.gakushuin.ac.jp/eco/en/education/management/), [Faculty of Economics](https://www.univ.gakushuin.ac.jp/eco/en/), [Gakushuin University](https://www.univ.gakushuin.ac.jp/en/)
 * Fields: Enterprize Architecture, Data Architecture, Standardization Strategy, Open Collaborative Innovation, Platform Strategy
 * In charge of classes; Business design with IoT related technologies, Technology management, IT business update, Platform strategy, Management strategy.
 
