@@ -114,7 +114,7 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 ## Articles
 * **Yoshiaki Fukami** [“<HTML5> The Hot Keyword in Telecommunication Industry”](http://wirelesswire.jp/special/201112/01/) WirelessWire News, Tokyo, Japan. December 26, 2011  (written in Japanese: 「HTML5」2012年通信業界気になるキーワード)
 
-* Y**Yoshiaki Fukami** (supervising) “A decade chronicle of the Web Standard” Web Designing, vol. July-2011, pp. 56-57, Mainichi Communications, Tokyo, Japan. (written in Japanese: 「Web標準を巡る10年」Web Designing 2011年6月号)
+* **Yoshiaki Fukami** (supervising) “A decade chronicle of the Web Standard” Web Designing, vol. July-2011, pp. 56-57, Mainichi Communications, Tokyo, Japan. (written in Japanese: 「Web標準を巡る10年」Web Designing 2011年6月号)
 
 * **Yoshiaki Fukami** “From POS system to Crowd Computing Based Analysis: the History of Data Processing” Extra Edition of Economist (Japanese): The Winner of Bigdata Economy, vol. August-9th-2010, pp. 43-45, The Mainichi Newspapers, Tokyo, Japan. (written in Japanese: POSからクラウド　データ処理の歩みをたどる. 『エコノミスト増刊 巨大データ経済の勝者』2010年8月9日号増刊)
 
