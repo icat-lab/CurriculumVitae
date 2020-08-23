@@ -96,17 +96,12 @@
 - 総務省　オープンデータ流通推進コンソーシアム 技術委員会 委員 (2012年9月〜2014年10月。その後、一般社団法人オープン＆ビッグデータ活用・地方創生推進機構へ移行。委員の委嘱は継続)
 
 ### 学会関連
-- 2019年6月-: [経営情報学会](http://www.jasmin.jp/)学会誌副編集長
-- 2017年6月-2019年6月: [経営情報学会](http://www.jasmin.jp/)理事、広報委員長: [普及誌担当=経営情報フォーラム編集長](https://iss.ndl.go.jp/books?rft.title=%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0&search_mode=advanced)
-
+- 2019年6月-: [経営情報学会](http://www.jasmin.jp/)[学会誌](https://www.jstage.jst.go.jp/browse/jjasmin/-char/ja)副編集長
+- 2017年6月-2019年6月: [経営情報学会](http://www.jasmin.jp/)理事、広報委員長: [普及誌担当=経営情報フォーラム](https://iss.ndl.go.jp/books?rft.title=%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0&search_mode=advanced)編集長
 ### 産業関連
 - [一般社団法人データ流通推進協議会](https://data-trading.org/) 
      - 2019年6月-: [戦略企画委員会](https://data-trading.org/activities/) 議長
      - 2019年10月-: [World Wide Web Consortium (W3C)](https://www.w3.org/), [Advisory commitee represantative](https://www.w3.org/Consortium/Member/List?__hstc=203306958.5bac5a80cf7e168316af0c9bbef9b878.1426636800051.1426636800052.1426636800053.1&__hssc=203306958.1.1426636800054&__hsfp=1314462730#xD)
-
-### 学会関連
-- 2019年6月-: [経営情報学会](http://www.jasmin.jp/)[学会誌](https://www.jstage.jst.go.jp/browse/jjasmin/-char/ja)副編集長
-- 2017年6月-2019年6月: [経営情報学会](http://www.jasmin.jp/)理事、広報委員長: [普及誌担当=経営情報フォーラム](https://iss.ndl.go.jp/books?rft.title=%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0&search_mode=advanced)編集長
 
 ## 研究業績
 - [論文/著書](https://github.com/icat-lab/CurriculumVitae.md/blob/master/researchPapers.md)
