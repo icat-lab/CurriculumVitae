@@ -69,6 +69,9 @@ Marketing Researcher and Marketing Planner (1999-2003)
 
 # Publications/ Academic presentations
 ## Books
+- **Yoshiaki Fukami** and Jiro Kokuryo. Artificial Intelligence for Social Good. In: [Artificial Intelligence for Social Good,](https://apru.org/resource/artificial-intelligence-for-social-good/) pp. 12–21, [Association of Pacific Rim Universities Limited (APRU)](https://apru.org/) and Keio University, 2020/
+  - ISBN: 979-988-77283-0-6
+
 - **Yoshiaki Fukami** and Yoko Orito. The ethical issues on AI based medical information system architecture: the case of Tamba city model.
 In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María Lara Palma (eds.) [*Societal Challenges in the Smart Society*,](https://dialnet.unirioja.es/servlet/libro?codigo=769585) pp. 419-431, [Universidad de La Rioja,](https://dialnet.unirioja.es/institucion/unirioja/editor) 2020.
   - ISBN: 978-84-09-20272-0
