@@ -34,6 +34,8 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 - **深見嘉明**. ソーシャルタギング ―意図せざる協働が生みだす新たな情報流通形態―. [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/)[政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)2007年度修士論文, 2007. [(PDF)](http://web.sfc.keio.ac.jp/~yofukami/y_fukami_master_thesis.pdf)
 
 ### 学会論文誌
+- 清水たくみ、早矢仕晃章、**深見嘉明**、松島裕康、坂地泰紀、大澤幸生. [データ流通エコシステムにおけるプラットフォームを媒介とした価値創造.](https://www.soumu.go.jp/main_content/000717808.pdf)  [情報通信政策研究](https://www.jstage.jst.go.jp/browse/jicp/-char/ja) [第4巻, 第1号.](https://www.soumu.go.jp/iicp/journal/02iicp01_04000234.html) 2020年11月.
+
 - **Yoshiaki Fukami**.[Standardization Procedure for Data Exchange](https://www.mdpi.com/2078-2489/11/6/339),  [*Information*](https://www.mdpi.com/journal/information), [Vol. 11](https://www.mdpi.com/2078-2489/11), [Issue. 6](https://www.mdpi.com/2078-2489/11/6), 2020年6月25日.
   - [Scopus index](https://www.scopus.com/sourceid/21100223111)
   - [Information\_MDPI on Twitter](https://twitter.com/InformationMDPI/status/1277458528148439041)
