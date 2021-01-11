@@ -34,7 +34,7 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 - **深見嘉明**. ソーシャルタギング ―意図せざる協働が生みだす新たな情報流通形態―. [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/)[政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)2007年度修士論文, 2007. [(PDF)](http://web.sfc.keio.ac.jp/~yofukami/y_fukami_master_thesis.pdf)
 
 ### 学会論文誌
-- 清水たくみ、早矢仕晃章、**深見嘉明**、松島裕康、坂地泰紀、大澤幸生. [データ流通エコシステムにおけるプラットフォームを媒介とした価値創造.](https://www.soumu.go.jp/main_content/000717808.pdf)  [情報通信政策研究](https://www.jstage.jst.go.jp/browse/jicp/-char/ja) [第4巻, 第1号.](https://www.soumu.go.jp/iicp/journal/02iicp01_04000234.html) 2020年11月.
+- 清水たくみ、早矢仕晃章、**深見嘉明**、松島裕康、坂地泰紀、大澤幸生. [データ流通エコシステムにおけるプラットフォームを媒介とした価値創造.](https://www.soumu.go.jp/main_content/000717808.pdf)  [情報通信政策研究](https://www.jstage.jst.go.jp/browse/jicp/-char/ja) [Vol. 4, No. 1,](https://www.soumu.go.jp/iicp/journal/02iicp01_04000234.html)[pp.103\-123](https://www.jstage.jst.go.jp/article/jicp/4/1/4_103/_article/-char/ja), 2020年11月20日.
 
 - **Yoshiaki Fukami**.[Standardization Procedure for Data Exchange](https://www.mdpi.com/2078-2489/11/6/339),  [*Information*](https://www.mdpi.com/journal/information), [Vol. 11](https://www.mdpi.com/2078-2489/11), [Issue. 6](https://www.mdpi.com/2078-2489/11/6), 2020年6月25日.
   - [Scopus index](https://www.scopus.com/sourceid/21100223111)
@@ -72,3 +72,7 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 ### 紀要
 - **深見嘉明**.  [医療・ヘルスケア領域におけるイノベーション源泉拡張と普及: コンテストの導入と患者起点イノベーション](https://rikkyo.repo.nii.ac.jp/?action=repository_uri&item_id=14097). [立教DBA ジャーナル](https://rikkyo.repo.nii.ac.jp/?action=repository_opensearch&index_id=71&count=50&order=17&pn=1), [No. 7](https://rikkyo.repo.nii.ac.jp/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=1775&pn=1&count=50&order=17&lang=japanese&page_id=13&block_id=49), [pp. 1-13](https://rikkyo.repo.nii.ac.jp/?action=repository_uri&item_id=14097), 2016.
   - [CiNii](https://ci.nii.ac.jp/naid/120005993712/)
+
+
+### Preprint
+- Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima, **Yoshiaki Fukami**, Takumi Shimizu, Yukio Ohsawa. [Data Combination for Problem\-solving: A Case of an Open Data Exchange Platform.](https://arxiv.org/abs/2012.11746)[arXiv:2012\.11746](https://arxiv.org/abs/2012.11746) 21 December 2020.
