@@ -1,19 +1,9 @@
 ### 学会口頭発表
-#### 2021
-- **深見嘉明**、清水たくみ、松島裕康. [IDアーキテクチャの分散化がもたらすデータ流通に及ぼす影響の検討](https://www.ieice.org/ken/paper/20210212yCcK/), [電子情報通信学会](https://www.ieice.org/jpn_r/)[人工知能と知識処理研究会](https://www.ieice.org/iss/ai/jpn/) [データ市場特集VII：生活防災とコミュニティ・デザイン」および一般.](https://www.ieice.org/iss/ai/jpn/20210212.html) 2021年2月12日. [(ホテルサン人吉)](https://www.sunhitoyoshi.jp/)
-  - JSPS科研費 20H02384
-
-- 早矢仕晃章、清水たくみ、**深見嘉明.** [データ協創プラットフォームとしてのKaggleにおける協同問題解決に関する一考察](https://www.ieice.org/ken/paper/20210212XCc9/), [電子情報通信学会](https://www.ieice.org/jpn_r/)[人工知能と知識処理研究会](https://www.ieice.org/iss/ai/jpn/) [データ市場特集VII：生活防災とコミュニティ・デザイン」および一般.](https://www.ieice.org/iss/ai/jpn/20210212.html) 2021年2月12日. [(ホテルサン人吉)](https://www.sunhitoyoshi.jp/)
-  - JSPS科研費 20H02384
-
-- 坂地泰紀、早矢仕晃章、**深見嘉明**、和泉　潔. [データ流通プラットフォームにおけるメタデータの概要に基づく類似性判定](https://www.ieice.org/ken/paper/202102126CcK/), [電子情報通信学会](https://www.ieice.org/jpn_r/)[人工知能と知識処理研究会](https://www.ieice.org/iss/ai/jpn/) [データ市場特集VII：生活防災とコミュニティ・デザイン」および一般.](https://www.ieice.org/iss/ai/jpn/20210212.html) 2021年2月12日. [(ホテルサン人吉)](https://www.sunhitoyoshi.jp/)
-  - JSPS科研費 20H02384
-
 #### 2020
 - **Y. Fukami** and Y. Masuda. Governance for realization of medical, nursing and administration data
  integration system. [APAMI 2020 \- 11th Biennial Conference of the Asia\-Pacific Association for Medical Informatics.](http://apami2020.org/index.html) 2020年11月22日. , [(Act city Hamamatsu Congress center /アクトシティ浜松コングレスセンター, Hamamatsu, Shizuoka)](https://www.actcity.jp/visitor/congress/)
   - JSPS科研費 18K12858
-
+  
 #### 2019
 - **Y. Fukami**. Standardization for innovation with data exchange. [The 2nd International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC).](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/)[2019年11月8日.](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/schedule.html) [(China National Convention Center \(CNCC\), Beijing)](http://icdm2019.bigke.org/)
   - JSPS科研費 18K12858
