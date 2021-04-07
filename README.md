@@ -9,7 +9,7 @@
 ## 略歴
 博士(政策・メディア)  
 1976年京都府京都市生まれ。  
-[青山学院大学](http://www.aoyama.ac.jp/index.html) [国際政治経済学部](http://www.sipeb.aoyama.ac.jp/) [国際政治学科](http://www.aoyama.ac.jp/college/sipec/politics/index.html) 卒業後、[株式会社電通リサーチ](http://www.dentsuresearch.co.jp/)[(現 株式会社電通マクロミルインサイト)](http://www.dentsu-mi.co.jp/)にて通信・自動車・メディア企業等に対するマーケティングリサーチ・コンサルティングに従事し、ウェブリサーチ・ウェブをベースとしたマーケティングインテリジェンスビジネスに関する新規事業開発に携わった後、[慶應義塾大学大学院](http://www.sfc.keio.ac.jp/academics/graduate/)[政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)に入学。 [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院政策・メディア研究科](http://www.sfc.keio.ac.jp/academics/graduate/) 特任助教時に[World Wide Web Consortium](http://www.w3.org/)[(W3C/Keio)](http://www.w3.org/Consortium/Hosts/Keio/Contact)インターンとしてプロモーション、ディベロッパーリレーション等の活動に従事。現在、[学習院大学](https://www.univ.gakushuin.ac.jp/)[経済学部](https://www.univ.gakushuin.ac.jp/eco/)[経営学科](https://www.univ.gakushuin.ac.jp/eco/education/management/index.html)[特別客員教授](https://www.univ.gakushuin.ac.jp/eco/education/professor/list/man/fukami.html)、[慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院政策・メディア研究科](http://www.sfc.keio.ac.jp/academics/graduate/)特任准教授/ [サイバー文明研究センター](https://www.ccrc.keio.ac.jp/)[メンバー](https://www.ccrc.keio.ac.jp/members/)、[Linked Open Data Initiative | 特定非営利活動法人リンクト・オープン・データ・イニシアティブ](http://linkedopendata.jp/)理事。[Open Data Institute](http://opendatainstitute.org/) [Osaka City Node](http://theodi.jp/) [Leading Team](http://theodi.jp/team/)。[慶應義塾大学SFC研究所](http://www.kri.sfc.keio.ac.jp/)上席所員。現在は、ウェブプラットフォーム設計とコミュニティ形成、メタデータを媒介としたコンテンツ流通戦略、データ連携に必要な技術策定と普及、ソフトウェア標準化戦略、オープンデータ、オープンガバメントなどウェブ・情報技術をベースにした情報流通形態に関して研究・活動を行っている。
+[青山学院大学](http://www.aoyama.ac.jp/index.html) [国際政治経済学部](http://www.sipeb.aoyama.ac.jp/) [国際政治学科](http://www.aoyama.ac.jp/college/sipec/politics/index.html) 卒業後、[株式会社電通リサーチ](http://www.dentsuresearch.co.jp/)[(現 株式会社電通マクロミルインサイト)](http://www.dentsu-mi.co.jp/)にて通信・自動車・メディア企業等に対するマーケティングリサーチ・コンサルティングに従事し、ウェブリサーチ・ウェブをベースとしたマーケティングインテリジェンスビジネスに関する新規事業開発に携わった後、[慶應義塾大学大学院](http://www.sfc.keio.ac.jp/academics/graduate/)[政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)に入学。 [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院政策・メディア研究科](http://www.sfc.keio.ac.jp/academics/graduate/) 特任助教時に[World Wide Web Consortium](http://www.w3.org/)[(W3C/Keio)](http://www.w3.org/Consortium/Hosts/Keio/Contact)インターンとしてプロモーション、ディベロッパーリレーション等の活動に従事。現在、[学習院大学](https://www.univ.gakushuin.ac.jp/)[経済学部](https://www.univ.gakushuin.ac.jp/eco/)[経営学科](https://www.univ.gakushuin.ac.jp/eco/education/management/index.html)[特別客員教授](https://www.univ.gakushuin.ac.jp/eco/education/professor/list/man/fukami.html)、[慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[医学部](http://www.med.keio.ac.jp/index.html)[医療政策・管理学教室](http://www.hpm.med.keio.ac.jp/index.html) 特任研究員/ [サイバー文明研究センター](https://www.ccrc.keio.ac.jp/)[メンバー](https://www.ccrc.keio.ac.jp/members/)、[東京理科大学](https://www.tus.ac.jp/)[経営学部](https://dept.tus.ac.jp/mgt/)[国際デザイン経営学科](https://www.tus.ac.jp/idm/) 非常勤講師、[Linked Open Data Initiative | 特定非営利活動法人リンクト・オープン・データ・イニシアティブ](http://linkedopendata.jp/)理事。[Open Data Institute](http://opendatainstitute.org/) [Osaka City Node](http://theodi.jp/) [Leading Team](http://theodi.jp/team/)。[慶應義塾大学SFC研究所](http://www.kri.sfc.keio.ac.jp/)上席所員。現在は、ウェブプラットフォーム設計とコミュニティ形成、メタデータを媒介としたコンテンツ流通戦略、データ連携に必要な技術策定と普及、ソフトウェア標準化戦略、オープンデータ、オープンガバメントなどウェブ・情報技術をベースにした情報流通形態に関して研究・活動を行っている。
 
 ## ORCID
 [0000-0002-7838-8215](http://orcid.org/0000-0002-7838-8215)
@@ -50,8 +50,10 @@
 - [ビジネスクリエーター研究学会](http://www.business-creator.org/)
 
 ## 職歴/教歴
+- 2021年4月-現任: [東京理科大学](https://www.tus.ac.jp/)[経営学部](https://dept.tus.ac.jp/mgt/)[国際デザイン経営学科](https://www.tus.ac.jp/idm/) 非常勤講師
+- 2021年4月-現任: [慶應義塾大学](http://www.keio.ac.jp/index-jp.html) [医学部](http://www.med.keio.ac.jp/index.html)[医療政策・管理学教室](http://www.hpm.med.keio.ac.jp/index.html) 特任研究員
 - 2020年4月-現任: [学習院大学](https://www.univ.gakushuin.ac.jp/)[経済学部](https://www.univ.gakushuin.ac.jp/eco/)[経営学科](https://www.univ.gakushuin.ac.jp/eco/education/management/index.html)[特別客員教授](https://www.univ.gakushuin.ac.jp/eco/education/professor/list/man/fukami.html)
-- 2019年8月-現任: [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院政策・メディア研究科](http://www.sfc.keio.ac.jp/academics/graduate/)特任准教授
+- 2019年8月-2021年3月: [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院政策・メディア研究科](http://www.sfc.keio.ac.jp/academics/graduate/)特任准教授
 - 2015年4月-2020年3月: [立教大学](https://www.rikkyo.ac.jp/) [大学院](https://www.rikkyo.ac.jp/academics/graduate/)[ビジネスデザイン研究科](https://business-school.rikkyo.ac.jp/)[特任准教授](http://univdb.rikkyo.ac.jp/view?l=ja&u=100001304&a2=0000010&o=affiliation&sm=affiliation&sl=ja&sp=2)
 - 2014年4月-2016年3月: [成蹊大学](http://www.seikei.ac.jp/university/)[文学部](http://www.seikei.ac.jp/university/bungaku/index.html)[現代社会学科](http://www.seikei.ac.jp/university/bungaku/contemporary/index.html)非常勤講師
 - 2012年4月-2014年3月: [立教大学](https://www.rikkyo.ac.jp/)[経営学部](http://www.rikkyo.ac.jp/academics/undergraduate/business/)兼任講師
@@ -86,7 +88,7 @@
 ## 社会貢献活動
 ### 政府・行政関連
 - 一般社団法人オープン＆ビッグデータ活用・地方創生推進機構技術委員会 委員　（2014年10月14日〜現任）
-- 内閣府 令和元年度 イノベーション・エコシステムおける戦略的な標準の活用に関する調査研究 有識者発表 (2020年2月28日) 
+- 内閣府 令和元年度 イノベーション・エコシステムおける戦略的な標準の活用に関する調査研究 有識者発表 (2020年2月28日)
      - [研究会座長による報告資料](https://www.kantei.go.jp/jp/singi/titeki2/tyousakai/kousou/2020/dai5/siryou7.pdf)  
           - [座長による報告が行われた会議:知的財産戦略本部　構想委員会（第５回）](https://www.kantei.go.jp/jp/singi/titeki2/tyousakai/kousou/2020/dai5/gijisidai.html)
 - 経済産業省/ 独立行政法人情報処理推進機構　地方版IoT推進ラボ/ 大分県IoT推進ラボ メンター (2017年10月10日〜2018年3月31日)
@@ -99,7 +101,7 @@
 - 2019年6月-: [経営情報学会](http://www.jasmin.jp/)[学会誌](https://www.jstage.jst.go.jp/browse/jjasmin/-char/ja)副編集長
 - 2017年6月-2019年6月: [経営情報学会](http://www.jasmin.jp/)理事、広報委員長: [普及誌担当=経営情報フォーラム](https://iss.ndl.go.jp/books?rft.title=%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0&search_mode=advanced)編集長
 ### 産業関連
-- [一般社団法人データ流通推進協議会](https://data-trading.org/) 
+- [一般社団法人データ流通推進協議会](https://data-trading.org/)
      - 2019年6月-: [戦略企画委員会](https://data-trading.org/activities/) 議長
      - 2019年10月-: [World Wide Web Consortium (W3C)](https://www.w3.org/), [Advisory commitee represantative](https://www.w3.org/Consortium/Member/List?__hstc=203306958.5bac5a80cf7e168316af0c9bbef9b878.1426636800051.1426636800052.1426636800053.1&__hssc=203306958.1.1426636800054&__hsfp=1314462730#xD)
 

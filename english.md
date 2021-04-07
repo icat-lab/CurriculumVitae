@@ -2,15 +2,14 @@
 July 5th, 2019
 
 # Affiliation
+## 2021- Parttime Lecturer at [Department of International Digital and Design Management,](https://www.tus.ac.jp/idm/index-en.html)[School of Management,](https://www.tus.ac.jp/en/fac/keiei/)[Tokyo University of Science](https://www.tus.ac.jp/en/)
+
+## 2021-  Visiting Researcher at [Department of Health Policy and Management](http://www.hpm.med.keio.ac.jp/), [School of Medicine](http://www.med.keio.ac.jp/en/index.html), [Keio University](https://www.keio.ac.jp/en/)
+* As a member of [Cyber Civilization Research Center](https://www.ccrc.keio.ac.jp/)
+
 ## 2020-  Specially Appointed Professor at [Department of Management](https://www.univ.gakushuin.ac.jp/eco/en/education/management/), [Faculty of Economics](https://www.univ.gakushuin.ac.jp/eco/en/), [Gakushuin University](https://www.univ.gakushuin.ac.jp/en/)
 * Fields: Enterprize Architecture, Data Architecture, Standardization Strategy, Open Collaborative Innovation, Platform Strategy
 * In charge of classes; Business design with IoT related technologies, Technology management, IT business update, Platform strategy, Management strategy.
-
-## 2019-  Specially Appointed Associate Professor at Graduate School of Media and Governance, Keio University
-* As a member of [Cyber Civilization Research Center](https://www.ccrc.keio.ac.jp/)
-
-## 2015-2020  Specially Appointed Associate Professor at Graduate School of Business Administration, Rikkyo University
-* In charge of classes; Innovation management, Media business theory, Technology marketing, business game and business plan development.
 
 ## 2012-  Director (strategy and promotion of open data and standard for open data on the Web) at Linked Open Data Initiative (a specified non-profit corporation of Japan)
 * I have introduced new concept of not only open data but also of collaboration scheme through data transaction among many and unspecified firms.
@@ -26,6 +25,11 @@ July 5th, 2019
 ## 1999	B.A.  (International Politics and Economics), Aoyama Gakuin University, Tokyo, Japan
 
 # Professional Experience
+## August 2019 to March 2021  Specially Appointed Associate Professor at Graduate School of Media and Governance, Keio University
+
+## April 2015 to March 2020  Specially Appointed Associate Professor at Graduate School of Business Administration, Rikkyo University
+* In charge of classes; Innovation management, Media business theory, Technology marketing, business game and business plan development.
+
 ## April 2014 to March 2016:	Part Time Lecturer, Faculty of Humanities, Seikei University, Tokyo, Japan
 * In charge of classes; Connected society theory
 
