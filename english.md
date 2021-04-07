@@ -9,7 +9,7 @@ July 5th, 2019
 
 ## 2020-  Specially Appointed Professor at [Department of Management](https://www.univ.gakushuin.ac.jp/eco/en/education/management/), [Faculty of Economics](https://www.univ.gakushuin.ac.jp/eco/en/), [Gakushuin University](https://www.univ.gakushuin.ac.jp/en/)
 * Fields: Enterprize Architecture, Data Architecture, Standardization Strategy, Open Collaborative Innovation, Platform Strategy
-* In charge of classes; Business design with IoT related technologies, Technology management, IT business update, Platform strategy, Management strategy.
+* In charge of classes; Business design with IoT related technologies, Technology management, IT business update, Platform strategy, Management strategy, [Baic seminar for 1st grade of undergraduate](https://github.com/icat-lab/icat_lab/blob/master/basic_seminar_undergrad/basic_seminar.md).
 
 ## 2012-  Director (strategy and promotion of open data and standard for open data on the Web) at Linked Open Data Initiative (a specified non-profit corporation of Japan)
 * I have introduced new concept of not only open data but also of collaboration scheme through data transaction among many and unspecified firms.
