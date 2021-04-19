@@ -1,5 +1,9 @@
 # Curriculum Vitae of Yoshiaki FUKAMI
-July 5th, 2019
+April 20th, 2021
+
+Yoshiaki Fukami (PhD):
+Yoshiaki Fukami is a Specially Appointed Professor at Department of Management at Gakushuin University, and Visiting Researcher at School of Medicine at Keio University. He worked at Rikkyo Business School (Specially Appointed Associate Professor, 2015-2020). He is a director of The Japan Society for Management Information. He received his Ph. D. (Media and Governance) from Keio University.
+Fukami's specialization is in standardization strategy, platform strategy, open collaborative innovation. He has contributed to Open data technical strategy of government at the Vitalizing Local Economy Organization by Open Data & Big Data (a member of Technical Committee), the Committee at the Infrastructure for Multi-layer Interoperability Working group, the Committee at The Research Committee of Scheme for Interoperability of Public-sector Information, and Technical Committee at the Open Data Promotion Consortium. Information-technology Promotion Agency, Japan. He has also contributed to web standardization activities at the World Wide Web Consortium. He was awarded the Young Investigator Award 2018 autumn by Japan Society for Information and Management. He is the author of books; "Utilizing web application for your business" (Discover Twenty-One Publishing, 2010), "Metadata is changing the world" (NTT Publishing, 2009), and chapter; Platform Strategy suited for IoT based technology: How to Develop and Engage Ecosystems, in "Business Design and Business Science" (Soseisha, 2016), Behavior Analysis in Activities for Building Ecosystems: Competitive Strategy of Platforms in Standardizing Processes in "Platform for Emergence" (Nikkei Newspaper Publishing, 2011). He is also the editor of a book; "Technical review of HTML5 to enhance skills for web contents development" (RIC Telecom Publishing, 2012).
 
 # Affiliation
 ## 2021- Parttime Lecturer at [Department of International Digital and Design Management,](https://www.tus.ac.jp/idm/index-en.html)[School of Management,](https://www.tus.ac.jp/en/fac/keiei/)[Tokyo University of Science](https://www.tus.ac.jp/en/)
