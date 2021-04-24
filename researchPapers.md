@@ -1,7 +1,10 @@
 ## 論文/著書
 ### 著書 (分担執筆を含む)
-- **Yoshiaki Fukami** and Jiro Kokuryo. Artificial Intelligence for Social Good. In: [Artificial Intelligence for Social Good,](https://apru.org/resource/artificial-intelligence-for-social-good/) pp. 12–21, [Association of Pacific Rim Universities Limited (APRU)](https://apru.org/) and Keio University, 2020/
+- **Yoshiaki Fukami** and Jiro Kokuryo. Artificial Intelligence for Social Good. In: [Artificial Intelligence for Social Good,](https://apru.org/resource/artificial-intelligence-for-social-good/) pp. 12–21, [Association of Pacific Rim Universities Limited (APRU)](https://apru.org/) and Keio University, [September, 19.2020.](https://apru.org/ai-for-social-good-network-releases-new-report/))
   - ISBN: 979-988-77283-0-6
+  - Press releases
+    - [APRU](https://apru.org/ai-for-social-good-network-releases-new-report/)
+    - [Keio University](https://www.keio.ac.jp/en/press-releases/2020/Sep/18/49-75130/)
 
 - **Yoshiaki Fukami** and Yohko Orito. The ethical issues on AI based medical information system architecture: the case of Tamba city model.
 In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María Lara Palma (eds.) [Societal Challenges in the Smart Society,](https://dialnet.unirioja.es/servlet/libro?codigo=769585) pp. 419-431, [Universidad de La Rioja,](https://dialnet.unirioja.es/institucion/unirioja/editor) 2020.
