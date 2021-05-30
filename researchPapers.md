@@ -37,11 +37,16 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 - **深見嘉明**. ソーシャルタギング ―意図せざる協働が生みだす新たな情報流通形態―. [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/)[政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)2007年度修士論文, 2007. [(PDF)](http://web.sfc.keio.ac.jp/~yofukami/y_fukami_master_thesis.pdf)
 
 ### 学会論文誌
+- Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima, **Yoshiaki Fukami**, Takumi Shimizu & Yukio Ohsawa. [Data Combination for Problem\-Solving: A Case of an Open Data Exchange Platform](https://link.springer.com/article/10.1007/s12626-021-00083-8), [The Review of Socionetwork Strategies,](https://www.springer.com/journal/12626) 2021年5月29日.
+  - JSPS科研費 20H02384
+
 - 清水たくみ、早矢仕晃章、**深見嘉明**、松島裕康、坂地泰紀、大澤幸生. [データ流通エコシステムにおけるプラットフォームを媒介とした価値創造.](https://www.soumu.go.jp/main_content/000717808.pdf)  [情報通信政策研究](https://www.jstage.jst.go.jp/browse/jicp/-char/ja) [Vol. 4, No. 1,](https://www.soumu.go.jp/iicp/journal/02iicp01_04000234.html) [pp.103\-123](https://www.jstage.jst.go.jp/article/jicp/4/1/4_103/_article/-char/ja), 2020年11月20日.
+  - JSPS科研費 20H02384
 
 - **Yoshiaki Fukami**.[Standardization Procedure for Data Exchange](https://www.mdpi.com/2078-2489/11/6/339),  [*Information*](https://www.mdpi.com/journal/information), [Vol. 11](https://www.mdpi.com/2078-2489/11), [Issue. 6](https://www.mdpi.com/2078-2489/11/6), 2020年6月25日.
   - [Scopus index](https://www.scopus.com/sourceid/21100223111)
   - [Information\_MDPI on Twitter](https://twitter.com/InformationMDPI/status/1277458528148439041)
+  - DOI: https://doi.org/10.3390/info11060339
 
 - 古崎晃司， 横山輝明， **深見嘉明**. [GPS移動履歴の収集とオープンデータを用いた移動軌跡のLOD化 ─国際会議ISWC2016における実証実験を例として─.](https://www.ipsj.or.jp/dp/contents/publication/33/S0901-T09.html) [情報処理学会デジタルプラクティス](https://www.ipsj.or.jp/dp/contents/dp-mokuji.html) [Vol.9, No.1.](https://www.ipsj.or.jp/dp/contents/publication/33/S0901-index.html) 2018年1月.
 
@@ -60,6 +65,7 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 ### Springer books and Lecture Notes
 - **Yoshiaki Fukami** and Yoshimasa Masuda. [Stumbling Blocks of Utilizing Medical and Health Data: Success Factors Extracted from Australia–Japan Comparison](https://link.springer.com/chapter/10.1007/978-981-15-5852-8_2). In: [Yen-Wei Chen, Satoshi Tanaka, Robert J. Howlett and Lakhmi C. Jain (eds). Innovation in Medicine and Healthcare \| SpringerLink](https://link.springer.com/book/10.1007/978-981-15-5852-8): Proceedings of [8th KES-InMed 2020](http://inmed-20.kesinternational.org/), [Smart Innovation, Systems and Technologies](https://link.springer.com/bookseries/8767), vol. 192, pp. 15-25. [Springer Singapore](https://link.springer.com/), 2020. (2020年7月11日）
   - [Scopus index](https://www.scopus.com/sourceid/21100204111)
+  - DOI: https://doi.org/10.1007/978-981-15-5852-8_2
 
 - **Yoshiaki Fukami** and Yoshimasa Masuda. [Success Factors for Realizing Regional Comprehensive Care by EHR with Administrative Data](https://link.springer.com/chapter/10.1007/978-981-13-8566-7_4). In: [Yen-Wei Chen, Alfred Zimmermann, Robert J. Howlett and Lakhmi C. Jain (eds).Innovation in Medicine and Healthcare Systems, and Multimedia](https://www.springer.com/gp/book/9789811385650#): Proceedings of [KES-InMed-19](http://inmed-19.kesinternational.org/) and KES-IIMSS-19 Conferences, [Smart Innovation, Systems and Technologies](https://www.springer.com/series/8767), Vol. 145, pp. 35-45, [Springer Singapore](https://link.springer.com/), 2019. (2019年7月6日）
   - [Scopus index](https://www.scopus.com/sourceid/21100204111)
