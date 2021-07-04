@@ -63,7 +63,7 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 - **深見嘉明**, 國領二郎. [意図せざる協働−ソーシャルブックマークにおけるボトムアップメタデータ生成による情報共有−](https://infosocio.org/archives/paper/vol2no2-2). [情報社会学会誌](https://infosocio.org/archives/paper), [Vol. 2](https://infosocio.org/archives/papervolno/vol2), [No. 2](https://infosocio.org/archives/papervolno/vol2no2), pp. 6--19, 2007年6月.
 
 ### Springer books and Lecture Notes
-- **Yoshiaki Fukami** and Yoshimasa Masuda. [Support for COVID-19 Vaccination in Tamba City’s Regional Comprehensive Care System](https://link.springer.com/chapter/10.1007/978-981-16-3013-2_2). In: [Yen-Wei Chen, Satoshi Tanaka, Robert J. Howlett and Lakhmi C. Jain (eds). Innovation in Medicine and Healthcare](https://www.springer.com/gp/book/9789811630125): Proceedings of [8th KES-InMed 2020](http://inmed-21.kesinternational.org/), [Smart Innovation, Systems and Technologies](https://link.springer.com/bookseries/8767), vol. 242, pp. 15-25. [Springer Singapore](https://link.springer.com/), 2021. (2021年7月6日）
+- **Yoshiaki Fukami** and Yoshimasa Masuda. [Support for COVID-19 Vaccination in Tamba City’s Regional Comprehensive Care System](https://link.springer.com/chapter/10.1007/978-981-16-3013-2_2). In: [Yen-Wei Chen, Satoshi Tanaka, Robert J. Howlett and Lakhmi C. Jain (eds). Innovation in Medicine and Healthcare](https://www.springer.com/gp/book/9789811630125): Proceedings of [9th KES-InMed 2020](http://inmed-21.kesinternational.org/), [Smart Innovation, Systems and Technologies](https://link.springer.com/bookseries/8767), vol. 242, pp. 15-25. [Springer Singapore](https://link.springer.com/), 2021. (2021年7月6日）
   - [Scopus index](https://www.scopus.com/sourceid/21100204111)
   - DOI: https://doi.org/10.1007/978-981-16-3013-2_2
 
