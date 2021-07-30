@@ -89,4 +89,4 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 
 
 ### Preprint
-- Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima, **Yoshiaki Fukami**, Takumi Shimizu, Yukio Ohsawa. [Data Combination for Problem\-solving: A Case of an Open Data Exchange Platform.](https://arxiv.org/abs/2012.11746)  [arXiv:2012\.11746](https://arxiv.org/abs/2012.11746) 21 December 2020.
+- Teruaki Hayashi, Takumi Shimizu, **Yoshiaki Fukami**. [Collaborative Problem Solving on a Data Platform Kaggle](https://arxiv.org/abs/2107.11929) 26 July 2021.
