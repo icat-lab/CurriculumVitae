@@ -1,5 +1,9 @@
 ### 学会口頭発表
 #### 2021
+- **Y. Fukami**. [Ethical Dilemmas on the Medical Data Platform for Patient\-Centred Approaches: Consideration from Macro and Micro Perspectives](https://dialnet.unirioja.es/servlet/articulo?codigo=7977297), Oliva,  M. A., Borondo, J. P., Murata, K. and Lara, E. M. R. (Eds.) [Normal Technology Ethics, Proceedings](https://dialnet.unirioja.es/servlet/libro?codigo=824595) of [the ETHICOMP 2021](https://www.unirioja.es/ethicomp/2021/), pp. 264-267, 2021年6月30日. [(online)](https://www.unirioja.es/ethicomp/2021/venue.html)
+  - ISBN: 978-84-09-28671-3
+  - JSPS科研費 20H02384
+  - 
 - **深見嘉明**、清水たくみ、松島裕康. [IDアーキテクチャの分散化がもたらすデータ流通に及ぼす影響の検討](https://www.ieice.org/ken/paper/20210212yCcK/), [電子情報通信学会](https://www.ieice.org/jpn_r/)[人工知能と知識処理研究会](https://www.ieice.org/iss/ai/jpn/) [データ市場特集VII：生活防災とコミュニティ・デザイン」および一般.](https://www.ieice.org/iss/ai/jpn/20210212.html) 2021年2月12日. [(ホテルサン人吉)](https://www.sunhitoyoshi.jp/)
   - JSPS科研費 20H02384
 
