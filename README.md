@@ -137,3 +137,6 @@
   - [【後編】ブラウザ戦争、HTML5の標準化、ブラウザの未来,](https://codeiq.jp/magazine/2016/04/40093/) 2016年4月22日.
 
 - [HTML5に関わらないと日本企業は世界から遅れる,](http://www.atmarkit.co.jp/fwcr/design/benkyo/html5_05/01.html) [＠IT](https://www.atmarkit.co.jp/) 2010年4月6日.
+
+# 招待講演など
+- **Y. Fukami**.[ "Knowledge Production – The Limits of Big Data and AI,"](https://speakerdeck.com/rhys_no1/knowledge-production-the-limits-of-big-data-and-ai) [Knowledge Production in a Data Driven Society,](https://www.dijtokyo.org/event/knowledge-production-in-a-data-driven-society/) [MWS Web Forum Series 'The Digital Transformation,](https://www.dijtokyo.org/event-series/digital-transformation/) [ドイツ日本研究所 (Deutsches Institut für Japanstudien: DJI,)](https://www.dijtokyo.org/ja/) [2021年9月23日,　オンライン.](https://www.dijtokyo.org/event/knowledge-production-in-a-data-driven-society/) [(Speaker Deck)](https://speakerdeck.com/rhys_no1/knowledge-production-the-limits-of-big-data-and-ai)
