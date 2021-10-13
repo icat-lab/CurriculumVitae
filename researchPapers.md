@@ -37,6 +37,9 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 - **深見嘉明**. ソーシャルタギング ―意図せざる協働が生みだす新たな情報流通形態―. [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/)[政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)2007年度修士論文, 2007. [(PDF)](http://web.sfc.keio.ac.jp/~yofukami/y_fukami_master_thesis.pdf)
 
 ### 学会論文誌
+- **Yoshiaki Fukami**  [Open and Clarified Process of Compatibility Standards for Promoting Data Exchange](https://link.springer.com/article/10.1007/s12626-021-00087-4), [The Review of Socionetwork Strategies](https://www.springer.com/journal/12626) 2021年10月8日.
+  - JSPS科研費 20H02384
+
 - Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima, **Yoshiaki Fukami**, Takumi Shimizu & Yukio Ohsawa. [Data Combination for Problem\-Solving: A Case of an Open Data Exchange Platform](https://link.springer.com/article/10.1007/s12626-021-00083-8), [The Review of Socionetwork Strategies,](https://www.springer.com/journal/12626) 2021年5月29日.
   - JSPS科研費 20H02384
 
