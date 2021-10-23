@@ -2,7 +2,7 @@
 April 20th, 2021
 
 Yoshiaki Fukami (PhD):
-Yoshiaki Fukami is a Visiting Professor at Department of Management at Gakushuin University, and Visiting Researcher at School of Medicine at Keio University. He worked at Rikkyo Business School (Specially Appointed Associate Professor, 2015-2020). He is a director of The Japan Society for Management Information. He received his Ph. D. (Media and Governance) from Keio University.
+Yoshiaki Fukami is a Visiting Professor at Department of Management at Gakushuin University, Visiting Senior Researcher at Keio University Global Research Institute and Visiting Researcher at School of Medicine at Keio University. He worked at Rikkyo Business School (Specially Appointed Associate Professor, 2015-2020). He is a director of The Japan Society for Management Information. He received his Ph. D. (Media and Governance) from Keio University.
 Fukami's specialization is in standardization strategy, platform strategy, open collaborative innovation. He has contributed to Open data technical strategy of government at the Vitalizing Local Economy Organization by Open Data & Big Data (a member of Technical Committee), the Committee at the Infrastructure for Multi-layer Interoperability Working group, the Committee at The Research Committee of Scheme for Interoperability of Public-sector Information, and Technical Committee at the Open Data Promotion Consortium. Information-technology Promotion Agency, Japan. He has also contributed to web standardization activities at the World Wide Web Consortium. He was awarded the Young Investigator Award 2018 autumn by Japan Society for Information and Management. He is the author of books; "Utilizing web application for your business" (Discover Twenty-One Publishing, 2010), "Metadata is changing the world" (NTT Publishing, 2009), and chapter; Platform Strategy suited for IoT based technology: How to Develop and Engage Ecosystems, in "Business Design and Business Science" (Soseisha, 2016), Behavior Analysis in Activities for Building Ecosystems: Competitive Strategy of Platforms in Standardizing Processes in "Platform for Emergence" (Nikkei Newspaper Publishing, 2011). He is also the editor of a book; "Technical review of HTML5 to enhance skills for web contents development" (RIC Telecom Publishing, 2012).
 
 # Affiliation
@@ -106,7 +106,19 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 
 
 ## Papers
+- **Yoshiaki Fukami**,  [Open and Clarified Process of Compatibility Standards for Promoting Data Exchange](https://link.springer.com/article/10.1007/s12626-021-00087-4), [The Review of Socionetwork Strategies](https://www.springer.com/journal/12626) 2021年10月8日.
+  - JSPS科研費 20H02384
+
+- Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima, **Yoshiaki Fukami**, Takumi Shimizu & Yukio Ohsawa. [Data Combination for Problem\-Solving: A Case of an Open Data Exchange Platform](https://link.springer.com/article/10.1007/s12626-021-00083-8), [The Review of Socionetwork Strategies,](https://www.springer.com/journal/12626) 2021年5月29日.
+  - JSPS科研費 20H02384
+
+- 清水たくみ、早矢仕晃章、**深見嘉明**、松島裕康、坂地泰紀、大澤幸生. [データ流通エコシステムにおけるプラットフォームを媒介とした価値創造.](https://www.soumu.go.jp/main_content/000717808.pdf)  [情報通信政策研究](https://www.jstage.jst.go.jp/browse/jicp/-char/ja) [Vol. 4, No. 1,](https://www.soumu.go.jp/iicp/journal/02iicp01_04000234.html) [pp.103\-123](https://www.jstage.jst.go.jp/article/jicp/4/1/4_103/_article/-char/ja), 2020年11月20日.
+  - JSPS科研費 20H02384
+
 - **Yoshiaki Fukami**.[Standardization Procedure for Data Exchange](https://www.mdpi.com/2078-2489/11/6/339),  [*Information*](https://www.mdpi.com/journal/information), [Vol. 11](https://www.mdpi.com/2078-2489/11), [Issue. 6](https://www.mdpi.com/2078-2489/11/6), 2020年6月25日.
+  - [Scopus index](https://www.scopus.com/sourceid/21100223111)
+  - [Information\_MDPI on Twitter](https://twitter.com/InformationMDPI/status/1277458528148439041)
+  - DOI: https://doi.org/10.3390/info11060339
 
 - 古崎晃司， 横山輝明， **深見嘉明**. [GPS移動履歴の収集とオープンデータを用いた移動軌跡のLOD化 ─国際会議ISWC2016における実証実験を例として─.](https://www.ipsj.or.jp/dp/contents/publication/33/S0901-T09.html) [情報処理学会デジタルプラクティス](https://www.ipsj.or.jp/dp/contents/dp-mokuji.html) [Vol.9, No.1.](https://www.ipsj.or.jp/dp/contents/publication/33/S0901-index.html) 2018年1月.
 
@@ -123,27 +135,40 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 - **深見嘉明**, 國領二郎. [意図せざる協働−ソーシャルブックマークにおけるボトムアップメタデータ生成による情報共有−](https://infosocio.org/archives/paper/vol2no2-2). [情報社会学会誌](https://infosocio.org/archives/paper), [Vol. 2](https://infosocio.org/archives/papervolno/vol2), [No. 2](https://infosocio.org/archives/papervolno/vol2no2), pp. 6--19, 2007年6月.
 
 ## Articles
-* **Yoshiaki Fukami** [“<HTML5> The Hot Keyword in Telecommunication Industry”](http://wirelesswire.jp/special/201112/01/) WirelessWire News, Tokyo, Japan. December 26, 2011  (written in Japanese: 「HTML5」2012年通信業界気になるキーワード)
+* **Y. Fukami** [“<HTML5> The Hot Keyword in Telecommunication Industry”](http://wirelesswire.jp/special/201112/01/) WirelessWire News, Tokyo, Japan. December 26, 2011  (written in Japanese: 「HTML5」2012年通信業界気になるキーワード)
 
-* **Yoshiaki Fukami** (supervising) “A decade chronicle of the Web Standard” Web Designing, vol. July-2011, pp. 56-57, Mainichi Communications, Tokyo, Japan. (written in Japanese: 「Web標準を巡る10年」Web Designing 2011年6月号)
+* **Y. Fukami** (supervising) “A decade chronicle of the Web Standard” Web Designing, vol. July-2011, pp. 56-57, Mainichi Communications, Tokyo, Japan. (written in Japanese: 「Web標準を巡る10年」Web Designing 2011年6月号)
 
-* **Yoshiaki Fukami** “From POS system to Crowd Computing Based Analysis: the History of Data Processing” Extra Edition of Economist (Japanese): The Winner of Bigdata Economy, vol. August-9th-2010, pp. 43-45, The Mainichi Newspapers, Tokyo, Japan. (written in Japanese: POSからクラウド　データ処理の歩みをたどる. 『エコノミスト増刊 巨大データ経済の勝者』2010年8月9日号増刊)
+* **Y. Fukami** “From POS system to Crowd Computing Based Analysis: the History of Data Processing” Extra Edition of Economist (Japanese): The Winner of Bigdata Economy, vol. August-9th-2010, pp. 43-45, The Mainichi Newspapers, Tokyo, Japan. (written in Japanese: POSからクラウド　データ処理の歩みをたどる. 『エコノミスト増刊 巨大データ経済の勝者』2010年8月9日号増刊)
 
 ## Academic Presentations
+### 2021
+- **Y. Fukami**. [Ethical Dilemmas on the Medical Data Platform for Patient\-Centred Approaches: Consideration from Macro and Micro Perspectives](https://dialnet.unirioja.es/servlet/articulo?codigo=7977297), Oliva,  M. A., Borondo, J. P., Murata, K. and Lara, E. M. R. (Eds.) [Normal Technology Ethics, Proceedings](https://dialnet.unirioja.es/servlet/libro?codigo=824595) of [the ETHICOMP 2021](https://www.unirioja.es/ethicomp/2021/), pp. 264-267, 2021年6月30日. [(online)](https://www.unirioja.es/ethicomp/2021/venue.html)
+  - ISBN: 978-84-09-28671-3
+  - Fund: JSPS-Kakenhi 20H02384
+
+### 2020
+- **Y. Fukami** and Y. Masuda. Governance for realization of medical, nursing and administration data
+ integration system. [APAMI 2020 \- 11th Biennial Conference of the Asia\-Pacific Association for Medical Informatics.](http://apami2020.org/index.html) 2020年11月22日. , [(Act city Hamamatsu Congress center /アクトシティ浜松コングレスセンター, Hamamatsu, Shizuoka)](https://www.actcity.jp/visitor/congress/)
+  - Fund: JSPS-Kakenhi 18K12858
+
 ### 2019
-- **Yoshiaki Fukami**. Standardization for innovation with data exchange. [The 2nd International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC).](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/)[2019年11月8日.](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/schedule.html) [(China National Convention Center \(CNCC\), Beijing)](http://icdm2019.bigke.org/)
+- **Y. Fukami**. Standardization for innovation with data exchange. [The 2nd International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC).](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/)[2019年11月8日.](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/schedule.html) [(China National Convention Center \(CNCC\), Beijing)](http://icdm2019.bigke.org/)
+  - Fund: JSPS-Kakenhi 18K12858
   - Best presentation award
 
-- **Yoshiaki Fukami**. How communities of users appear in standardization processes like ghost. [The 37th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2019)](https://www.york.ac.uk/management/events/2019/scos-conference-2019-york/). [2019年7月9日](https://www.york.ac.uk/media/tyms/documents/events/archive2018-19/Draft%20timetable%20for%20circulationv3.pdf). ([The King's Manor,](https://www.york.ac.uk/about/campus/landmarks/kings-manor/) [York management school,](https://www.york.ac.uk/management/) [University of York.](https://www.york.ac.uk/))
+- **Y. Fukami**. How communities of users appear in standardization processes like ghost. [The 37th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2019)](https://www.york.ac.uk/management/events/2019/scos-conference-2019-york/). [2019年7月9日](https://www.york.ac.uk/media/tyms/documents/events/archive2018-19/Draft%20timetable%20for%20circulationv3.pdf). ([The King's Manor,](https://www.york.ac.uk/about/campus/landmarks/kings-manor/) [York management school,](https://www.york.ac.uk/management/) [University of York.](https://www.york.ac.uk/))
+  - Fund: JSPS-Kakenhi 18K12858
 
 - **Yoshiaki Fukami** and Yoshimasa Masuda. “Success factors for realizing regional comprehensive care by HER with Administrative data” In proceedings of The 7th KES International Conference on Innovation in Medicine and Healthcare. June, 2019.
 
+### 2018
 * **Yoshiaki Fukami**. “From “Rough-consensus to Running-code” to Implementation-oriented Policy:
 Maturity Process of Compatibility Standardization Process” In proceedings of Japan Society for Information and Management 78th Annual Conference, 2018.
-(Young Investigator Award of the conference）
-(written in Japanese: Rough-consensus, running-code”から実装主義へ: 相互可用性標準確立プロセスの成熟化)
+  - Young Investigator Award of the conference
+  - Written in Japanese: Rough-consensus, running-code”から実装主義へ: 相互可用性標準確立プロセスの成熟化
 
-* **Yoshiaki Fukami** and Takumi Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms. In Proceedings of Twenty-Second Pacific Asia Conference on Information Systems, pp. 2273-2285, June 29, 2018.
+- **Yoshiaki Fukami** and Takumi Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms.  In [Proceedings](http://bit.ly/PACIS2018:title=Proceedings) of [Twenty-Second Pacific Asia Conference on Information Systems (PACIS 2018)](http://pacis2018.org/index.html), pp. 2273-2285, June 29, 2018, [Yokohama Royal Park Hotel,](https://www.yrph.com/) Yokohama, Japan.
 
 - **Yoshiaki Fukami**. [Google’s strategy to transform web architecture: Innovation through standardization overcoming framing contest.](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing) [The 36th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2018)](http://scos2018.org/)  2018年8月18日. [明治大学, Tokyo](https://www.meiji.ac.jp/) [(予稿集PDF)](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing)
 
