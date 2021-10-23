@@ -3,7 +3,7 @@
 - **Y. Fukami**. [Ethical Dilemmas on the Medical Data Platform for Patient\-Centred Approaches: Consideration from Macro and Micro Perspectives](https://dialnet.unirioja.es/servlet/articulo?codigo=7977297), Oliva,  M. A., Borondo, J. P., Murata, K. and Lara, E. M. R. (Eds.) [Normal Technology Ethics, Proceedings](https://dialnet.unirioja.es/servlet/libro?codigo=824595) of [the ETHICOMP 2021](https://www.unirioja.es/ethicomp/2021/), pp. 264-267, 2021年6月30日. [(online)](https://www.unirioja.es/ethicomp/2021/venue.html)
   - ISBN: 978-84-09-28671-3
   - JSPS科研費 20H02384
-  - 
+
 - **深見嘉明**、清水たくみ、松島裕康. [IDアーキテクチャの分散化がもたらすデータ流通に及ぼす影響の検討](https://www.ieice.org/ken/paper/20210212yCcK/), [電子情報通信学会](https://www.ieice.org/jpn_r/)[人工知能と知識処理研究会](https://www.ieice.org/iss/ai/jpn/) [データ市場特集VII：生活防災とコミュニティ・デザイン」および一般.](https://www.ieice.org/iss/ai/jpn/20210212.html) 2021年2月12日. [(ホテルサン人吉)](https://www.sunhitoyoshi.jp/)
   - JSPS科研費 20H02384
 
@@ -41,6 +41,8 @@
 - **Y. Fukami**. [Google’s strategy to transform web architecture: Innovation through standardization overcoming framing contest.](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing) [The 36th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2018)](http://scos2018.org/)  2018年8月18日. [明治大学, Tokyo](https://www.meiji.ac.jp/) [(予稿集PDF)](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing)
 
 - **深見嘉明**. [データ互換性標準におけるオープンウェブプラットフォーム導入の影響分析.](http://www.jsicr.jp/doc/taikai2018/spring/G-2.pdf) [情報通信学会](http://www.jsicr.jp/)[2018年度春季(第38回)大会](http://www.jsicr.jp/operation/taikai/38tai-spring-member.html). 2018年7月1日. 慶應義塾大学 三田キャンパス, Tokyo. [(要旨PDF)](http://www.jsicr.jp/doc/taikai2018/spring/G-2.pdf)
+
+- **Y. Fukami** and T. Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms. In [Proceedings](http://pacis2018.org/program.html) of [Twenty-Second Pacific Asia Conference on Information Systems (PACIS 2018)](http://pacis2018.org/index.html), pp. 2273-2285, June 29, 2018 (2018年6月29日) , [Yokohama Royal Park Hotel,](https://www.yrph.com/) Yokohama, Japan. [(予稿集PDF)](http://bit.ly/PACIS2018:title=Proceedings)
 
 - **深見嘉明**, 清水たくみ. [オープンデジタルプラットフォームによるエコシステム形成](https://confit.atlas.jp/guide/event-img/aaos2018s/aaos2018s_K_20180609/proceedings), [2018年度組織学会研究発表大会.](https://confit.atlas.jp/guide/event/aaos2018s/top) 2018年6月9日. (東京大学本郷キャンパス, Tokyo.) [(予稿集PDF)](https://confit.atlas.jp/guide/event-img/aaos2018s/aaos2018s_K_20180609/proceedings)
 
