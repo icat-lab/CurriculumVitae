@@ -37,7 +37,10 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 - **深見嘉明**. ソーシャルタギング ―意図せざる協働が生みだす新たな情報流通形態―. [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/)[政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)2007年度修士論文, 2007. [(PDF)](http://web.sfc.keio.ac.jp/~yofukami/y_fukami_master_thesis.pdf)
 
 ### 学会論文誌
-- **Yoshiaki Fukami**  [Open and Clarified Process of Compatibility Standards for Promoting Data Exchange](https://link.springer.com/article/10.1007/s12626-021-00087-4), [The Review of Socionetwork Strategies](https://www.springer.com/journal/12626) 2021年10月8日.
+- **Yoshiaki Fukami**,  [Two Obstacle Factors for Technological Standardization: The Viewpoint of Technological Frame](https://www.mdpi.com/2305-6703/2/1/1), [Standards](https://www.mdpi.com/journal/standards), [Vol. 2,](https://www.mdpi.com/2305-6703/2) [No. 1,](https://www.mdpi.com/2305-6703/2/1) [pp. 1\-13](https://www.mdpi.com/2305-6703/2/1/1), 2021年12月24日.
+  - JSPS科研費 20H02384
+
+- **Yoshiaki Fukami**,  [Open and Clarified Process of Compatibility Standards for Promoting Data Exchange](https://link.springer.com/article/10.1007/s12626-021-00087-4), [The Review of Socionetwork Strategies,](https://www.springer.com/journal/12626) [Vol. 15, Issue. 2,](https://link.springer.com/journal/12626/volumes-and-issues/15-2) [pp. 535\-555.](https://link.springer.com/article/10.1007/s12626-021-00087-4) 2021年10月8日.
   - JSPS科研費 20H02384
 
 - Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima, **Yoshiaki Fukami**, Takumi Shimizu & Yukio Ohsawa. [Data Combination for Problem\-Solving: A Case of an Open Data Exchange Platform](https://link.springer.com/article/10.1007/s12626-021-00083-8), [The Review of Socionetwork Strategies,](https://www.springer.com/journal/12626) 2021年5月29日.
