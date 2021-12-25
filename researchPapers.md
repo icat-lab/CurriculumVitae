@@ -36,17 +36,25 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 
 - **深見嘉明**. ソーシャルタギング ―意図せざる協働が生みだす新たな情報流通形態―. [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/)[政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)2007年度修士論文, 2007. [(PDF)](http://web.sfc.keio.ac.jp/~yofukami/y_fukami_master_thesis.pdf)
 
-### 学会論文誌
-- **Yoshiaki Fukami**,  [Two Obstacle Factors for Technological Standardization: The Viewpoint of Technological Frame](https://www.mdpi.com/2305-6703/2/1/1), [Standards](https://www.mdpi.com/journal/standards), [Vol. 2,](https://www.mdpi.com/2305-6703/2) [No. 1,](https://www.mdpi.com/2305-6703/2/1) [pp. 1\-13](https://www.mdpi.com/2305-6703/2/1/1), 2021年12月24日.
+### 論文誌
+- **Yoshiaki Fukami**.  [Two Obstacle Factors for Technological Standardization: The Viewpoint of Technological Frame](https://www.mdpi.com/2305-6703/2/1/1), [*Standards*](https://www.mdpi.com/journal/standards), [Vol. 2,](https://www.mdpi.com/2305-6703/2) [No. 1,](https://www.mdpi.com/2305-6703/2/1) [pp. 1\-13](https://www.mdpi.com/2305-6703/2/1/1), 2021年12月24日.
+  - DOI: https://doi.org/10.3390/standards2010001
   - JSPS科研費 20H02384
 
-- **Yoshiaki Fukami**,  [Open and Clarified Process of Compatibility Standards for Promoting Data Exchange](https://link.springer.com/article/10.1007/s12626-021-00087-4), [The Review of Socionetwork Strategies,](https://www.springer.com/journal/12626) [Vol. 15, Issue. 2,](https://link.springer.com/journal/12626/volumes-and-issues/15-2) [pp. 535\-555.](https://link.springer.com/article/10.1007/s12626-021-00087-4) 2021年10月8日.
+- **Yoshiaki Fukami** and Takumi Shimizu.[Technology Standardization for Innovation: How Google Leverages an Open Digital Platform](https://www.mdpi.com/2078-2489/12/11/441),  [*Information*](https://www.mdpi.com/journal/information), [Vol. 12](https://www.mdpi.com/2078-2489/12), [Issue. 11](https://www.mdpi.com/2078-2489/12/11), 2021年10月23日.
+    - [Scopus index](https://www.scopus.com/sourceid/21100223111)
+    - DOI: https://doi.org/10.3390/info12110441
+    - JSPS科研費 20H02384
+
+- **Yoshiaki Fukami**.  [Open and Clarified Process of Compatibility Standards for Promoting Data Exchange](https://link.springer.com/article/10.1007/s12626-021-00087-4), [*The Review of Socionetwork Strategies,*](https://www.springer.com/journal/12626) [Vol. 15, Issue. 2,](https://link.springer.com/journal/12626/volumes-and-issues/15-2) [pp. 535\-555](https://link.springer.com/article/10.1007/s12626-021-00087-4). 2021年10月8日.
+  - DOI: https://doi.org/10.1007/s12626-021-00087-4
   - JSPS科研費 20H02384
 
-- Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima, **Yoshiaki Fukami**, Takumi Shimizu & Yukio Ohsawa. [Data Combination for Problem\-Solving: A Case of an Open Data Exchange Platform](https://link.springer.com/article/10.1007/s12626-021-00083-8), [The Review of Socionetwork Strategies,](https://www.springer.com/journal/12626) 2021年5月29日.
+- Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima, **Yoshiaki Fukami**, Takumi Shimizu & Yukio Ohsawa. [Data Combination for Problem\-Solving: A Case of an Open Data Exchange Platform](https://link.springer.com/article/10.1007/s12626-021-00083-8), [*The Review of Socionetwork Strategies,*](https://www.springer.com/journal/12626) 2021年5月29日.
+  - DOI: https://doi.org/10.1007/s12626-021-00083-8
   - JSPS科研費 20H02384
 
-- 清水たくみ、早矢仕晃章、**深見嘉明**、松島裕康、坂地泰紀、大澤幸生. [データ流通エコシステムにおけるプラットフォームを媒介とした価値創造.](https://www.soumu.go.jp/main_content/000717808.pdf)  [情報通信政策研究](https://www.jstage.jst.go.jp/browse/jicp/-char/ja) [Vol. 4, No. 1,](https://www.soumu.go.jp/iicp/journal/02iicp01_04000234.html) [pp.103\-123](https://www.jstage.jst.go.jp/article/jicp/4/1/4_103/_article/-char/ja), 2020年11月20日.
+- 清水たくみ、早矢仕晃章、**深見嘉明**、松島裕康、坂地泰紀、大澤幸生. [データ流通エコシステムにおけるプラットフォームを媒介とした価値創造.](https://www.soumu.go.jp/main_content/000717808.pdf)  [*情報通信政策研究*](https://www.jstage.jst.go.jp/browse/jicp/-char/ja) [Vol. 4, No. 1,](https://www.soumu.go.jp/iicp/journal/02iicp01_04000234.html) [pp.103\-123](https://www.jstage.jst.go.jp/article/jicp/4/1/4_103/_article/-char/ja), 2020年11月20日.
   - JSPS科研費 20H02384
 
 - **Yoshiaki Fukami**.[Standardization Procedure for Data Exchange](https://www.mdpi.com/2078-2489/11/6/339),  [*Information*](https://www.mdpi.com/journal/information), [Vol. 11](https://www.mdpi.com/2078-2489/11), [Issue. 6](https://www.mdpi.com/2078-2489/11/6), 2020年6月25日.
@@ -54,27 +62,28 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
   - [Information\_MDPI on Twitter](https://twitter.com/InformationMDPI/status/1277458528148439041)
   - DOI: https://doi.org/10.3390/info11060339
 
-- 古崎晃司， 横山輝明， **深見嘉明**. [GPS移動履歴の収集とオープンデータを用いた移動軌跡のLOD化 ─国際会議ISWC2016における実証実験を例として─.](https://www.ipsj.or.jp/dp/contents/publication/33/S0901-T09.html) [情報処理学会デジタルプラクティス](https://www.ipsj.or.jp/dp/contents/dp-mokuji.html) [Vol.9, No.1.](https://www.ipsj.or.jp/dp/contents/publication/33/S0901-index.html) 2018年1月.
+- 古崎晃司， 横山輝明， **深見嘉明**. [GPS移動履歴の収集とオープンデータを用いた移動軌跡のLOD化 ─国際会議ISWC2016における実証実験を例として─.](https://www.ipsj.or.jp/dp/contents/publication/33/S0901-T09.html) [*情報処理学会デジタルプラクティス*](https://www.ipsj.or.jp/dp/contents/dp-mokuji.html) [Vol.9, No.1.](https://www.ipsj.or.jp/dp/contents/publication/33/S0901-index.html) 2018年1月.
 
-- **深見嘉明**. [個人による情報収集からコミュニティベースの論点設定へ 〜ウェブ技術の進化による価値創造プロセスの変化.](http://ci.nii.ac.jp/naid/110009685946) [情報の科学と技術](http://www.infosta.or.jp/journal/journal.html), [Vol.63](http://www.infosta.or.jp/journal/back2013j.html), [No.12](http://www.infosta.or.jp/journal/back2013j.html#12), pp. 486~491, 2013年12月1日. [(CiNii)](http://ci.nii.ac.jp/naid/110009685946/)
+- **深見嘉明**. [個人による情報収集からコミュニティベースの論点設定へ 〜ウェブ技術の進化による価値創造プロセスの変化.](http://ci.nii.ac.jp/naid/110009685946) [*情報の科学と技術*](http://www.infosta.or.jp/journal/journal.html), [Vol.63](http://www.infosta.or.jp/journal/back2013j.html), [No.12](http://www.infosta.or.jp/journal/back2013j.html#12), pp. 486~491, 2013年12月1日. [(CiNii)](http://ci.nii.ac.jp/naid/110009685946/)
 
-- **深見嘉明**. [共有プラットフォームとしてのソフトウェア標準: W3Cにおける実装主義設計プロセスが形成するエコシステム](http://ci.nii.ac.jp/naid/40019466731). [国際公共経済研究](http://ciriec.com/journal), Vol.23, pp. 102-112, 2012年9月. [(CiNii)](http://ci.nii.ac.jp/naid/40019466731)
+- **深見嘉明**. [共有プラットフォームとしてのソフトウェア標準: W3Cにおける実装主義設計プロセスが形成するエコシステム](http://ci.nii.ac.jp/naid/40019466731). [*国際公共経済研究*](http://ciriec.com/journal), Vol.23, pp. 102-112, 2012年9月. [(CiNii)](http://ci.nii.ac.jp/naid/40019466731)
 
-- 一色 正男, **深見 嘉明**. [コンシューマが切り拓くディジタル化社会の新しい潮流：1. ソーシャルメディアなどコンシューマ参加型サービスを発展させる標準技術](http://id.nii.ac.jp/1001/00083888/), [情報処理](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=1&page_no=1&list_view_num=20&sort_order=7&page_id=13&block_id=8), [Vol. 53](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=6573&page_no=1&list_view_num=20&sort_order=7&page_id=13&block_id=8), [No. 10](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=6576&page_no=1&list_view_num=20&sort_order=7&page_id=13&block_id=8), pp. 1014-1020,  2012年9月15日. [(CiNii)](http://ci.nii.ac.jp/naid/40019437137)
+- 一色 正男, **深見 嘉明**. [コンシューマが切り拓くディジタル化社会の新しい潮流：1. ソーシャルメディアなどコンシューマ参加型サービスを発展させる標準技術](http://id.nii.ac.jp/1001/00083888/), [*情報処理*](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=1&page_no=1&list_view_num=20&sort_order=7&page_id=13&block_id=8), [Vol. 53](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=6573&page_no=1&list_view_num=20&sort_order=7&page_id=13&block_id=8), [No. 10](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=6576&page_no=1&list_view_num=20&sort_order=7&page_id=13&block_id=8), pp. 1014-1020,  2012年9月15日. [(CiNii)](http://ci.nii.ac.jp/naid/40019437137)
 
-- **深見嘉明**. 図書館とメタデータの新たな関係性―ユーザのアクティビティをどう活かすのか. [現代の図書館, Vol.50, No.2](http://jlakc.seesaa.net/article/285892498.html), pp. 106--113, 2012年6月. [(CiNii)](http://ci.nii.ac.jp/naid/40019368503)
+- **深見嘉明**. 図書館とメタデータの新たな関係性―ユーザのアクティビティをどう活かすのか. [*現代の図書館* , Vol.50, No.2](http://jlakc.seesaa.net/article/285892498.html), pp. 106--113, 2012年6月. [(CiNii)](http://ci.nii.ac.jp/naid/40019368503)
 
-- **深見嘉明**. [日常生活に浸透するメタデータ](http://www.infosta.or.jp/journal/201012j.html#5). [情報の科学と技術](http://www.infosta.or.jp/journal/journal.html), [Vol.60](http://www.infosta.or.jp/journal/back2010j.html), [No.12](http://www.infosta.or.jp/journal/back2010j.html#12), [pp.501-506](http://www.infosta.or.jp/journal/201012j.html#5), 2010年12月1日. [(CiNii)](http://ci.nii.ac.jp/naid/110007989450)
+- **深見嘉明**. [日常生活に浸透するメタデータ](http://www.infosta.or.jp/journal/201012j.html#5). [*情報の科学と技術*](http://www.infosta.or.jp/journal/journal.html), [Vol.60](http://www.infosta.or.jp/journal/back2010j.html), [No.12](http://www.infosta.or.jp/journal/back2010j.html#12), [pp.501-506](http://www.infosta.or.jp/journal/201012j.html#5), 2010年12月1日. [(CiNii)](http://ci.nii.ac.jp/naid/110007989450)
 
-- **深見嘉明**, 國領二郎. [意図せざる協働−ソーシャルブックマークにおけるボトムアップメタデータ生成による情報共有−](https://infosocio.org/archives/paper/vol2no2-2). [情報社会学会誌](https://infosocio.org/archives/paper), [Vol. 2](https://infosocio.org/archives/papervolno/vol2), [No. 2](https://infosocio.org/archives/papervolno/vol2no2), pp. 6--19, 2007年6月.
+- **深見嘉明**, 國領二郎. [意図せざる協働−ソーシャルブックマークにおけるボトムアップメタデータ生成による情報共有−](https://infosocio.org/archives/paper/vol2no2-2). [*情報社会学会誌*](https://infosocio.org/archives/paper), [Vol. 2](https://infosocio.org/archives/papervolno/vol2), [No. 2](https://infosocio.org/archives/papervolno/vol2no2), pp. 6--19, 2007年6月.
 
 ### Springer books and Lecture Notes
 - **Yoshiaki Fukami** and Yoshimasa Masuda. [Support for COVID-19 Vaccination in Tamba City’s Regional Comprehensive Care System](https://link.springer.com/chapter/10.1007/978-981-16-3013-2_2). In: [Yen-Wei Chen, Satoshi Tanaka, Robert J. Howlett and Lakhmi C. Jain (eds). Innovation in Medicine and Healthcare](https://www.springer.com/gp/book/9789811630125): Proceedings of [9th KES-InMed 2021](http://inmed-21.kesinternational.org/), [Smart Innovation, Systems and Technologies](https://link.springer.com/bookseries/8767), vol. 242, pp. 15-25. [Springer Singapore](https://link.springer.com/), 2021. (2021年7月6日）
   - [Scopus index](https://www.scopus.com/sourceid/21100204111)
   - DOI: https://doi.org/10.1007/978-981-16-3013-2_2
   - **The Best Paper Award** for [InMed21](http://inmed-21.kesinternational.org/)
+  - JSPS科研費 JP18K12858
 
-- **Yoshiaki Fukami** and Yoshimasa Masuda. [Stumbling Blocks of Utilizing Medical and Health Data: Success Factors Extracted from Australia–Japan Comparison](https://link.springer.com/chapter/10.1007/978-981-15-5852-8_2). In: [Yen-Wei Chen, Satoshi Tanaka, Robert J. Howlett and Lakhmi C. Jain (eds). Innovation in Medicine and Healthcare \| SpringerLink](https://link.springer.com/book/10.1007/978-981-15-5852-8): Proceedings of [8th KES-InMed 2020](http://inmed-20.kesinternational.org/), [Smart Innovation, Systems and Technologies](https://link.springer.com/bookseries/8767), vol. 192, pp. 15-25. [Springer Singapore](https://link.springer.com/), 2020. (2020年7月11日）
+- **Yoshiaki Fukami** and Yoshimasa Masuda. [Stumbling Blocks of Utilizing Medical and Health Data: Success Factors Extracted from Australia–Japan Comparison](https://link.springer.com/chapter/10.1007/978-981-15-5852-8_2). In: [Yen-Wei Chen, Satoshi Tanaka, Robert J. Howlett and Lakhmi C. Jain (eds). Innovation in Medicine and Healthcare](https://link.springer.com/book/10.1007/978-981-15-5852-8): Proceedings of [8th KES-InMed 2020](http://inmed-20.kesinternational.org/), [Smart Innovation, Systems and Technologies](https://link.springer.com/bookseries/8767), vol. 192, pp. 15-25. [Springer Singapore](https://link.springer.com/), 2020. (2020年7月11日）
   - [Scopus index](https://www.scopus.com/sourceid/21100204111)
   - DOI: https://doi.org/10.1007/978-981-15-5852-8_2
 
