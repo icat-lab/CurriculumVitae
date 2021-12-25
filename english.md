@@ -106,6 +106,15 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 
 
 ## Papers
+- **Yoshiaki Fukami**.  [Two Obstacle Factors for Technological Standardization: The Viewpoint of Technological Frame](https://www.mdpi.com/2305-6703/2/1/1), [*Standards*](https://www.mdpi.com/journal/standards), [Vol. 2,](https://www.mdpi.com/2305-6703/2) [No. 1,](https://www.mdpi.com/2305-6703/2/1) [pp. 1\-13](https://www.mdpi.com/2305-6703/2/1/1), 2021年12月24日.
+  - DOI: https://doi.org/10.3390/standards2010001
+  - JSPS科研費 20H02384
+
+- **Yoshiaki Fukami** and Takumi Shimizu. [Technology Standardization for Innovation: How Google Leverages an Open Digital Platform](https://www.mdpi.com/2078-2489/12/11/441),  [*Information*](https://www.mdpi.com/journal/information), [Vol. 12](https://www.mdpi.com/2078-2489/12), [Issue. 11](https://www.mdpi.com/2078-2489/12/11), 2021年10月23日.
+    - [Scopus index](https://www.scopus.com/sourceid/21100223111)
+    - DOI: https://doi.org/10.3390/info12110441
+    - JSPS科研費 20H02384
+
 - **Yoshiaki Fukami**,  [Open and Clarified Process of Compatibility Standards for Promoting Data Exchange](https://link.springer.com/article/10.1007/s12626-021-00087-4), [The Review of Socionetwork Strategies](https://www.springer.com/journal/12626) 2021年10月8日.
   - JSPS科研費 20H02384
 
