@@ -41,7 +41,7 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
   - DOI: https://doi.org/10.3390/standards2010001
   - JSPS科研費 20H02384
 
-- **Yoshiaki Fukami** and Takumi Shimizu.[Technology Standardization for Innovation: How Google Leverages an Open Digital Platform](https://www.mdpi.com/2078-2489/12/11/441),  [*Information*](https://www.mdpi.com/journal/information), [Vol. 12](https://www.mdpi.com/2078-2489/12), [Issue. 11](https://www.mdpi.com/2078-2489/12/11), 2021年10月23日.
+- **Yoshiaki Fukami** and Takumi Shimizu. [Technology Standardization for Innovation: How Google Leverages an Open Digital Platform](https://www.mdpi.com/2078-2489/12/11/441),  [*Information*](https://www.mdpi.com/journal/information), [Vol. 12](https://www.mdpi.com/2078-2489/12), [Issue. 11](https://www.mdpi.com/2078-2489/12/11), 2021年10月23日.
     - [Scopus index](https://www.scopus.com/sourceid/21100223111)
     - DOI: https://doi.org/10.3390/info12110441
     - JSPS科研費 20H02384
