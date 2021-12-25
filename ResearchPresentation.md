@@ -1,8 +1,11 @@
 ### 学会口頭発表
 #### 2021
+- **Yoshiaki Fukami**, Takumi Shimizu, and Hiroyasu Matsushima.	[The Impact of Decentralized Identity Architecture on Data Exchange](https://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2021/schedule.html)	[The 4th International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC2021)](https://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2021/). 2021年12月15日. オンライン開催
+  - JSPS科研費 20H02384
+
 - **深見嘉明**. [ワイン事業新規参入時における地域・産業コミュニティ参入プロセス分析](https://jss-sociology.org/other/20210924post-12090/#25), [日本社会学会](https://jss-sociology.org/) [第94回 日本社会学会大会](https://jss-sociology.org/meeting/20201102post-11104/). 2021年11月13日. オンライン開催.
 
-- **Y. Fukami**. [Ethical Dilemmas on the Medical Data Platform for Patient\-Centred Approaches: Consideration from Macro and Micro Perspectives](https://dialnet.unirioja.es/servlet/articulo?codigo=7977297), Oliva,  M. A., Borondo, J. P., Murata, K. and Lara, E. M. R. (Eds.) [Normal Technology Ethics, Proceedings](https://dialnet.unirioja.es/servlet/libro?codigo=824595) of [the ETHICOMP 2021](https://www.unirioja.es/ethicomp/2021/), pp. 264-267, 2021年6月30日. [(online)](https://www.unirioja.es/ethicomp/2021/venue.html)
+- **Yoshiaki Fukami**. [Ethical Dilemmas on the Medical Data Platform for Patient\-Centred Approaches: Consideration from Macro and Micro Perspectives](https://dialnet.unirioja.es/servlet/articulo?codigo=7977297), Oliva,  M. A., Borondo, J. P., Murata, K. and Lara, E. M. R. (Eds.) [Normal Technology Ethics, Proceedings](https://dialnet.unirioja.es/servlet/libro?codigo=824595) of [the ETHICOMP 2021](https://www.unirioja.es/ethicomp/2021/), pp. 264-267, 2021年6月30日. [(online)](https://www.unirioja.es/ethicomp/2021/venue.html)
   - ISBN: 978-84-09-28671-3
   - JSPS科研費 20H02384
 
