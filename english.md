@@ -91,6 +91,12 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 * **Yoshiaki Fukami** *Metadata is changing the world*, NTT Publishing, Tokyo, Japan. 2009 (written in Japanese: 『ウェブは菩薩である ～メタデータが世界を変える』)
 
 ## Book Chapters
+- **Yoshiaki Fukami** and Yoshimasa Masuda. [Support for COVID-19 Vaccination in Tamba City’s Regional Comprehensive Care System](https://link.springer.com/chapter/10.1007/978-981-16-3013-2_2). In: [Yen-Wei Chen, Satoshi Tanaka, Robert J. Howlett and Lakhmi C. Jain (eds). Innovation in Medicine and Healthcare](https://www.springer.com/gp/book/9789811630125): Proceedings of [9th KES-InMed 2021](http://inmed-21.kesinternational.org/), [Smart Innovation, Systems and Technologies](https://link.springer.com/bookseries/8767), vol. 242, pp. 15-25. [Springer Singapore](https://link.springer.com/), 2021. (2021年7月6日）
+  - [Scopus index](https://www.scopus.com/sourceid/21100204111)
+  - DOI: https://doi.org/10.1007/978-981-16-3013-2_2
+  - **The Best Paper Award** for [InMed21](http://inmed-21.kesinternational.org/)
+  - JSPS科研費 JP18K12858
+
 - **Yoshiaki Fukami** and Yoshimasa Masuda. [Stumbling Blocks of Utilizing Medical and Health Data: Success Factors Extracted from Australia–Japan Comparison](https://link.springer.com/chapter/10.1007/978-981-15-5852-8_2). In: [Yen-Wei Chen, Satoshi Tanaka, Robert J. Howlett and Lakhmi C. Jain (eds). Innovation in Medicine and Healthcare \| SpringerLink](https://link.springer.com/book/10.1007/978-981-15-5852-8): Proceedings of [8th KES-InMed 2020](http://inmed-20.kesinternational.org/), [Smart Innovation, Systems and Technologies](https://link.springer.com/bookseries/8767), vol. 192, pp. 15-25. [Springer Singapore](https://link.springer.com/), 2020. (July 11th, 2020）
 
 - **Yoshiaki Fukami** and Yoshimasa Masuda. [Success Factors for Realizing Regional Comprehensive Care by EHR with Administrative Data](https://link.springer.com/chapter/10.1007/978-981-13-8566-7_4). In: [Yen-Wei Chen, Alfred Zimmermann, Robert J. Howlett and Lakhmi C. Jain (eds).Innovation in Medicine and Healthcare Systems, and Multimedia](https://www.springer.com/gp/book/9789811385650#): Proceedings of [KES-InMed-19](http://inmed-19.kesinternational.org/) and KES-IIMSS-19 Conferences, [Smart Innovation, Systems and Technologies](https://www.springer.com/series/8767), Vol. 145, pp. 35-45, [Springer Singapore](https://link.springer.com/), 2019. (July 6th, 2019）
