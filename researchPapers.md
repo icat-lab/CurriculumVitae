@@ -50,7 +50,7 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
   - DOI: https://doi.org/10.1007/s12626-021-00087-4
   - JSPS科研費 20H02384
 
-- Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima, **Yoshiaki Fukami**, Takumi Shimizu & Yukio Ohsawa. [Data Combination for Problem\-Solving: A Case of an Open Data Exchange Platform](https://link.springer.com/article/10.1007/s12626-021-00083-8), [*The Review of Socionetwork Strategies,*](https://www.springer.com/journal/12626) 2021年5月29日.
+- Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima, **Yoshiaki Fukami**, Takumi Shimizu & Yukio Ohsawa. [Data Combination for Problem\-Solving: A Case of an Open Data Exchange Platform](https://link.springer.com/article/10.1007/s12626-021-00083-8), [*The Review of Socionetwork Strategies,*](https://www.springer.com/journal/12626) [Vol. 15, Issue 2,](https://link.springer.com/journal/12626/volumes-and-issues/15-2,) [pp. 521–534.](https://link.springer.com/article/10.1007/s12626-021-00083-8) 2021年5月29日.
   - DOI: https://doi.org/10.1007/s12626-021-00083-8
   - JSPS科研費 20H02384
 
