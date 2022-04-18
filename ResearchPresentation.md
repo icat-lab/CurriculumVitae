@@ -1,6 +1,7 @@
 ### 学会口頭発表
 #### 2022
 - **Yoshiaki Fukami**, Takumi Shimizu, Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima.	Centralized versus decentralized digital identity architectures: Simulation models of data exchange, [AAAI 2022 Spring Symposia 2022,](https://aaai.org/Symposia/Spring/sss22symposia.php) [–How Fair is Fair? Achieving Wellbeing AI–.](https://aaai.org/Symposia/Spring/sss22symposia.php#ss07) 2022年3月22日. Hybrid: Stanford University, Palo Alto, California, U.S.A./ online.
+  - JSPS科研費 20H02384
 
 #### 2021
 - **Yoshiaki Fukami**, Takumi Shimizu, and Hiroyasu Matsushima.	[The Impact of Decentralized Identity Architecture on Data Exchange,](https://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2021/schedule.html)	[The 4th International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC2021)](https://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2021/). 2021年12月15日. オンライン開催
