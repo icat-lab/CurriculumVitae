@@ -23,16 +23,15 @@
   - JSPS科研費 20H02384
 
 #### 2020
-- **Y. Fukami** and Y. Masuda. Governance for realization of medical, nursing and administration data
- integration system. [APAMI 2020 \- 11th Biennial Conference of the Asia\-Pacific Association for Medical Informatics.](http://apami2020.org/index.html) 2020年11月22日. , [(Act city Hamamatsu Congress center /アクトシティ浜松コングレスセンター, Hamamatsu, Shizuoka)](https://www.actcity.jp/visitor/congress/)
+- **Yoshiaki Fukami** and Yoshimasa Masuda. Governance for realization of medical, nursing and administration data integration system. [APAMI 2020 \- 11th Biennial Conference of the Asia\-Pacific Association for Medical Informatics.](http://apami2020.org/index.html) 2020年11月22日. , [(Act city Hamamatsu Congress center /アクトシティ浜松コングレスセンター, Hamamatsu, Shizuoka)](https://www.actcity.jp/visitor/congress/)
   - JSPS科研費 18K12858
 
 #### 2019
-- **Y. Fukami**. Standardization for innovation with data exchange. [The 2nd International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC).](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/)[2019年11月8日.](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/schedule.html) [(China National Convention Center \(CNCC\), Beijing)](http://icdm2019.bigke.org/)
+- **Yoshiaki Fukami**. Standardization for innovation with data exchange. [The 2nd International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC).](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/)[2019年11月8日.](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/schedule.html) [(China National Convention Center \(CNCC\), Beijing)](http://icdm2019.bigke.org/)
   - JSPS科研費 18K12858
   - Best presentation award
 
-- **Y. Fukami**. How communities of users appear in standardization processes like ghost. [The 37th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2019)](https://www.york.ac.uk/management/events/2019/scos-conference-2019-york/). [2019年7月9日](https://www.york.ac.uk/media/tyms/documents/events/archive2018-19/Draft%20timetable%20for%20circulationv3.pdf). ([The King's Manor,](https://www.york.ac.uk/about/campus/landmarks/kings-manor/) [York management school,](https://www.york.ac.uk/management/) [University of York.](https://www.york.ac.uk/))
+- **Yoshiaki Fukami**. How communities of users appear in standardization processes like ghost. [The 37th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2019)](https://www.york.ac.uk/management/events/2019/scos-conference-2019-york/). [2019年7月9日](https://www.york.ac.uk/media/tyms/documents/events/archive2018-19/Draft%20timetable%20for%20circulationv3.pdf). ([The King's Manor,](https://www.york.ac.uk/about/campus/landmarks/kings-manor/) [York management school,](https://www.york.ac.uk/management/) [University of York.](https://www.york.ac.uk/))
   - JSPS科研費 18K12858
 
 - **深見嘉明**、増田佳正. 官民データ連携の事例創出事例分析: 兵庫県丹波市における予防接種実施判定システム構築とその発展. [日本情報経営学会第78回全国大会.](https://conferenceservice.jp/www/jsim78/) [2019年6月9日](https://conferenceservice.jp/www/jsim78/doc/jsim78program_0609_ver7.pdf).(静岡大学, Hamamatsu)
@@ -47,11 +46,11 @@
   - [(立教大学大学院ビジネスデザイン研究科ウェブサイト記事)](https://business-school.rikkyo.ac.jp/news/2018/fqvjit0000000i6f.html)
   - [公益財団法人電気通信普及財団　研究調査助成](https://www.taf.or.jp/grant-a/)
 
-- **Y. Fukami**. [Google’s strategy to transform web architecture: Innovation through standardization overcoming framing contest.](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing) [The 36th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2018)](http://scos2018.org/)  2018年8月18日. [明治大学, Tokyo](https://www.meiji.ac.jp/) [(予稿集PDF)](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing)
+- **Yoshiaki Fukami**. [Google’s strategy to transform web architecture: Innovation through standardization overcoming framing contest.](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing) [The 36th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2018)](http://scos2018.org/)  2018年8月18日. [明治大学, Tokyo](https://www.meiji.ac.jp/) [(予稿集PDF)](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing)
 
 - **深見嘉明**. [データ互換性標準におけるオープンウェブプラットフォーム導入の影響分析.](http://www.jsicr.jp/doc/taikai2018/spring/G-2.pdf) [情報通信学会](http://www.jsicr.jp/)[2018年度春季(第38回)大会](http://www.jsicr.jp/operation/taikai/38tai-spring-member.html). 2018年7月1日. 慶應義塾大学 三田キャンパス, Tokyo. [(要旨PDF)](http://www.jsicr.jp/doc/taikai2018/spring/G-2.pdf)
 
-- **Y. Fukami** and T. Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms. In [Proceedings](http://pacis2018.org/program.html) of [Twenty-Second Pacific Asia Conference on Information Systems (PACIS 2018)](http://pacis2018.org/index.html), pp. 2273-2285, June 29, 2018 (2018年6月29日) , [Yokohama Royal Park Hotel,](https://www.yrph.com/) Yokohama, Japan. [(予稿集PDF)](http://bit.ly/PACIS2018:title=Proceedings)
+- **Yoshiaki Fukami** and T. Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms. In [Proceedings](http://pacis2018.org/program.html) of [Twenty-Second Pacific Asia Conference on Information Systems (PACIS 2018)](http://pacis2018.org/index.html), pp. 2273-2285, June 29, 2018 (2018年6月29日) , [Yokohama Royal Park Hotel,](https://www.yrph.com/) Yokohama, Japan. [(予稿集PDF)](http://bit.ly/PACIS2018:title=Proceedings)
 
 - **深見嘉明**, 清水たくみ. [オープンデジタルプラットフォームによるエコシステム形成](https://confit.atlas.jp/guide/event-img/aaos2018s/aaos2018s_K_20180609/proceedings), [2018年度組織学会研究発表大会.](https://confit.atlas.jp/guide/event/aaos2018s/top) 2018年6月9日. (東京大学本郷キャンパス, Tokyo.) [(予稿集PDF)](https://confit.atlas.jp/guide/event-img/aaos2018s/aaos2018s_K_20180609/proceedings)
 
@@ -84,7 +83,7 @@
   - [(Presentation)](http://www.slideshare.net/AWAlab/79-6716077)
   - [(Togetter)](http://togetter.com/li/91466)
 
-- **Y. Fukami**. Effect of Openness, Open source and Standardization in Building attractive platform. [Organizations and Society in Information Systems (OASIS) 2009 Workshop](http://sprouts.aisnet.org/9-56/). December 15, 2009. (2009年12月15日）([Phoenix AZ Resort | JW Marriott Phoenix Desert Ridge Resort & Spa,](https://www.marriott.com/hotels/travel/phxdr-jw-marriott-phoenix-desert-ridge-resort-and-spa/) Phoenix, Arizona, U. S. A.)
+- **Yoshiaki Fukami**. Effect of Openness, Open source and Standardization in Building attractive platform. [Organizations and Society in Information Systems (OASIS) 2009 Workshop](http://sprouts.aisnet.org/9-56/). December 15, 2009. (2009年12月15日）([Phoenix AZ Resort | JW Marriott Phoenix Desert Ridge Resort & Spa,](https://www.marriott.com/hotels/travel/phxdr-jw-marriott-phoenix-desert-ridge-resort-and-spa/) Phoenix, Arizona, U. S. A.)
 
 - 大石剛司, 亀田尭宙, **深見嘉明**, 大向一輝, 武田英明：ソーシャルブックマークにおけるユーザのタグ付与行動分析に基づくコンテンツ分類, [第70回情報処理学会全国大会講演論文集](http://www.ipsj.or.jp/10jigyo/taikai/70kai/70program/index.html), 3ZK-6, 2008年3月14日. ([paper](http://cyprus.ex.nii.ac.jp/~kameda/profile/ipsj2008_oishi.pdf)) (筑波大学筑波キャンパス, Tsukuba, Ibaraki)
 
