@@ -1,5 +1,9 @@
 ### 学会口頭発表
 #### 2022
+- **Yoshiaki Fukami**, [珈琲焙煎・抽出に関するナラティブ分析を通じた職人技術の電子化・自動化阻害要因分析](https://conferenceservice.jp/www/jsim83/doc/jsim83_program_18.pdf), [日本情報経営学会第83回全国大会](https://conferenceservice.jp/www/jsim83/), 	2022年6月25日. [専修大学神田キャンパス](https://www.senshu-u.ac.jp/) .
+
+- **Yoshiaki Fukami** and Yoshimasa Masuda. [Society 5.0 as Digital Strategy for Scalability: Tamba's COVID-19 Vaccination Management System and Its Expansion,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQOeiar2Tez80JkTR9LLRnm3_rYuJW3rmkxu-NXfTbL0Ym5aQulbmliid7g54Tbob_ums6cRouPRIXd/pubhtml) [The 10th KES International Conference on Innovation in Medicine and Healthcare \(KES\-InMed\-22\.)](http://inmed-22.kesinternational.org/), 2022年6月22日. Hybrid: [Sheraton Rhodes Resort,](http://inmed-22.kesinternational.org/venue.php) Greece.
+
 - **Yoshiaki Fukami**, Takumi Shimizu, Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima.	Centralized versus decentralized digital identity architectures: Simulation models of data exchange, [AAAI 2022 Spring Symposia 2022,](https://aaai.org/Symposia/Spring/sss22symposia.php) [–How Fair is Fair? Achieving Wellbeing AI–.](https://aaai.org/Symposia/Spring/sss22symposia.php#ss07) 2022年3月22日. Hybrid: Stanford University, Palo Alto, California, U.S.A./ online.
   - JSPS科研費 20H02384
 
@@ -50,7 +54,7 @@
 
 - **深見嘉明**. [データ互換性標準におけるオープンウェブプラットフォーム導入の影響分析.](http://www.jsicr.jp/doc/taikai2018/spring/G-2.pdf) [情報通信学会](http://www.jsicr.jp/)[2018年度春季(第38回)大会](http://www.jsicr.jp/operation/taikai/38tai-spring-member.html). 2018年7月1日. 慶應義塾大学 三田キャンパス, Tokyo. [(要旨PDF)](http://www.jsicr.jp/doc/taikai2018/spring/G-2.pdf)
 
-- **Yoshiaki Fukami** and T. Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms. In [Proceedings](http://pacis2018.org/program.html) of [Twenty-Second Pacific Asia Conference on Information Systems (PACIS 2018)](http://pacis2018.org/index.html), pp. 2273-2285, June 29, 2018 (2018年6月29日) , [Yokohama Royal Park Hotel,](https://www.yrph.com/) Yokohama, Japan. [(予稿集PDF)](http://bit.ly/PACIS2018:title=Proceedings)
+- **Yoshiaki Fukami** and Takumi Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms. In [Proceedings](http://pacis2018.org/program.html) of [Twenty-Second Pacific Asia Conference on Information Systems (PACIS 2018)](http://pacis2018.org/index.html), pp. 2273-2285, June 29, 2018 (2018年6月29日) , [Yokohama Royal Park Hotel,](https://www.yrph.com/) Yokohama, Japan. [(予稿集PDF)](http://bit.ly/PACIS2018:title=Proceedings)
 
 - **深見嘉明**, 清水たくみ. [オープンデジタルプラットフォームによるエコシステム形成](https://confit.atlas.jp/guide/event-img/aaos2018s/aaos2018s_K_20180609/proceedings), [2018年度組織学会研究発表大会.](https://confit.atlas.jp/guide/event/aaos2018s/top) 2018年6月9日. (東京大学本郷キャンパス, Tokyo.) [(予稿集PDF)](https://confit.atlas.jp/guide/event-img/aaos2018s/aaos2018s_K_20180609/proceedings)
 
