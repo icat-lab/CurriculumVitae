@@ -50,6 +50,12 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 - **深見嘉明**. ソーシャルタギング ―意図せざる協働が生みだす新たな情報流通形態―. [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/)[政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)2007年度修士論文, 2007. [(PDF)](http://web.sfc.keio.ac.jp/~yofukami/y_fukami_master_thesis.pdf)
 
 ### 論文誌
+- **深見嘉明**、清水たくみ. 社会を進化させるデータエコシステムをどのように設計するのか, [*人工知能*](https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/), Vol. 37, No. 5, pp.575\-581, 2022年9月9日.
+    - JSPS科研費 20H02384
+
+- 早矢仕晃章、坂地泰紀、**深見嘉明**. データエコシステムの技術動向とこれからの展開, [*人工知能*](https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/), Vol. 37, No. 5, pp.550\-557, 2022年9月9日.
+    - JSPS科研費 20H02384
+
 - **Yoshiaki Fukami**.  [Two Obstacle Factors for Technological Standardization: The Viewpoint of Technological Frame](https://www.mdpi.com/2305-6703/2/1/1), [*Standards*](https://www.mdpi.com/journal/standards), [Vol. 2,](https://www.mdpi.com/2305-6703/2) [No. 1,](https://www.mdpi.com/2305-6703/2/1) [pp. 1\-13](https://www.mdpi.com/2305-6703/2/1/1), 2021年12月24日.
   - DOI: https://doi.org/10.3390/standards2010001
   - JSPS科研費 20H02384
