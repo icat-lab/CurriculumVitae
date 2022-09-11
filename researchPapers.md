@@ -125,7 +125,7 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 
 - **Yoshiaki Fukami**, Masao Isshiki, Hideaki Takeda, Ikki Ohmukai, and Jiro Kokuryo. [Specification Patent Management for Web Application Platform Ecosystem](https://link.springer.com/chapter/10.1007/978-3-642-16397-5_25). In: Zaman M., Liang Y., Siddiqui S.M., Wang T., Liu V., Lu C. (eds)[E-business Technology and Strategy.](https://link.springer.com/book/10.1007/978-3-642-16397-5)[CETS 2010.](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=9051&copyownerid=10425) [(2010 International Conference on E-business Technology & Strategy)](https://web.archive.org/web/20100417122741/http://www.cets2010.com/)[Communications in Computer and Information Science,](https://link.springer.com/bookseries/7899)Vol. 113, pp. 269-280, [Springer,](https://link.springer.com/) 2010.(2010年10月6日）
   - [Lecture Notes in Computer Science LNCS](https://www.springer.com/gp/computer-science/lncs)
-  - [Scopus index](https/www.scopus.com/sourceid/17700155007)
+  - [Scopus index](https://www.scopus.com/sourceid/17700155007#tabs=1)
   - [(Amazon.co.jp)](https://www.amazon.co.jp/dp/3642163963/)
   - DOI: https://doi.org/10.1007/978-3-642-16397-5_25
 
