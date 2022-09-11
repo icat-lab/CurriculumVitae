@@ -27,7 +27,7 @@
   - JSPS科研費 20H02384
 
 #### 2020
-- **Yoshiaki Fukami** and Yoshimasa Masuda. Governance for realization of medical, nursing and administration data integration system. [APAMI 2020 \- 11th Biennial Conference of the Asia\-Pacific Association for Medical Informatics.](http://apami2020.org/index.html) 2020年11月22日. , [(Act city Hamamatsu Congress center /アクトシティ浜松コングレスセンター, Hamamatsu, Shizuoka)](https://www.actcity.jp/visitor/congress/)
+- **Yoshiaki Fukami** and Yoshimasa Masuda. [Governance for realization of medical, nursing and administration data integration system](https://confit.atlas.jp/guide/event/jcmi2020/subject/AP2-E2-1-01/classlist). [APAMI 2020 \- 11th Biennial Conference of the Asia\-Pacific Association for Medical Informatics.](http://apami2020.org/index.html) [2020年11月22日](https://confit.atlas.jp/guide/event/jcmi2020/table/20201122). , [(Act city Hamamatsu Congress center /アクトシティ浜松コングレスセンター, Hamamatsu, Shizuoka)](https://www.actcity.jp/visitor/congress/)
   - JSPS科研費 18K12858
 
 #### 2019
