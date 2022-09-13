@@ -54,7 +54,9 @@
 
 - **深見嘉明**. [データ互換性標準におけるオープンウェブプラットフォーム導入の影響分析.](http://www.jsicr.jp/doc/taikai2018/spring/G-2.pdf) [情報通信学会](http://www.jsicr.jp/)[2018年度春季(第38回)大会](http://www.jsicr.jp/operation/taikai/38tai-spring-member.html). 2018年7月1日. 慶應義塾大学 三田キャンパス, Tokyo. [(要旨PDF)](http://www.jsicr.jp/doc/taikai2018/spring/G-2.pdf)
 
-- **Yoshiaki Fukami** and Takumi Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms. In [Proceedings](http://pacis2018.org/program.html) of [Twenty-Second Pacific Asia Conference on Information Systems (PACIS 2018)](http://pacis2018.org/index.html), pp. 2273-2285, June 29, 2018 (2018年6月29日) , [Yokohama Royal Park Hotel,](https://www.yrph.com/) Yokohama, Japan. [(予稿集PDF)](http://bit.ly/PACIS2018:title=Proceedings)
+- **Yoshiaki Fukami** and Takumi Shimizu. [Innovating through standardization : How Google Leverages the Value of Open Digital Platforms](https://aisel.aisnet.org/pacis2018/208/). In [Proceedings](http://pacis2018.org/program.html) of [Twenty-Second Pacific Asia Conference on Information Systems (PACIS 2018)](http://pacis2018.org/index.html), pp. 2273-2285, June 29, 2018 (2018年6月29日) , [Yokohama Royal Park Hotel,](https://www.yrph.com/) Yokohama, Japan.
+  - [(予稿集PDF)](http://bit.ly/PACIS2018:title=Proceedings)
+  - [Scopus preview](https://www.scopus.com/record/display.uri?eid=2-s2.0-85089244083&origin=inward&txGid=192ff3bddd4ded647087f0416a76e1f7)
 
 - **深見嘉明**, 清水たくみ. [オープンデジタルプラットフォームによるエコシステム形成](https://confit.atlas.jp/guide/event-img/aaos2018s/aaos2018s_K_20180609/proceedings), [2018年度組織学会研究発表大会.](https://confit.atlas.jp/guide/event/aaos2018s/top) 2018年6月9日. (東京大学本郷キャンパス, Tokyo.) [(予稿集PDF)](https://confit.atlas.jp/guide/event-img/aaos2018s/aaos2018s_K_20180609/proceedings)
 
@@ -66,6 +68,8 @@
 - 古崎晃司, **深見嘉明**, 横山輝明. [国際会議参加者の移動履歴の収集とLOD化の試み](http://id.nii.ac.jp/1004/00008458/). [第41回](http://www.sigswo.org/papers/41program)[セマンティックウェブとオントロジー研究会](http://www.sigswo.org/). 2017年2月26日. (休暇村志賀島, Fukuoka, Fukuoka)(人工知能学会研究会資料, SIG-SWO-041-09)
 
 #### 2016
+- **Yoshiaki Fukami** [Open architectural competition strategy: Google’s approach to innovation through standardization.](http://ceur-ws.org/Vol-1808/IWSECO16-paper6-Fukami-p80-94.pdf)  In [Proceedings](http://ceur-ws.org/Vol-1808/) of [The 8th Workshop on Software Ecosystems (IWSECO 2016).](https://archives.aisconferences.org/icis2016/international-workshop-software-ecosystems/index.html), [pp. 80-90](http://ceur-ws.org/Vol-1808/IWSECO16-paper6-Fukami-p80-94.pdf), December 10, 2016 (2016年12月10日).([Dublin](https://archives.aisconferences.org/icis2016/index.html),Ireland)
+
 - **深見嘉明**. カタログギフトによる患者起点イノベーション普及阻害要因の克服. [国際公共経済学会](http://ciriec.com/index.html) [第31回研究大会](http://ciriec.com/conference/winter/31_pgm_s/). 2016年12月4日. (大阪市立大学, Osaka)
 
 - **深見嘉明**. プレ標準化フェイズにおける技術仕様コンセプト収斂戦略：国土地理院・地理院地図のGitHub活用とコミュニケーションの効果. [情報通信学会](http://www.jsicr.jp/)[2016年度（第35回）秋季大会](http://www.jsicr.jp/operation/taikai/35tai-fall-member.html). 2016年12月3日, 芝浦工業大学, Tokyo. [(発表内容要約 PDF)](http://www.jsicr.jp/doc/taikai2016/fall/B3.pdf)
@@ -79,6 +83,8 @@
 - **深見嘉明**. プレ標準化フェイズにおける仕様コンセプト収斂メカニズムの解析: 国土地理院・地理院地図のGitHub活用とコミュニケーション戦略, [情報処理学会](http://www.ipsj.or.jp/)[第137回情報システムと社会環境研究発表会](http://ipsj-is.jp/2016/07/is137/), 2016年8月26日. (公立はこだて未来大学, Hakodate, Hokkaido) Japan.
 
 #### 2015以前
+- **Yoshiaki Fukami** and Susumu Ogawa. Open collaborative innovation through standardization at the W3C. [The 13th Open and User Innovation Conference](http://oui2015.clsbe.lisboa.ucp.pt/), Católica-Lisbon School of Business and Economics. July 13, 2015. (2015年7月13日)
+
 - **深見嘉明**, 小林巌生, 嘉村哲郎, 加藤文彦, 大向一輝, 武田英明, 高橋徹, 上田洋. [Linked Dataとコミュニティ が拓くオープンガバメント](http://www.bookpark.ne.jp/cm/ipsj/search.asp?flag=6&keyword=IPSJ-DD11079001&mode=). [(情報処理学会研究報告. DD(デジタル・ドキュメント)](http://www.bookpark.ne.jp/cm/ipsj/select_signotes2.asp?category2=DD), [Vol. 2011-DD-079](http://www.bookpark.ne.jp/cm/ipsj/select_signotes3.asp?category2=DD&vol=2011-DD-79&no=9&code=2011-DD-079), [pp1--8](http://www.bookpark.ne.jp/cm/ipsj/search.asp?flag=6&keyword=IPSJ-DD11079001&mode=), 2011年12月18日.
   - [(Presentation])](http://www.slideshare.net/AWAlab/linked-data-6706524)
   - [(CiNii)](http://ci.nii.ac.jp/naid/110007891128)
@@ -88,6 +94,9 @@
   - [(Togetter)](http://togetter.com/li/91466)
 
 - **Yoshiaki Fukami**. Effect of Openness, Open source and Standardization in Building attractive platform. [Organizations and Society in Information Systems (OASIS) 2009 Workshop](http://sprouts.aisnet.org/9-56/). December 15, 2009. (2009年12月15日）([Phoenix AZ Resort | JW Marriott Phoenix Desert Ridge Resort & Spa,](https://www.marriott.com/hotels/travel/phxdr-jw-marriott-phoenix-desert-ridge-resort-and-spa/) Phoenix, Arizona, U. S. A.)
+
+- **Yoshiaki Fukami**, Hideaki Takeda, Ikki Ohmukai, and Jiro Kokuryo. [From Self-Interest to Commons: Distinct Aspects of Social Bookmarking Services](http://aisel.aisnet.org/mcis2009/107/) In [Proceedings](https://aisel.aisnet.org/mcis2009/) of [4th Mediterranean Conference on Information Systems](https://web.archive.org/web/20110415214205/http://www.mcis2009.org/), pp.1234~1240, [Athens University of Economics and Business](https://www.aueb.gr/en), Athen, Greek, 2009. (2009年9月25日）
+  - [Proceedingsのアーカイブ](https://dblp1.uni-trier.de/db/conf/mcis/mcis2009.html)
 
 - 大石剛司, 亀田尭宙, **深見嘉明**, 大向一輝, 武田英明：ソーシャルブックマークにおけるユーザのタグ付与行動分析に基づくコンテンツ分類, [第70回情報処理学会全国大会講演論文集](http://www.ipsj.or.jp/10jigyo/taikai/70kai/70program/index.html), 3ZK-6, 2008年3月14日. ([paper](http://cyprus.ex.nii.ac.jp/~kameda/profile/ipsj2008_oishi.pdf)) (筑波大学筑波キャンパス, Tsukuba, Ibaraki)
 
@@ -104,4 +113,12 @@
 　
 - 小泉勝志郎、須栗裕樹、**深見嘉明**. [高齢者向けプログラミング教育の実践](http://www.jasmin.jp/activity/zenkoku_taikai/2017_fall/program/P1-19.html). [経営情報学会](http://www.jasmin.jp/index.html)[2017年秋季全国研究発表大会](http://www.jasmin.jp/activity/zenkoku_taikai/2017_fall/index.html), [2017年9月21日](http://www.jasmin.jp/activity/zenkoku_taikai/2017_fall/program/index.html). (岩手県立大学アイーナキャンパス, Morioka, Iwate)
 
+- **Yoshiaki Fukami** and Susumu Ogawa. [Gift Catalog For Hospital Visit: Sustainable Way To Develop Business From Patient Innovation](http://programme.exordo.com/oui2016/delegates/presentation/44/). [The 14th International Open and User Innovation Conference](http://www.hbs.edu/faculty/conferences/2016-oui/Pages/default.aspx).  [August 2, 2016](http://programme.exordo.com/oui2016/delegates/session/23/). (2016年8月2日). [Harvard Business School.](https://www.hbs.edu/Pages/default.aspx)
+  - [Abstract (PDF)](https://oui2016.exordo.com/files/papers/153/initial_draft/poster_FUKAMI_OUI2016.pdf)
+  - [Presentation (PDF)](https://oui2016.exordo.com/files/papers/153/presentation_files/1/FUKAMI__Yoshiaki__Gift_Catalog_for_Hospital_Visit_.pdf)
+
 - **深見嘉明**. ウェブ標準の普及に実装主義が果たした役割 −HTML5 を事例に−. [日本マーケティング学会](https://www.j-mac.or.jp/) [第2回マーケティングカンファレンス2013](https://www.j-mac.or.jp/conference/) 2013年11月10日. (早稲田大学早稲田キャンパス, Shinjuku, Tokyo)
+
+- **Yoshiaki Fukami**. Effect of implementation-oriented policy based process for standard as platform. [IWSECO 2013: 5th](https://web.archive.org/web/20140222100402/http://iwseco.org/) [International Workshop on Software Ecosystems](http://icsob.it.jyu.fi/workshops.html#iwseco). June 11, 2013. (2013年6月11日) [University of Potsdam](http://icsob.it.jyu.fi/local.html)
+
+- **Yoshiaki Fukami**, Masao Isshiki and Jiro Kokuryo. Effect of implementationalism: Changes in Standardizing Process and How Proposal Gathers Wider Support. In Proceedings of [The 16th EURAS Annual Standardization Conference](https://web.archive.org/web/20111107000351/http://www.euras.org:80/euras-2011), pp.109~118,  2011. (2011年6月9日) [(Vytautas Magnus University](https://www.vdu.lt/en/), Kaunas, Lithuania)
