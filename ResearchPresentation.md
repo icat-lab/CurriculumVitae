@@ -98,6 +98,11 @@
 - **Yoshiaki Fukami**, Hideaki Takeda, Ikki Ohmukai, and Jiro Kokuryo. [From Self-Interest to Commons: Distinct Aspects of Social Bookmarking Services](http://aisel.aisnet.org/mcis2009/107/) In [Proceedings](https://aisel.aisnet.org/mcis2009/) of [4th Mediterranean Conference on Information Systems](https://web.archive.org/web/20110415214205/http://www.mcis2009.org/), pp.1234~1240, [Athens University of Economics and Business](https://www.aueb.gr/en), Athen, Greek, 2009. (2009年9月25日）
   - [Proceedingsのアーカイブ](https://dblp1.uni-trier.de/db/conf/mcis/mcis2009.html)
 
+- **Yoshiaki Fukami**, Hideaki Takeda, Ikki Ohmukai, and Jiro Kokuryo. Distinctive Factors of Social Bookmarking Services: Aspect of Tool Affects users' Attitude to the Social Computing Platform. In Proceedings of [The IFIP WG9.5 "Virtuality and Society" International Workshop on  Images of Virtuality: Conceptualizations and Applications in Everyday Life](https://web.archive.org/web/20101007082922/http://www.imagesofvirtuality.org/program.html). Athens University of Economics and Business, Greece, April 23, 2009. (2009年4月23日)
+  - [Ifip wg 9.5によるアーカイブサイト](http://www.ifip95wg.org/cfp/images-of-virtuality-conceptualizations-and-applications-in-everyday-life-2009/)
+
+- **Yoshiaki Fukami**, Toshihiro Sekiya, Ikki Ohmukai, and Hideaki Takeda. Method of Evaluating Contents on the Basis of Community’s Interest Using Data from Social Bookmark Services. In Proceedings of [The 6th International Workshop on Social Intelligence Design](https://web.archive.org/web/20130704185058/http://hmi.ewi.utwente.nl/sid07/), pp. 191~205. Centre for Telematics and Information Technology, University of Twente. [July 4, 2007](https://web.archive.org/web/20070707231831/http://hmi.ewi.utwente.nl/sid07/programme#maandag). (2007年7月4日）
+
 - 大石剛司, 亀田尭宙, **深見嘉明**, 大向一輝, 武田英明：ソーシャルブックマークにおけるユーザのタグ付与行動分析に基づくコンテンツ分類, [第70回情報処理学会全国大会講演論文集](http://www.ipsj.or.jp/10jigyo/taikai/70kai/70program/index.html), 3ZK-6, 2008年3月14日. ([paper](http://cyprus.ex.nii.ac.jp/~kameda/profile/ipsj2008_oishi.pdf)) (筑波大学筑波キャンパス, Tsukuba, Ibaraki)
 
 - **深見嘉明**. サステナブルな協働を生み出すプラットフォーム〜タギングシステム. [電子情報通信学会 コミュニティ活性化時限研究専門委員会（CoA: Community Activation）第一回研究発表会](http://www.ieice.org/~coa/conference/conf_1.html)予稿集, pp25-30, 電子情報通信学会コミュニティ活性化時限研究専門委員会, 2008年2月8日. (早稲田大学早稲田キャンパス, Shinjuku, Tokyo)
@@ -119,6 +124,6 @@
 
 - **深見嘉明**. ウェブ標準の普及に実装主義が果たした役割 −HTML5 を事例に−. [日本マーケティング学会](https://www.j-mac.or.jp/) [第2回マーケティングカンファレンス2013](https://www.j-mac.or.jp/conference/) 2013年11月10日. (早稲田大学早稲田キャンパス, Shinjuku, Tokyo)
 
-- **Yoshiaki Fukami**. Effect of implementation-oriented policy based process for standard as platform. [IWSECO 2013: 5th](https://web.archive.org/web/20140222100402/http://iwseco.org/) [International Workshop on Software Ecosystems](http://icsob.it.jyu.fi/workshops.html#iwseco). June 11, 2013. (2013年6月11日) [University of Potsdam](http://icsob.it.jyu.fi/local.html)
-
 - **Yoshiaki Fukami**, Masao Isshiki and Jiro Kokuryo. Effect of implementationalism: Changes in Standardizing Process and How Proposal Gathers Wider Support. In Proceedings of [The 16th EURAS Annual Standardization Conference](https://web.archive.org/web/20111107000351/http://www.euras.org:80/euras-2011), pp.109~118,  2011. (2011年6月9日) [(Vytautas Magnus University](https://www.vdu.lt/en/), Kaunas, Lithuania)
+
+- **Yoshiaki Fukami**. Effect of implementation-oriented policy based process for standard as platform. [IWSECO 2013: 5th](https://web.archive.org/web/20140222100402/http://iwseco.org/) [International Workshop on Software Ecosystems](http://icsob.it.jyu.fi/workshops.html#iwseco). June 11, 2013. (2013年6月11日) [University of Potsdam](http://icsob.it.jyu.fi/local.html)
