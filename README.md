@@ -94,8 +94,8 @@
 
 ## 社会貢献活動
 ### 政府・行政関連
-- 総務省 [Web×IoT メイカーズチャレンジ Plus 2022 実行委員会](https://webiotmakers.github.io/2020/about/) 委員 (2022年9月1日〜2022年3月31日))
-- 総務省 [Web×IoT メイカーズチャレンジ Plus 2021 実行委員会](https://webiotmakers.github.io/2020/about/) 委員 (2021年9月1日〜2022年3月31日))
+- 総務省 [Web×IoT メイカーズチャレンジ Plus 2022 実行委員会](https://webiotmakers.github.io/2020/about/) 委員 (2022年9月1日〜2022年3月31日)
+- 総務省 [Web×IoT メイカーズチャレンジ Plus 2021 実行委員会](https://webiotmakers.github.io/2020/about/) 委員 (2021年9月1日〜2022年3月31日)
 - [一般社団法人オープン＆ビッグデータ活用・地方創生推進機構](https://www2.vled.or.jp/)技術委員会 委員　（2014年10月14日〜2021年11月30日）
 - 内閣府 令和元年度 イノベーション・エコシステムおける戦略的な標準の活用に関する調査研究 有識者発表 (2020年2月28日)
      - [研究会座長による報告資料](https://www.kantei.go.jp/jp/singi/titeki2/tyousakai/kousou/2020/dai5/siryou7.pdf)  
