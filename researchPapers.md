@@ -50,6 +50,11 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 - **深見嘉明**. ソーシャルタギング ―意図せざる協働が生みだす新たな情報流通形態―. [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/)[政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)2007年度修士論文, 2007. [(PDF)](http://web.sfc.keio.ac.jp/~yofukami/y_fukami_master_thesis.pdf)
 
 ### 論文誌
+- Teruaki Hayashi, Hiroyasu Matsushima, Hiroki Sakaji, **Yoshiaki Fukami**, Takumi Shimizu. [Models of Exchanged Datasets and Interactions of Buyers in the Data Market: Toward Multi\-Agent Simulators for System Design](https://www.sciencedirect.com/science/article/pii/S1877050922011115), [*Procedia Computer Science,*](https://www.sciencedirect.com/journal/procedia-computer-science) [Vol. 207,](https://www.sciencedirect.com/journal/procedia-computer-science/vol/207/suppl/C) [pp. 1695\-1704](https://www.sciencedirect.com/science/article/pii/S1877050922011115) 2022年10月20日.
+  - [Scopus index](https://www.scopus.com/sourceid/19700182801)
+  - DOI: https://doi.org/10.1016/j.procs.2022.09.227
+  - JSPS科研費 20H02384
+
 - **深見嘉明**、清水たくみ. 社会を進化させるデータエコシステムをどのように設計するのか, [*人工知能*](https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/), Vol. 37, No. 5, pp.575\-581, 2022年9月9日.
     - JSPS科研費 20H02384
 
