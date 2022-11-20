@@ -1,15 +1,19 @@
 ### 学会口頭発表
 #### 2022
+-  岡田天太、髙木俊雄、**深見嘉明**. [嗜好品産業の自動化と学習](https://www.jasmin.jp/wp-content/uploads/2022program_ver2.2.pdf), [経営情報学会](https://www.jasmin.jp/) [2022年 全国研究発表大会](https://www.jasmin.jp/zenkoku_taikai/2022_fall/), 2022年11月13日. [開志専門職大学](https://kaishi-pu.ac.jp/)[紫竹山キャンパス](https://www.google.com/maps/place/%E3%80%92950-0914+%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%B4%AB%E7%AB%B9%E5%B1%B1%EF%BC%96%E4%B8%81%E7%9B%AE%EF%BC%93%E2%88%92%EF%BC%95/@37.8972631,139.0664564,17z/data=!3m1!4b1!4m5!3m4!1s0x5ff4c91275843e0d:0x51053a36249912a6!8m2!3d37.8972699!4d139.0663489)
+
+
 - **Yoshiaki Fukami**, [珈琲焙煎・抽出に関するナラティブ分析を通じた職人技術の電子化・自動化阻害要因分析](https://conferenceservice.jp/www/jsim83/doc/jsim83_program_18.pdf), [日本情報経営学会第83回全国大会](https://conferenceservice.jp/www/jsim83/), 	2022年6月25日. [専修大学神田キャンパス](https://www.senshu-u.ac.jp/) .
 
 - **Yoshiaki Fukami** and Yoshimasa Masuda. [Society 5.0 as Digital Strategy for Scalability: Tamba's COVID-19 Vaccination Management System and Its Expansion,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQOeiar2Tez80JkTR9LLRnm3_rYuJW3rmkxu-NXfTbL0Ym5aQulbmliid7g54Tbob_ums6cRouPRIXd/pubhtml) [The 10th KES International Conference on Innovation in Medicine and Healthcare \(KES\-InMed\-22\.)](http://inmed-22.kesinternational.org/), 2022年6月22日. Hybrid: [Sheraton Rhodes Resort,](http://inmed-22.kesinternational.org/venue.php) Greece.
 
-- **Yoshiaki Fukami**, Takumi Shimizu, Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima.	Centralized versus decentralized digital identity architectures: Simulation models of data exchange, [AAAI 2022 Spring Symposia 2022,](https://aaai.org/Symposia/Spring/sss22symposia.php) [–How Fair is Fair? Achieving Wellbeing AI–.](https://aaai.org/Symposia/Spring/sss22symposia.php#ss07) 2022年3月22日. Hybrid: Stanford University, Palo Alto, California, U.S.A./ online.
+- **Yoshiaki Fukami**, [Takumi Shimizu, Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima.	Centralized versus decentralized digital identity architectures: Simulation models of data exchange](https://ceur-ws.org/Vol-3276/SSS-22_FinalPaper_38.pdf), [AAAI 2022 Spring Symposia 2022,](https://aaai.org/Symposia/Spring/sss22symposia.php) [–How Fair is Fair? Achieving Wellbeing AI–.](https://aaai.org/Symposia/Spring/sss22symposia.php#ss07) 2022年3月22日. Hybrid: Stanford University, Palo Alto, California, U.S.A./ online.
   - JSPS科研費 20H02384
+  - ISSN:[1613-0073](https://ceur-ws.org/Vol-3276/)
 
 #### 2021
 - **Yoshiaki Fukami**, Takumi Shimizu, and Hiroyasu Matsushima.	[The Impact of Decentralized Identity Architecture on Data Exchange,](https://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2021/schedule.html)	[The 4th International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC2021)](https://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2021/). 2021年12月15日. オンライン開催
-  - JSPS科研費 20H02384
+  - JSPS科研費 20H02384  
 
 - **深見嘉明**. [ワイン事業新規参入時における地域・産業コミュニティ参入プロセス分析](https://jss-sociology.org/other/20210924post-12090/#25), [日本社会学会](https://jss-sociology.org/) [第94回 日本社会学会大会](https://jss-sociology.org/meeting/20201102post-11104/). 2021年11月13日. オンライン開催.
 
