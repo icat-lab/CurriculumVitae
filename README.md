@@ -124,6 +124,8 @@
 - [学会口頭発表](https://github.com/icat-lab/CurriculumVitae.md/blob/master/ResearchPresentation.md)
 
 ## 論考記事
+- <u>深見嘉明</u>. [DXとは何をトランスフォームするのか](https://cs2.toray.co.jp/news/tbr/newsrrs01.nsf/0/91E23F34C256DAD1492588DA0018BE93/$FILE/K2210_025_031.pdf). [経営センサー,](https://www.tbr.co.jp/report/sensor/) [2022年10月号　No\.246](https://cs2.toray.co.jp/news/tbr/newsrrs01.nsf/0/91E23F34C256DAD1492588DA0018BE93?open), [pp25-31,](https://cs2.toray.co.jp/news/tbr/newsrrs01.nsf/0/91E23F34C256DAD1492588DA0018BE93/$FILE/K2210_025_031.pdf) [東レ経営研究所](https://www.tbr.co.jp/). 2022年10月13日.
+
 - [日経 xTECH | データ時代の国際標準化競争](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/01021/)
   - <u>深見嘉明</u>. [スマホ時代の「標準化競争」に勝ったグーグル、マイクロソフトを制した意外な戦略](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/01021/101600004/), 2019年10月18日
   - <u>深見嘉明</u>. [GAFAら世界の強者が時には競合すら巻き込んで戦略的に「協調領域」を作る真の理由）](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/01021/101700005/), 2019年10月21日
