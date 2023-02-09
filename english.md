@@ -1,17 +1,24 @@
 # Curriculum Vitae of Yoshiaki FUKAMI
-April 20th, 2021
+February 9th, 2023
 
-Yoshiaki Fukami (PhD):
-Yoshiaki Fukami is a Visiting Professor at Department of Management at Gakushuin University, Visiting Senior Researcher at Keio University Global Research Institute and Visiting Researcher at School of Medicine at Keio University. He worked at Rikkyo Business School (Specially Appointed Associate Professor, 2015-2020). He is a director of The Japan Society for Management Information. He received his Ph. D. (Media and Governance) from Keio University.
+Yoshiaki Fukami (Ph.D, Media and Governance, Keio Unversity):
+Yoshiaki Fukami is a Junior Associate Professor at Tokyo University of Science, and Visiting Researcher at Wellbeing Research Center of Keio University. He worked at Gakushuin University (Specially Appointed Professor 2020-2022), Rikkyo Business School (Specially Appointed Associate Professor, 2015-2020). He is a director of The Japan Society for Management Information. He received his Ph. D. (Media and Governance) from Keio University.
 Fukami's specialization is in standardization strategy, platform strategy, open collaborative innovation. He has contributed to Open data technical strategy of government at the Vitalizing Local Economy Organization by Open Data & Big Data (a member of Technical Committee), the Committee at the Infrastructure for Multi-layer Interoperability Working group, the Committee at The Research Committee of Scheme for Interoperability of Public-sector Information, and Technical Committee at the Open Data Promotion Consortium. Information-technology Promotion Agency, Japan. He has also contributed to web standardization activities at the World Wide Web Consortium. He was awarded the Young Investigator Award 2018 autumn by Japan Society for Information and Management. He is the author of books; "Utilizing web application for your business" (Discover Twenty-One Publishing, 2010), "Metadata is changing the world" (NTT Publishing, 2009), and chapter; Platform Strategy suited for IoT based technology: How to Develop and Engage Ecosystems, in "Business Design and Business Science" (Soseisha, 2016), Behavior Analysis in Activities for Building Ecosystems: Competitive Strategy of Platforms in Standardizing Processes in "Platform for Emergence" (Nikkei Newspaper Publishing, 2011). He is also the editor of a book; "Technical review of HTML5 to enhance skills for web contents development" (RIC Telecom Publishing, 2012).
 
 # Affiliation
-## 2021- Parttime Lecturer at [Department of International Digital and Design Management,](https://www.tus.ac.jp/idm/index-en.html)[School of Management,](https://www.tus.ac.jp/en/fac/keiei/)[Tokyo University of Science](https://www.tus.ac.jp/en/)
+## 2022- Junior Associate Professor at [Department of International Digital and Design Management,](https://www.tus.ac.jp/idm/index-en.html)[School of Management,](https://www.tus.ac.jp/en/fac/keiei/)[Tokyo University of Science](https://www.tus.ac.jp/en/)
+* In charge of classes; Seminar (International), Corporate Ethics and etc.
 
-## 2021-  Visiting Researcher at [Department of Health Policy and Management](http://www.hpm.med.keio.ac.jp/), [School of Medicine](http://www.med.keio.ac.jp/en/index.html), [Keio University](https://www.keio.ac.jp/en/)
-* As a member of [Cyber Civilization Research Center](https://www.ccrc.keio.ac.jp/)
+## 2022- Visiting Researcher at [Wellbeing Research Center](https://www.tonomachi.keio.ac.jp/en/research/), [Keio University](https://www.keio.ac.jp/en/)
 
-## 2020-  Visiting Professor at [Department of Management](https://www.univ.gakushuin.ac.jp/eco/en/education/management/), [Faculty of Economics](https://www.univ.gakushuin.ac.jp/eco/en/), [Gakushuin University](https://www.univ.gakushuin.ac.jp/en/)
+## 2021-2022 Parttime Lecturer at [Department of International Digital and Design Management,](https://www.tus.ac.jp/idm/index-en.html)[School of Management,](https://www.tus.ac.jp/en/fac/keiei/)[Tokyo University of Science](https://www.tus.ac.jp/en/)
+* In charge of classes; Co-design project
+
+## 2021- Member of [Keio Unviersity Global Research Institute](https://www.kgri.keio.ac.jp/en/)
+
+## 2021-2022  Visiting Researcher at [Department of Health Policy and Management](http://www.hpm.med.keio.ac.jp/), [School of Medicine](http://www.med.keio.ac.jp/en/index.html), [Keio University](https://www.keio.ac.jp/en/)
+
+## 2020-2022  Specially Appointed Professor at [Department of Management](https://www.univ.gakushuin.ac.jp/eco/en/education/management/), [Faculty of Economics](https://www.univ.gakushuin.ac.jp/eco/en/), [Gakushuin University](https://www.univ.gakushuin.ac.jp/en/)
 * Fields: Enterprize Architecture, Data Architecture, Standardization Strategy, Open Collaborative Innovation, Platform Strategy
 * In charge of classes; Business design with IoT related technologies, Technology management, IT business update, Platform strategy, Management strategy, [Baic seminar for 1st grade of undergraduate](https://github.com/icat-lab/icat_lab/blob/master/basic_seminar_undergrad/basic_seminar.md).
 
@@ -63,7 +70,11 @@ Marketing Researcher and Marketing Planner (1999-2003)
 * I have contributed for a telecommunication company to develop strategy to diffuse ADSL connections and 3G mobile phone network, for some TV broadcasting companies to develop their corporate identities.
 
 # Activities
-## 2017-2019	Director (Publicity) of The Japan Society for Management Information
+## September 2022 to March 2023: Executive committee member of Web x IoT Makers Challenge Plus 2022
+
+## September 2021 to March 2022: Executive committee member of Web x IoT Makers Challenge Plus 2021
+
+## 2017-2019:	Director (Publicity) of The Japan Society for Management Information
 
 ## October 2014 to Present:	Technical Committee at the Vitalizing Local Economy Organization by Open Data & Big Data (VLED, commissioned by Ministry of Internal Affairs and Communications)
 
@@ -91,12 +102,6 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 * **Yoshiaki Fukami** *Metadata is changing the world*, NTT Publishing, Tokyo, Japan. 2009 (written in Japanese: 『ウェブは菩薩である ～メタデータが世界を変える』)
 
 ## Book Chapters
-- **Yoshiaki Fukami** and Yoshimasa Masuda. [Support for COVID-19 Vaccination in Tamba City’s Regional Comprehensive Care System](https://link.springer.com/chapter/10.1007/978-981-16-3013-2_2). In: [Yen-Wei Chen, Satoshi Tanaka, Robert J. Howlett and Lakhmi C. Jain (eds). Innovation in Medicine and Healthcare](https://www.springer.com/gp/book/9789811630125): Proceedings of [9th KES-InMed 2021](http://inmed-21.kesinternational.org/), [Smart Innovation, Systems and Technologies](https://link.springer.com/bookseries/8767), vol. 242, pp. 15-25. [Springer Singapore](https://link.springer.com/), 2021. (2021年7月6日）
-  - [Scopus index](https://www.scopus.com/sourceid/21100204111)
-  - DOI: https://doi.org/10.1007/978-981-16-3013-2_2
-  - **The Best Paper Award** for [InMed21](http://inmed-21.kesinternational.org/)
-  - JSPS科研費 JP18K12858
-
 - **Yoshiaki Fukami** and Yoshimasa Masuda. [Stumbling Blocks of Utilizing Medical and Health Data: Success Factors Extracted from Australia–Japan Comparison](https://link.springer.com/chapter/10.1007/978-981-15-5852-8_2). In: [Yen-Wei Chen, Satoshi Tanaka, Robert J. Howlett and Lakhmi C. Jain (eds). Innovation in Medicine and Healthcare \| SpringerLink](https://link.springer.com/book/10.1007/978-981-15-5852-8): Proceedings of [8th KES-InMed 2020](http://inmed-20.kesinternational.org/), [Smart Innovation, Systems and Technologies](https://link.springer.com/bookseries/8767), vol. 192, pp. 15-25. [Springer Singapore](https://link.springer.com/), 2020. (July 11th, 2020）
 
 - **Yoshiaki Fukami** and Yoshimasa Masuda. [Success Factors for Realizing Regional Comprehensive Care by EHR with Administrative Data](https://link.springer.com/chapter/10.1007/978-981-13-8566-7_4). In: [Yen-Wei Chen, Alfred Zimmermann, Robert J. Howlett and Lakhmi C. Jain (eds).Innovation in Medicine and Healthcare Systems, and Multimedia](https://www.springer.com/gp/book/9789811385650#): Proceedings of [KES-InMed-19](http://inmed-19.kesinternational.org/) and KES-IIMSS-19 Conferences, [Smart Innovation, Systems and Technologies](https://www.springer.com/series/8767), Vol. 145, pp. 35-45, [Springer Singapore](https://link.springer.com/), 2019. (July 6th, 2019）
@@ -112,28 +117,7 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 
 
 ## Papers
-- **Yoshiaki Fukami**.  [Two Obstacle Factors for Technological Standardization: The Viewpoint of Technological Frame](https://www.mdpi.com/2305-6703/2/1/1), [*Standards*](https://www.mdpi.com/journal/standards), [Vol. 2,](https://www.mdpi.com/2305-6703/2) [No. 1,](https://www.mdpi.com/2305-6703/2/1) [pp. 1\-13](https://www.mdpi.com/2305-6703/2/1/1), 2021年12月24日.
-  - DOI: https://doi.org/10.3390/standards2010001
-  - JSPS科研費 20H02384
-
-- **Yoshiaki Fukami** and Takumi Shimizu. [Technology Standardization for Innovation: How Google Leverages an Open Digital Platform](https://www.mdpi.com/2078-2489/12/11/441),  [*Information*](https://www.mdpi.com/journal/information), [Vol. 12](https://www.mdpi.com/2078-2489/12), [Issue. 11](https://www.mdpi.com/2078-2489/12/11), 2021年10月23日.
-    - [Scopus index](https://www.scopus.com/sourceid/21100223111)
-    - DOI: https://doi.org/10.3390/info12110441
-    - JSPS科研費 20H02384
-
-- **Yoshiaki Fukami**,  [Open and Clarified Process of Compatibility Standards for Promoting Data Exchange](https://link.springer.com/article/10.1007/s12626-021-00087-4), [The Review of Socionetwork Strategies](https://www.springer.com/journal/12626) 2021年10月8日.
-  - JSPS科研費 20H02384
-
-- Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima, **Yoshiaki Fukami**, Takumi Shimizu & Yukio Ohsawa. [Data Combination for Problem\-Solving: A Case of an Open Data Exchange Platform](https://link.springer.com/article/10.1007/s12626-021-00083-8), [The Review of Socionetwork Strategies,](https://www.springer.com/journal/12626) 2021年5月29日.
-  - JSPS科研費 20H02384
-
-- 清水たくみ、早矢仕晃章、**深見嘉明**、松島裕康、坂地泰紀、大澤幸生. [データ流通エコシステムにおけるプラットフォームを媒介とした価値創造.](https://www.soumu.go.jp/main_content/000717808.pdf)  [情報通信政策研究](https://www.jstage.jst.go.jp/browse/jicp/-char/ja) [Vol. 4, No. 1,](https://www.soumu.go.jp/iicp/journal/02iicp01_04000234.html) [pp.103\-123](https://www.jstage.jst.go.jp/article/jicp/4/1/4_103/_article/-char/ja), 2020年11月20日.
-  - JSPS科研費 20H02384
-
 - **Yoshiaki Fukami**.[Standardization Procedure for Data Exchange](https://www.mdpi.com/2078-2489/11/6/339),  [*Information*](https://www.mdpi.com/journal/information), [Vol. 11](https://www.mdpi.com/2078-2489/11), [Issue. 6](https://www.mdpi.com/2078-2489/11/6), 2020年6月25日.
-  - [Scopus index](https://www.scopus.com/sourceid/21100223111)
-  - [Information\_MDPI on Twitter](https://twitter.com/InformationMDPI/status/1277458528148439041)
-  - DOI: https://doi.org/10.3390/info11060339
 
 - 古崎晃司， 横山輝明， **深見嘉明**. [GPS移動履歴の収集とオープンデータを用いた移動軌跡のLOD化 ─国際会議ISWC2016における実証実験を例として─.](https://www.ipsj.or.jp/dp/contents/publication/33/S0901-T09.html) [情報処理学会デジタルプラクティス](https://www.ipsj.or.jp/dp/contents/dp-mokuji.html) [Vol.9, No.1.](https://www.ipsj.or.jp/dp/contents/publication/33/S0901-index.html) 2018年1月.
 
@@ -150,40 +134,27 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 - **深見嘉明**, 國領二郎. [意図せざる協働−ソーシャルブックマークにおけるボトムアップメタデータ生成による情報共有−](https://infosocio.org/archives/paper/vol2no2-2). [情報社会学会誌](https://infosocio.org/archives/paper), [Vol. 2](https://infosocio.org/archives/papervolno/vol2), [No. 2](https://infosocio.org/archives/papervolno/vol2no2), pp. 6--19, 2007年6月.
 
 ## Articles
-* **Y. Fukami** [“<HTML5> The Hot Keyword in Telecommunication Industry”](http://wirelesswire.jp/special/201112/01/) WirelessWire News, Tokyo, Japan. December 26, 2011  (written in Japanese: 「HTML5」2012年通信業界気になるキーワード)
+* **Yoshiaki Fukami** [“<HTML5> The Hot Keyword in Telecommunication Industry”](http://wirelesswire.jp/special/201112/01/) WirelessWire News, Tokyo, Japan. December 26, 2011  (written in Japanese: 「HTML5」2012年通信業界気になるキーワード)
 
-* **Y. Fukami** (supervising) “A decade chronicle of the Web Standard” Web Designing, vol. July-2011, pp. 56-57, Mainichi Communications, Tokyo, Japan. (written in Japanese: 「Web標準を巡る10年」Web Designing 2011年6月号)
+* **Yoshiaki Fukami** (supervising) “A decade chronicle of the Web Standard” Web Designing, vol. July-2011, pp. 56-57, Mainichi Communications, Tokyo, Japan. (written in Japanese: 「Web標準を巡る10年」Web Designing 2011年6月号)
 
-* **Y. Fukami** “From POS system to Crowd Computing Based Analysis: the History of Data Processing” Extra Edition of Economist (Japanese): The Winner of Bigdata Economy, vol. August-9th-2010, pp. 43-45, The Mainichi Newspapers, Tokyo, Japan. (written in Japanese: POSからクラウド　データ処理の歩みをたどる. 『エコノミスト増刊 巨大データ経済の勝者』2010年8月9日号増刊)
+* **Yoshiaki Fukami** “From POS system to Crowd Computing Based Analysis: the History of Data Processing” Extra Edition of Economist (Japanese): The Winner of Bigdata Economy, vol. August-9th-2010, pp. 43-45, The Mainichi Newspapers, Tokyo, Japan. (written in Japanese: POSからクラウド　データ処理の歩みをたどる. 『エコノミスト増刊 巨大データ経済の勝者』2010年8月9日号増刊)
 
 ## Academic Presentations
-### 2021
-- **Y. Fukami**. [Ethical Dilemmas on the Medical Data Platform for Patient\-Centred Approaches: Consideration from Macro and Micro Perspectives](https://dialnet.unirioja.es/servlet/articulo?codigo=7977297), Oliva,  M. A., Borondo, J. P., Murata, K. and Lara, E. M. R. (Eds.) [Normal Technology Ethics, Proceedings](https://dialnet.unirioja.es/servlet/libro?codigo=824595) of [the ETHICOMP 2021](https://www.unirioja.es/ethicomp/2021/), pp. 264-267, 2021年6月30日. [(online)](https://www.unirioja.es/ethicomp/2021/venue.html)
-  - ISBN: 978-84-09-28671-3
-  - Fund: JSPS-Kakenhi 20H02384
-
-### 2020
-- **Y. Fukami** and Y. Masuda. Governance for realization of medical, nursing and administration data
- integration system. [APAMI 2020 \- 11th Biennial Conference of the Asia\-Pacific Association for Medical Informatics.](http://apami2020.org/index.html) 2020年11月22日. , [(Act city Hamamatsu Congress center /アクトシティ浜松コングレスセンター, Hamamatsu, Shizuoka)](https://www.actcity.jp/visitor/congress/)
-  - Fund: JSPS-Kakenhi 18K12858
-
 ### 2019
-- **Y. Fukami**. Standardization for innovation with data exchange. [The 2nd International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC).](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/)[2019年11月8日.](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/schedule.html) [(China National Convention Center \(CNCC\), Beijing)](http://icdm2019.bigke.org/)
-  - Fund: JSPS-Kakenhi 18K12858
+- **Yoshiaki Fukami**. Standardization for innovation with data exchange. [The 2nd International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC).](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/)[2019年11月8日.](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/schedule.html) [(China National Convention Center \(CNCC\), Beijing)](http://icdm2019.bigke.org/)
   - Best presentation award
 
-- **Y. Fukami**. How communities of users appear in standardization processes like ghost. [The 37th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2019)](https://www.york.ac.uk/management/events/2019/scos-conference-2019-york/). [2019年7月9日](https://www.york.ac.uk/media/tyms/documents/events/archive2018-19/Draft%20timetable%20for%20circulationv3.pdf). ([The King's Manor,](https://www.york.ac.uk/about/campus/landmarks/kings-manor/) [York management school,](https://www.york.ac.uk/management/) [University of York.](https://www.york.ac.uk/))
-  - Fund: JSPS-Kakenhi 18K12858
+- **Yoshiaki Fukami**. How communities of users appear in standardization processes like ghost. [The 37th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2019)](https://www.york.ac.uk/management/events/2019/scos-conference-2019-york/). [2019年7月9日](https://www.york.ac.uk/media/tyms/documents/events/archive2018-19/Draft%20timetable%20for%20circulationv3.pdf). ([The King's Manor,](https://www.york.ac.uk/about/campus/landmarks/kings-manor/) [York management school,](https://www.york.ac.uk/management/) [University of York.](https://www.york.ac.uk/))
 
 - **Yoshiaki Fukami** and Yoshimasa Masuda. “Success factors for realizing regional comprehensive care by HER with Administrative data” In proceedings of The 7th KES International Conference on Innovation in Medicine and Healthcare. June, 2019.
 
-### 2018
 * **Yoshiaki Fukami**. “From “Rough-consensus to Running-code” to Implementation-oriented Policy:
 Maturity Process of Compatibility Standardization Process” In proceedings of Japan Society for Information and Management 78th Annual Conference, 2018.
-  - Young Investigator Award of the conference
-  - Written in Japanese: Rough-consensus, running-code”から実装主義へ: 相互可用性標準確立プロセスの成熟化
+(Young Investigator Award of the conference）
+(written in Japanese: Rough-consensus, running-code”から実装主義へ: 相互可用性標準確立プロセスの成熟化)
 
-- **Yoshiaki Fukami** and Takumi Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms.  In [Proceedings](http://bit.ly/PACIS2018:title=Proceedings) of [Twenty-Second Pacific Asia Conference on Information Systems (PACIS 2018)](http://pacis2018.org/index.html), pp. 2273-2285, June 29, 2018, [Yokohama Royal Park Hotel,](https://www.yrph.com/) Yokohama, Japan.
+* **Yoshiaki Fukami** and Takumi Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms. In Proceedings of Twenty-Second Pacific Asia Conference on Information Systems, pp. 2273-2285, June 29, 2018.
 
 - **Yoshiaki Fukami**. [Google’s strategy to transform web architecture: Innovation through standardization overcoming framing contest.](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing) [The 36th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2018)](http://scos2018.org/)  2018年8月18日. [明治大学, Tokyo](https://www.meiji.ac.jp/) [(予稿集PDF)](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing)
 
