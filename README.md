@@ -152,7 +152,7 @@
 - [HTML5に関わらないと日本企業は世界から遅れる,](http://www.atmarkit.co.jp/fwcr/design/benkyo/html5_05/01.html) [＠IT](https://www.atmarkit.co.jp/) 2010年4月6日.
 
 # 招待講演など
-- **深見嘉明**.  新時代のデータ取引を考える: Web3.0は可能なのか?, [データ流通市場の歩き方](https://blog.j-dex.co.jp/archive/category/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88)第7回, [株式会社日本データ取引所](https://j-dex.co.jp/), 2022年4月27日, オンライン. 
+- **深見嘉明**, 中島博敬.  新時代のデータ取引を考える: Web3.0は可能なのか?, [データ流通市場の歩き方](https://blog.j-dex.co.jp/archive/category/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88)第7回, [株式会社日本データ取引所](https://j-dex.co.jp/), 2022年4月27日, オンライン. 
 
 - **Y. Fukami**.[ "Knowledge Production – The Limits of Big Data and AI,"](https://speakerdeck.com/rhys_no1/knowledge-production-the-limits-of-big-data-and-ai) [Knowledge Production in a Data Driven Society,](https://www.dijtokyo.org/event/knowledge-production-in-a-data-driven-society/) [MWS Web Forum Series 'The Digital Transformation,](https://www.dijtokyo.org/event-series/digital-transformation/) [ドイツ日本研究所 (Deutsches Institut für Japanstudien: DJI,)](https://www.dijtokyo.org/ja/) [2021年9月23日,　オンライン.](https://www.dijtokyo.org/event/knowledge-production-in-a-data-driven-society/)
   - [Speaker Deck](https://speakerdeck.com/rhys_no1/knowledge-production-the-limits-of-big-data-and-ai)
