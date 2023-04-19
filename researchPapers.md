@@ -55,10 +55,16 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
   - DOI: https://doi.org/10.1016/j.procs.2022.09.227
   - JSPS科研費 20H02384
 
-- **深見嘉明**、清水たくみ. 社会を進化させるデータエコシステムをどのように設計するのか, [*人工知能*](https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/), Vol. 37, No. 5, pp.575\-581, 2022年9月9日.
+- **深見嘉明**、清水たくみ. [社会を進化させるデータエコシステムをどのように設計するのか](https://www.jstage.jst.go.jp/article/jjsai/37/5/37_575/_article/-char/ja/), [*人工知能*](https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/), Vol. 37, No. 5, pp.575\-581, 2022年9月9日.
+    - DOI: https://doi.org/10.11517/jjsai.37.5_575
+    - JSPS科研費 20H02384    
+
+- 早矢仕晃章、坂地泰紀、**深見嘉明**. [データエコシステムの技術動向とこれからの展開](https://www.jstage.jst.go.jp/article/jjsai/37/5/37_550/_article/-char/ja/), [*人工知能*](https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/), Vol. 37, No. 5, pp.550\-557, 2022年9月9日.
+    - DOI: https://doi.org/10.11517/jjsai.37.5_548
     - JSPS科研費 20H02384
 
-- 早矢仕晃章、坂地泰紀、**深見嘉明**. データエコシステムの技術動向とこれからの展開, [*人工知能*](https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/), Vol. 37, No. 5, pp.550\-557, 2022年9月9日.
+- 早矢仕晃章、坂地泰紀、**深見嘉明**. [特集「データエコシステム」にあたって](https://www.jstage.jst.go.jp/article/jjsai/37/5/37_548/_article/-char/ja/), [*人工知能*](https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/), Vol. 37, No. 5, pp.548\-549, 2022年9月9日.
+    - DOI: https://doi.org/10.11517/jjsai.37.5_550
     - JSPS科研費 20H02384
 
 - **Yoshiaki Fukami**.  [Two Obstacle Factors for Technological Standardization: The Viewpoint of Technological Frame](https://www.mdpi.com/2305-6703/2/1/1), [*Standards*](https://www.mdpi.com/journal/standards), [Vol. 2,](https://www.mdpi.com/2305-6703/2) [No. 1,](https://www.mdpi.com/2305-6703/2/1) [pp. 1\-13](https://www.mdpi.com/2305-6703/2/1/1), 2021年12月24日.
