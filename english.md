@@ -1,5 +1,5 @@
 # Curriculum Vitae of Yoshiaki FUKAMI
-February 9th, 2023
+April 29th, 2023
 
 Yoshiaki Fukami (Ph.D, Media and Governance, Keio Unversity):  
 Yoshiaki Fukami is an Associate Professor at Tokyo University of Science, and Visiting Researcher at [School of Medicine](http://www.med.keio.ac.jp/en/index.html), [Keio University](https://www.keio.ac.jp/en/). He worked at Gakushuin University (Specially Appointed Professor 2020-2022), Rikkyo Business School (Specially Appointed Associate Professor, 2015-2020). He is a director of The Japan Society for Management Information. He received his Ph. D. (Media and Governance) from Keio University.
