@@ -1,4 +1,8 @@
 ### 学会口頭発表
+#### 2023
+- 松島裕康、早矢仕晃章、難波敏彦、坂地泰紀、清水たくみ、**深見嘉明.** [両面市場型データ流通シミュレーションにおける再販エージェントモデルの検討](https://collabodesign.org/docmas/papers/docmas_202311/110-0186.pdf), [人工知能学会](https://www.ai-gakkai.or.jp/) [合同研究会2023](https://www.ai-gakkai.or.jp/sigconf2023/) [データ指向構成マイニングとシミュレーション研究会 \(DOCMAS\)](https://collabodesign.org/docmas/) [第24回研究会](https://www.ai-gakkai.or.jp/sigconf2023/programs/#docmas) 2023年11月25日. [（慶應義塾大学 矢上キャンパス)](https://www.ai-gakkai.or.jp/sigconf2023/)
+  - JSPS科研費 20H02384
+
 #### 2022
 -  岡田天太、髙木俊雄、**深見嘉明**. [嗜好品産業の自動化と学習](https://www.jasmin.jp/wp-content/uploads/2022program_ver2.2.pdf), [経営情報学会](https://www.jasmin.jp/) [2022年 全国研究発表大会](https://www.jasmin.jp/zenkoku_taikai/2022_fall/), 2022年11月13日. [開志専門職大学](https://kaishi-pu.ac.jp/)[紫竹山キャンパス](https://www.google.com/maps/place/%E3%80%92950-0914+%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%B4%AB%E7%AB%B9%E5%B1%B1%EF%BC%96%E4%B8%81%E7%9B%AE%EF%BC%93%E2%88%92%EF%BC%95/@37.8972631,139.0664564,17z/data=!3m1!4b1!4m5!3m4!1s0x5ff4c91275843e0d:0x51053a36249912a6!8m2!3d37.8972699!4d139.0663489)
 
