@@ -1,5 +1,11 @@
 ## 論文/著書
 ### 著書 (分担執筆を含む)
+- 上田隆穂、榊原健郎編. 佐々木聡、**深見嘉明**、中野努、西原彰宏、井上真里、工藤秀雄、河合亜矢子、伊藤匡美、西村孝史、大塚成男、落合孝彦、境睦、森治憲著. [グラフィック 経営学入門](https://www.saiensu.co.jp/search/?isbn=978-4-88384-374-9&y=2023), [新世社](https://www.saiensu.co.jp/search/?publisher=sinsei).
+  - ISBN: 978-4-88384-374-9
+  - Press releases
+    - [東京理科大学](https://www.tus.ac.jp/today/archive/20231127_8119.html)
+  - [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4883843742)
+
 - **Yoshiaki Fukami** and Jiro Kokuryo. Artificial Intelligence for Social Good. In: [Artificial Intelligence for Social Good,](https://apru.org/resource/artificial-intelligence-for-social-good/) pp. 12–21, [Association of Pacific Rim Universities Limited (APRU)](https://apru.org/) and Keio University, [September, 19.2020.](https://apru.org/ai-for-social-good-network-releases-new-report/))
   - ISBN: 979-988-77283-0-6
   - Press releases
@@ -15,7 +21,7 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
   - ISBN:	978-4-7944-2554-6
   - [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4794425546/)
 
-- **深見嘉明** 「IoT時代のプラットフォーム戦略―エコシステムをどう作り上げ,関与するのか―」[立教大学大学院ビジネスデザイン研究科編](https://business-school.rikkyo.ac.jp/)[『ビジネスデザインと経営学』](https://www.books-sosei.com/book/24907.html) , pp. 227-247, [創成社](https://www.books-sosei.com/), 2016年11月20日.     
+- **深見嘉明** 「IoT時代のプラットフォーム戦略―エコシステムをどう作り上げ,関与するのか―」[立教大学大学院ビジネスデザイン研究科編](https://business-school.rikkyo.ac.jp/)[『ビジネスデザインと経営学』](https://www.books-sosei.com/book/24907.html) , pp. 227-247, [創成社](https://www.books-sosei.com/), 2016年11月20日.
   - ISBN:978-4794424-90-7
   - [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4794424906)
 
@@ -40,6 +46,12 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
   - [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4757102410)
 
 ### 訳書
+- [David Michael Boje](https://davidboje.com/vita/). [Storytelling Organizations](https://uk.sagepub.com/en-gb/eur/storytelling-organizations/book230400), [SAGE Publications](https://uk.sagepub.com/en-gb/eur), October, 2008.(監訳: 高橋正泰、増田 靖. [「語る組織」](https://www.dobunkan.co.jp/books/detail/003339), 、[同文舘出版](https://www.dobunkan.co.jp/), 2023年9月4日.)
+  - ISBN: 9784495390808
+  - Press releases
+    - [東京理科大学](https://www.tus.ac.jp/today/archive/20231127_4481.html)
+  - [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4495390805/)
+
 - [Tom Heath](http://tomheath.com/home/html), [Christian Bizer](http://dws.informatik.uni-mannheim.de/en/people/professors/prof-dr-christian-bizer/) ["Linked Data: Evolving the Web into a Global Data Space (1st edition)”](http://linkeddatabook.com/editions/1.0/) [Morgan & Claypool Publishers](http://www.morganclaypool.com/), 2011.(監修・翻訳: 武田 英明, 翻訳: 大向 一輝, 加藤 文彦, 嘉村 哲郎, 亀田 尭宙, 小出 誠二, **深見嘉明**, 松村 冬子, 南 佳孝, [『Linked Data: Webをグローバルなデータ空間にする仕組み』](http://www.kindaikagaku.co.jp/information/kd0427.htm) [近代科学社](http://www.kindaikagaku.co.jp/index.htm), 2013年2月4日)
   - ISBN: 978-4764904-27-9
   - [(Amazon.co.jp)](https://www.amazon.co.jp/gp/product/4764904276/)
@@ -50,6 +62,9 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 - **深見嘉明**. ソーシャルタギング ―意図せざる協働が生みだす新たな情報流通形態―. [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/)[政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)2007年度修士論文, 2007. [(PDF)](http://web.sfc.keio.ac.jp/~yofukami/y_fukami_master_thesis.pdf)
 
 ### 論文誌
+- **深見嘉明**、福田大年、中村暁子、寺本 直城. [スマートロースターと焙煎士の相互行為を通した新製品開発の可能性 -メザニンロースタリービジネスの勃興を事例として-](https://www.jstage.jst.go.jp/article/marketing/43/3/43_2024.002/_article/-char/ja). [*マーケティングジャーナル*](https://www.j-mac.or.jp/mj/), [Vol. 43](https://www.jstage.jst.go.jp/browse/marketing/43/0/_contents/-char/ja),[No. 3](https://www.jstage.jst.go.jp/browse/marketing/43/3/_contents/-char/ja), [pp\. 6\-18](https://www.jstage.jst.go.jp/article/marketing/43/3/43_2024.002/_article/-char/ja), 2024年1月10日.
+  - DOI: https://doi.org/10.7222/marketing.2024.002
+
 - Teruaki Hayashi, Hiroyasu Matsushima, Hiroki Sakaji, **Yoshiaki Fukami**, Takumi Shimizu. [Models of Exchanged Datasets and Interactions of Buyers in the Data Market: Toward Multi\-Agent Simulators for System Design](https://www.sciencedirect.com/science/article/pii/S1877050922011115), [*Procedia Computer Science,*](https://www.sciencedirect.com/journal/procedia-computer-science) [Vol. 207,](https://www.sciencedirect.com/journal/procedia-computer-science/vol/207/suppl/C) [pp. 1695\-1704](https://www.sciencedirect.com/science/article/pii/S1877050922011115) 2022年10月20日.
   - [Scopus index](https://www.scopus.com/sourceid/19700182801)
   - DOI: https://doi.org/10.1016/j.procs.2022.09.227
@@ -57,7 +72,7 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 
 - **深見嘉明**、清水たくみ. [社会を進化させるデータエコシステムをどのように設計するのか](https://www.jstage.jst.go.jp/article/jjsai/37/5/37_575/_article/-char/ja/), [*人工知能*](https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/), Vol. 37, No. 5, pp.575\-581, 2022年9月9日.
     - DOI: https://doi.org/10.11517/jjsai.37.5_575
-    - JSPS科研費 20H02384    
+    - JSPS科研費 20H02384
 
 - 早矢仕晃章、坂地泰紀、**深見嘉明**. [データエコシステムの技術動向とこれからの展開](https://www.jstage.jst.go.jp/article/jjsai/37/5/37_550/_article/-char/ja/), [*人工知能*](https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/), Vol. 37, No. 5, pp.550\-557, 2022年9月9日.
     - DOI: https://doi.org/10.11517/jjsai.37.5_548
