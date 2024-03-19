@@ -64,6 +64,7 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 ### 論文誌
 - **深見嘉明**、福田大年、中村暁子、寺本 直城. [スマートロースターと焙煎士の相互行為を通した新製品開発の可能性 -メザニンロースタリービジネスの勃興を事例として-](https://www.jstage.jst.go.jp/article/marketing/43/3/43_2024.002/_article/-char/ja). [*マーケティングジャーナル*](https://www.j-mac.or.jp/mj/), [Vol. 43](https://www.jstage.jst.go.jp/browse/marketing/43/0/_contents/-char/ja),[No. 3](https://www.jstage.jst.go.jp/browse/marketing/43/3/_contents/-char/ja), [pp\. 6\-18](https://www.jstage.jst.go.jp/article/marketing/43/3/43_2024.002/_article/-char/ja), 2024年1月10日.
   - DOI: https://doi.org/10.7222/marketing.2024.002
+  - 紹介記事: [スマート製品、ユーザーとの共創、AI活用……デジタル社会の新製品開発を考える【論文紹介】 ：MarkeZine（マーケジン）](https://markezine.jp/article/detail/44998)
 
 - Teruaki Hayashi, Hiroyasu Matsushima, Hiroki Sakaji, **Yoshiaki Fukami**, Takumi Shimizu. [Models of Exchanged Datasets and Interactions of Buyers in the Data Market: Toward Multi\-Agent Simulators for System Design](https://www.sciencedirect.com/science/article/pii/S1877050922011115), [*Procedia Computer Science,*](https://www.sciencedirect.com/journal/procedia-computer-science) [Vol. 207,](https://www.sciencedirect.com/journal/procedia-computer-science/vol/207/suppl/C) [pp. 1695\-1704](https://www.sciencedirect.com/science/article/pii/S1877050922011115) 2022年10月20日.
   - [Scopus index](https://www.scopus.com/sourceid/19700182801)
