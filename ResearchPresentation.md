@@ -1,4 +1,10 @@
 ### 学会口頭発表
+#### 2024
+- **深見嘉明.**、清水たくみ、早矢仕晃章、松島裕康. [エージェントシミュレーションによるID アーキテクチャ別個人情報流出リスクの評価,](http://id.nii.ac.jp/1001/00232842/) [情報処理学会](https://www.ipsj.or.jp/index.html)[第167回](https://ipsj-is.jp/is167/)[情報システムと社会環境研究会](https://ipsj-is.jp/). 2024年3月5日. 武蔵大学江古田キャンパス1号館地下1階1001教室とオンラインのハイブリッド開催.
+  - JSPS科研費 20H02384
+
+- **深見嘉明.**、鳥谷真佐子、寺本直城、宮元万菜美.[雪上スポーツトレーニングのデータ活用導入とガバナンス](http://id.nii.ac.jp/1001/00232847/), [情報処理学会](https://www.ipsj.or.jp/index.html)[第167回](https://ipsj-is.jp/is167/)[情報システムと社会環境研究会](https://ipsj-is.jp/). 2024年3月5日. 武蔵大学江古田キャンパス1号館地下1階1001教室とオンラインのハイブリッド開催.
+
 #### 2023
 - 松島裕康、早矢仕晃章、難波敏彦、坂地泰紀、清水たくみ、**深見嘉明.** [両面市場型データ流通シミュレーションにおける再販エージェントモデルの検討](https://collabodesign.org/docmas/papers/docmas_202311/110-0186.pdf), [人工知能学会](https://www.ai-gakkai.or.jp/) [合同研究会2023](https://www.ai-gakkai.or.jp/sigconf2023/) [データ指向構成マイニングとシミュレーション研究会 \(DOCMAS\)](https://collabodesign.org/docmas/) [第24回研究会](https://www.ai-gakkai.or.jp/sigconf2023/programs/#docmas) 2023年11月25日. [（慶應義塾大学 矢上キャンパス)](https://www.ai-gakkai.or.jp/sigconf2023/)
   - JSPS科研費 20H02384
