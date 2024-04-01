@@ -46,7 +46,7 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
   - [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4757102410)
 
 ### 訳書
-- [David Michael Boje](https://davidboje.com/vita/). [Storytelling Organizations](https://uk.sagepub.com/en-gb/eur/storytelling-organizations/book230400), [SAGE Publications](https://uk.sagepub.com/en-gb/eur), October, 2008.(監訳: 高橋正泰、増田 靖. [「語る組織」](https://www.dobunkan.co.jp/books/detail/003339), 、[同文舘出版](https://www.dobunkan.co.jp/), 2023年9月4日.)
+- [David Michael Boje](https://davidboje.com/vita/). [Storytelling Organizations](https://uk.sagepub.com/en-gb/eur/storytelling-organizations/book230400), [SAGE Publications](https://uk.sagepub.com/en-gb/eur), October, 2008.(監訳: 高橋正泰、増田 靖. [『語る組織: ストーリーテリング・オーガニゼーションズ』](https://www.dobunkan.co.jp/books/detail/003339), 、[同文舘出版](https://www.dobunkan.co.jp/), 2023年9月4日.)
   - ISBN: 9784495390808
   - Press releases
     - [東京理科大学](https://www.tus.ac.jp/today/archive/20231127_4481.html)
