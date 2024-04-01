@@ -1,14 +1,19 @@
 ### 学会口頭発表
 #### 2024
 - **深見嘉明.**、清水たくみ、早矢仕晃章、松島裕康. [エージェントシミュレーションによるID アーキテクチャ別個人情報流出リスクの評価,](http://id.nii.ac.jp/1001/00232842/) [情報処理学会](https://www.ipsj.or.jp/index.html)[第167回](https://ipsj-is.jp/is167/)[情報システムと社会環境研究会](https://ipsj-is.jp/). 2024年3月5日. 武蔵大学江古田キャンパス1号館地下1階1001教室とオンラインのハイブリッド開催.
-  - JSPS科研費 20H02384
+  - JSPS科研費 [20H02384](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02384/)
 
 - **深見嘉明.**、鳥谷真佐子、寺本直城、宮元万菜美.[雪上スポーツトレーニングのデータ活用導入とガバナンス](http://id.nii.ac.jp/1001/00232847/), [情報処理学会](https://www.ipsj.or.jp/index.html)[第167回](https://ipsj-is.jp/is167/)[情報システムと社会環境研究会](https://ipsj-is.jp/). 2024年3月5日. 武蔵大学江古田キャンパス1号館地下1階1001教室とオンラインのハイブリッド開催.
 
 #### 2023
-- 松島裕康、早矢仕晃章、難波敏彦、坂地泰紀、清水たくみ、**深見嘉明.** [両面市場型データ流通シミュレーションにおける再販エージェントモデルの検討](https://collabodesign.org/docmas/papers/docmas_202311/110-0186.pdf), [人工知能学会](https://www.ai-gakkai.or.jp/) [合同研究会2023](https://www.ai-gakkai.or.jp/sigconf2023/) [データ指向構成マイニングとシミュレーション研究会 \(DOCMAS\)](https://collabodesign.org/docmas/) [第24回研究会](https://www.ai-gakkai.or.jp/sigconf2023/programs/#docmas) 2023年11月25日. [（慶應義塾大学 矢上キャンパス)](https://www.ai-gakkai.or.jp/sigconf2023/)
-  - JSPS科研費 20H02384
+- 松島裕康、早矢仕晃章、難波敏彦、坂地泰紀、清水たくみ、**深見嘉明.** [両面市場型データ流通シミュレーションにおける再販エージェントモデルの検討](https://collabodesign.org/docmas/papers/docmas_202311/110-0186.pdf), [人工知能学会](https://www.ai-gakkai.or.jp/) [合同研究会2023](https://www.ai-gakkai.or.jp/sigconf2023/) [データ指向構成マイニングとシミュレーション研究会 \(DOCMAS\)](https://collabodesign.org/docmas/) [第24回研究会](https://www.ai-gakkai.or.jp/sigconf2023/programs/#docmas) 2023年11月25日. [慶應義塾大学 矢上キャンパス](https://www.ai-gakkai.or.jp/sigconf2023/)
+  - JSPS科研費 [20H02384](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02384/)
 
+- **Yoshiaki Fukami**, Naoki Teramoto, Tokiko Nakamura, Hirotoshi Fukuda and Motoki Matsuyama. Entrepreneur's Resource Acquisition Strategies in Fashion-Affected Industries: A case study for winery start-ups in Hokkaido, [The 39th](https://www.aup.edu/events/scos-paris-2023) [Standing Conference on Organizational Symbolism](https://www.scos.org/), 2023年7月14日. [The American University of Paris ](https://www.aup.edu/)
+  - JSPS科研費 [23H00851](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23H00851/)
+
+- Naoki Teramoto, **Yoshiaki Fukami**, Motoki Matsuyama, Hirotoshi Fukuda and Tokiko Nakamura. Entrepreneur's Resource Acquisition Strategies in Fashion-Affected Industries: A case study for winery start-ups in Hokkaido, [The 39th](https://www.aup.edu/events/scos-paris-2023) [Standing Conference on Organizational Symbolism](https://www.scos.org/), 2023年7月14日. [The American University of Paris ](https://www.aup.edu/)
+ 
 #### 2022
 -  岡田天太、髙木俊雄、**深見嘉明**. [嗜好品産業の自動化と学習](https://www.jasmin.jp/wp-content/uploads/2022program_ver2.2.pdf), [経営情報学会](https://www.jasmin.jp/) [2022年 全国研究発表大会](https://www.jasmin.jp/zenkoku_taikai/2022_fall/), 2022年11月13日. [開志専門職大学](https://kaishi-pu.ac.jp/)[紫竹山キャンパス](https://www.google.com/maps/place/%E3%80%92950-0914+%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%B4%AB%E7%AB%B9%E5%B1%B1%EF%BC%96%E4%B8%81%E7%9B%AE%EF%BC%93%E2%88%92%EF%BC%95/@37.8972631,139.0664564,17z/data=!3m1!4b1!4m5!3m4!1s0x5ff4c91275843e0d:0x51053a36249912a6!8m2!3d37.8972699!4d139.0663489)
 
@@ -18,42 +23,42 @@
 - **Yoshiaki Fukami** and Yoshimasa Masuda. [Society 5.0 as Digital Strategy for Scalability: Tamba's COVID-19 Vaccination Management System and Its Expansion,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQOeiar2Tez80JkTR9LLRnm3_rYuJW3rmkxu-NXfTbL0Ym5aQulbmliid7g54Tbob_ums6cRouPRIXd/pubhtml) [The 10th KES International Conference on Innovation in Medicine and Healthcare \(KES\-InMed\-22\.)](http://inmed-22.kesinternational.org/), 2022年6月22日. Hybrid: [Sheraton Rhodes Resort,](http://inmed-22.kesinternational.org/venue.php) Greece.
 
 - **Yoshiaki Fukami**, [Takumi Shimizu, Teruaki Hayashi, Hiroki Sakaji, Hiroyasu Matsushima.	Centralized versus decentralized digital identity architectures: Simulation models of data exchange](https://ceur-ws.org/Vol-3276/SSS-22_FinalPaper_38.pdf), [AAAI 2022 Spring Symposia 2022,](https://aaai.org/Symposia/Spring/sss22symposia.php) [–How Fair is Fair? Achieving Wellbeing AI–.](https://aaai.org/Symposia/Spring/sss22symposia.php#ss07) 2022年3月22日. Hybrid: Stanford University, Palo Alto, California, U.S.A./ online.
-  - JSPS科研費 20H02384
+  - JSPS科研費 [20H02384](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02384/)
   - ISSN:[1613-0073](https://ceur-ws.org/Vol-3276/)
 
 #### 2021
 - **Yoshiaki Fukami**, Takumi Shimizu, and Hiroyasu Matsushima.	[The Impact of Decentralized Identity Architecture on Data Exchange,](https://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2021/schedule.html)	[The 4th International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC2021)](https://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2021/). 2021年12月15日. オンライン開催
-  - JSPS科研費 20H02384  
+  - JSPS科研費 [20H02384](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02384/)  
 
 - **深見嘉明**. [ワイン事業新規参入時における地域・産業コミュニティ参入プロセス分析](https://jss-sociology.org/other/20210924post-12090/#25), [日本社会学会](https://jss-sociology.org/) [第94回 日本社会学会大会](https://jss-sociology.org/meeting/20201102post-11104/). 2021年11月13日. オンライン開催.
 
 - **Yoshiaki Fukami**. [Ethical Dilemmas on the Medical Data Platform for Patient\-Centred Approaches: Consideration from Macro and Micro Perspectives](https://dialnet.unirioja.es/servlet/articulo?codigo=7977297), Oliva,  M. A., Borondo, J. P., Murata, K. and Lara, E. M. R. (Eds.) [Normal Technology Ethics, Proceedings](https://dialnet.unirioja.es/servlet/libro?codigo=824595) of [the ETHICOMP 2021](https://www.unirioja.es/ethicomp/2021/), pp. 264-267, 2021年6月30日. [(online)](https://www.unirioja.es/ethicomp/2021/venue.html)
   - ISBN: 978-84-09-28671-3
-  - JSPS科研費 20H02384
+  - JSPS科研費 [20H02384](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02384/)
 
 - **深見嘉明**、清水たくみ、松島裕康. [IDアーキテクチャの分散化がもたらすデータ流通に及ぼす影響の検討](https://www.ieice.org/ken/paper/20210212yCcK/), [電子情報通信学会](https://www.ieice.org/jpn_r/)[人工知能と知識処理研究会](https://www.ieice.org/iss/ai/jpn/) [データ市場特集VII：生活防災とコミュニティ・デザイン」および一般.](https://www.ieice.org/iss/ai/jpn/20210212.html) 2021年2月12日. [(ホテルサン人吉)](https://www.sunhitoyoshi.jp/)
-  - JSPS科研費 20H02384
+  - JSPS科研費 [20H02384](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02384/)
 
 - 早矢仕晃章、清水たくみ、**深見嘉明.** [データ協創プラットフォームとしてのKaggleにおける協同問題解決に関する一考察](https://www.ieice.org/ken/paper/20210212XCc9/), [電子情報通信学会](https://www.ieice.org/jpn_r/)[人工知能と知識処理研究会](https://www.ieice.org/iss/ai/jpn/) [データ市場特集VII：生活防災とコミュニティ・デザイン」および一般.](https://www.ieice.org/iss/ai/jpn/20210212.html) 2021年2月12日. [(ホテルサン人吉)](https://www.sunhitoyoshi.jp/)
-  - JSPS科研費 20H02384
+  - JSPS科研費 [20H02384](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02384/)
 
 - 坂地泰紀、早矢仕晃章、**深見嘉明**、和泉　潔. [データ流通プラットフォームにおけるメタデータの概要に基づく類似性判定](https://www.ieice.org/ken/paper/202102126CcK/), [電子情報通信学会](https://www.ieice.org/jpn_r/)[人工知能と知識処理研究会](https://www.ieice.org/iss/ai/jpn/) [データ市場特集VII：生活防災とコミュニティ・デザイン」および一般.](https://www.ieice.org/iss/ai/jpn/20210212.html) 2021年2月12日. [(ホテルサン人吉)](https://www.sunhitoyoshi.jp/)
-  - JSPS科研費 20H02384
+  - JSPS科研費 [20H02384](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02384/)
 
 #### 2020
 - **Yoshiaki Fukami** and Yoshimasa Masuda. [Governance for realization of medical, nursing and administration data integration system](https://confit.atlas.jp/guide/event/jcmi2020/subject/AP2-E2-1-01/classlist). [APAMI 2020 \- 11th Biennial Conference of the Asia\-Pacific Association for Medical Informatics.](http://apami2020.org/index.html) [2020年11月22日](https://confit.atlas.jp/guide/event/jcmi2020/table/20201122). , [(Act city Hamamatsu Congress center /アクトシティ浜松コングレスセンター, Hamamatsu, Shizuoka)](https://www.actcity.jp/visitor/congress/)
-  - JSPS科研費 18K12858
+  - JSPS科研費 [18K12858](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18K12858/)
 
 #### 2019
 - **Yoshiaki Fukami**. Standardization for innovation with data exchange. [The 2nd International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC).](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/)[2019年11月8日.](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/schedule.html) [(China National Convention Center \(CNCC\), Beijing)](http://icdm2019.bigke.org/)
-  - JSPS科研費 18K12858
+  - JSPS科研費 [18K12858](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18K12858/)
   - Best presentation award
 
 - **Yoshiaki Fukami**. How communities of users appear in standardization processes like ghost. [The 37th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2019)](https://www.york.ac.uk/management/events/2019/scos-conference-2019-york/). [2019年7月9日](https://www.york.ac.uk/media/tyms/documents/events/archive2018-19/Draft%20timetable%20for%20circulationv3.pdf). ([The King's Manor,](https://www.york.ac.uk/about/campus/landmarks/kings-manor/) [York management school,](https://www.york.ac.uk/management/) [University of York.](https://www.york.ac.uk/))
-  - JSPS科研費 18K12858
+  - JSPS科研費 [18K12858](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18K12858/)
 
 - **深見嘉明**、増田佳正. 官民データ連携の事例創出事例分析: 兵庫県丹波市における予防接種実施判定システム構築とその発展. [日本情報経営学会第78回全国大会.](https://conferenceservice.jp/www/jsim78/) [2019年6月9日](https://conferenceservice.jp/www/jsim78/doc/jsim78program_0609_ver7.pdf).(静岡大学, Hamamatsu)
-  - JSPS科研費 18K12858
+  - JSPS科研費 [18K12858](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18K12858/)
 
 - **深見嘉明**. [オープン標準と標準のオープン化](https://www.ieice.org/ken/paper/20190222F19M/). 電子情報通信学会[人工知能と知識処理研究専門委員会](http://www.ieice.org/~ai/jpn/index.php/top)[2019年2月研究会](http://www.ieice.org/~ai/jpn/index.php/20190222)[「データ市場特集V：異分野データ連携技術とイノベーション」および一般 ](https://www.ieice.org/ken/program/index.php?mode=program&tgs_regid=8f79d1c964d6e3e620a4d3e8f26ce4f4c32cb02154d195766de5b8091e357eaf), 2019年2月22日. (関西大学 東京センター, Chiyoda, Tokyo)
   - [公益財団法人電気通信普及財団　研究調査助成](https://www.taf.or.jp/grant-a/)
