@@ -8,6 +8,8 @@
 #### 2023
 - 松島裕康、早矢仕晃章、難波敏彦、坂地泰紀、清水たくみ、**深見嘉明.** [両面市場型データ流通シミュレーションにおける再販エージェントモデルの検討](https://collabodesign.org/docmas/papers/docmas_202311/110-0186.pdf), [人工知能学会](https://www.ai-gakkai.or.jp/) [合同研究会2023](https://www.ai-gakkai.or.jp/sigconf2023/) [データ指向構成マイニングとシミュレーション研究会 \(DOCMAS\)](https://collabodesign.org/docmas/) [第24回研究会](https://www.ai-gakkai.or.jp/sigconf2023/programs/#docmas) 2023年11月25日. [慶應義塾大学 矢上キャンパス](https://www.ai-gakkai.or.jp/sigconf2023/)
   - JSPS科研費 [20H02384](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02384/)
+ 
+- **Yoshiaki Fukami**, Tokiko Nakamura, Hirotoshi Fukuda and Naoki Teramoto. Data utilization for establishment of luxury goods brands in small and medium-sized companies: Product development process analysis using coffee roast profile data, [British Academy of Management 2023 Conference](https://www.bam.ac.uk/events-landing/past-conferences/bam2023-conference.html), 2023年9月5日. [University of Sussex](https://www.sussex.ac.uk/) [Business School](https://www.sussex.ac.uk/business-school/)
 
 - **Yoshiaki Fukami**, Naoki Teramoto, Tokiko Nakamura, Hirotoshi Fukuda and Motoki Matsuyama. Entrepreneur's Resource Acquisition Strategies in Fashion-Affected Industries: A case study for winery start-ups in Hokkaido, [The 39th](https://www.aup.edu/events/scos-paris-2023) [Standing Conference on Organizational Symbolism](https://www.scos.org/), 2023年7月14日. [The American University of Paris ](https://www.aup.edu/)
   - JSPS科研費 [23H00851](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23H00851/)
