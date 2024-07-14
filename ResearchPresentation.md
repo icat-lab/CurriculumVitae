@@ -1,5 +1,9 @@
 ### 学会口頭発表
 #### 2024
+- Naoki Teramoto, **Yoshiaki Fukami**, Masako Toriya, Yasuhiro Kato, Manamami Miyamoto. Introduction and governance of data utilization in winter sports, [The 40th](https://www.ncl.ac.uk/business/news-events/event-items/2024/scos-2024/) [Standing Conference on Organizational Symbolism](https://www.scos.org/), 2024年7月12日. [Newcastle University](https://www.ncl.ac.uk/) [Business School ](https://www.ncl.ac.uk/business/)
+
+- Naoki Teramoto, **Yoshiaki Fukami**, Hirotoshi Fukuda, Tokiko Nakamura, Daisuke Nishi. Are electronic devices replacing craftsmanship? : An analysis of the process by which coffee roasters in Japan integrate electronic devices into their work, [The 40th](https://www.ncl.ac.uk/business/news-events/event-items/2024/scos-2024/) [Standing Conference on Organizational Symbolism](https://www.scos.org/), 2024年7月11日. [Newcastle University](https://www.ncl.ac.uk/) [Business School ](https://www.ncl.ac.uk/business/)
+  
 - **深見嘉明.**、清水たくみ、早矢仕晃章、松島裕康. [エージェントシミュレーションによるID アーキテクチャ別個人情報流出リスクの評価,](http://id.nii.ac.jp/1001/00232842/) [情報処理学会](https://www.ipsj.or.jp/index.html)[第167回](https://ipsj-is.jp/is167/)[情報システムと社会環境研究会](https://ipsj-is.jp/). 2024年3月5日. 武蔵大学江古田キャンパス1号館地下1階1001教室とオンラインのハイブリッド開催.
   - JSPS科研費 [20H02384](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02384/)
 
