@@ -74,8 +74,8 @@
 - 2017年11月吉日: 立教大学教育活動特別賞
 
 ## 外部研究資金獲得履歴
-- 2023–2027年度: 科研費 [ワインスタートアップの経営資源獲得戦略](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23H00851/)
-  - 課題番号: 23H00851
+- 2023–2027年度: 科研費 [ワインスタートアップの経営資源獲得戦略](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/)
+  - 課題番号: [23K00851](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/) / [23H00851](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23H00851/)
   - 研究種目: 基盤研究(B)
   - 研究代表者: **深見嘉明** (研究代表者)
 
