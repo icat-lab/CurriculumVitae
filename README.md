@@ -11,7 +11,6 @@
 1976年京都府京都市生まれ。  
 [東京理科大学](https://www.tus.ac.jp/)[経営学部](https://dept.tus.ac.jp/mgt/)[IDM: 国際デザイン経営学科](https://www.tus.ac.jp/idm/) [准教授](https://www.tus.ac.jp/academics/teacher/p/index.php?7280)、[慶應義塾大学](http://www.keio.ac.jp/index-jp.html) [医学部](http://www.med.keio.ac.jp/index.html)[医療政策・管理学教室](http://www.hpm.med.keio.ac.jp/index.html) 特任研究員/ [グローバルリサーチインスティテュート](https://www.kgri.keio.ac.jp/index.html) [客員所員](https://www.kgri.keio.ac.jp/project/2021/L21-01.html)[(2040独立自尊プロジェクト＜長寿＞健康寿命延伸プロジェクト：「健康⻑寿社会KGRIロールモデル」の確立)](https://www.kgri.keio.ac.jp/about/2040.html)/ [サイバー文明研究センター](https://www.ccrc.keio.ac.jp/)[メンバー](https://www.ccrc.keio.ac.jp/members/)、[Linked Open Data Initiative | 特定非営利活動法人リンクト・オープン・データ・イニシアティブ](http://linkedopendata.jp/)理事。[Open Data Institute](http://opendatainstitute.org/) [Osaka City Node](http://theodi.jp/) [Leading Team](http://theodi.jp/team/)。[慶應義塾大学SFC研究所](http://www.kri.sfc.keio.ac.jp/)上席所員。[青山学院大学](http://www.aoyama.ac.jp/index.html) [国際政治経済学部](http://www.sipeb.aoyama.ac.jp/) [国際政治学科](http://www.aoyama.ac.jp/college/sipec/politics/index.html) 卒業後、[株式会社電通リサーチ](http://www.dentsuresearch.co.jp/)[(現 株式会社電通マクロミルインサイト)](http://www.dentsu-mi.co.jp/)にて通信・自動車・メディア企業等に対するマーケティングリサーチ・コンサルティングに従事し、ウェブリサーチ・ウェブをベースとしたマーケティングインテリジェンスビジネスに関する新規事業開発に携わった後、[慶應義塾大学大学院](http://www.sfc.keio.ac.jp/academics/graduate/)[政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)に入学。 [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院政策・メディア研究科](http://www.sfc.keio.ac.jp/academics/graduate/) 特任助教時に[World Wide Web Consortium](http://www.w3.org/)[(W3C/Keio)](http://www.w3.org/Consortium/Hosts/Keio/Contact)インターンとしてプロモーション、ディベロッパーリレーション等の活動に従事。現在は、ウェブプラットフォーム設計とコミュニティ形成、メタデータを媒介としたコンテンツ流通戦略、データ連携に必要な技術策定と普及、ソフトウェア・データ仕様標準化戦略、オープンデータ、オープンガバメントなどウェブ・情報技術をベースにした情報流通形態に関して研究・活動を行っている。
 
-
 ## ORCID
 [0000-0002-7838-8215](http://orcid.org/0000-0002-7838-8215)
 
@@ -38,9 +37,11 @@
 - [IFIP Working Group 8.2](http://ifipwg82.org/)
 - [IFIP Working Group 9.5](http://www.ifip95wg.org/)
 - [経営情報学会](http://www.jasmin.jp/) (学会誌副編集長)
+  - [スポーツデータエコシステム研究部会](https://www.jasmin.jp/activities/research/sports/) **主査**
   - 組織ディスコース研究部会　[(研究部会紹介PDF)](http://www.bunken.org/jasmin/members/src/nopass_disp_file.php?f=journal/pdf/27-3_204.pdf)
 - [日本情報経営学会(JSIM)](http://www.jsim.gr.jp/)
 - [情報通信学会](http://www.jsicr.jp/)
+  - [編集委員会 委員](http://www.jsicr.jp/doc/hensyu202405.pdf)
 - [組織学会](http://www.aaos.or.jp/)
 - [日本経営学会](http://www.keiei-gakkai.jp/)
 - [日本社会学会](https://jss-sociology.org/)
@@ -52,7 +53,8 @@
 - [ビジネスクリエーター研究学会](http://www.business-creator.org/)
 
 ## 職歴/教歴
-- 2022年4月-現任: [東京理科大学](https://www.tus.ac.jp/)[経営学部](https://dept.tus.ac.jp/mgt/)[国際デザイン経営学科](https://www.tus.ac.jp/idm/) [講師](https://www.tus.ac.jp/academics/teacher/p/index.php?7280)
+- 2023年4月-現任: [東京理科大学](https://www.tus.ac.jp/)[経営学部](https://dept.tus.ac.jp/mgt/)[国際デザイン経営学科](https://www.tus.ac.jp/idm/) [准教授](https://www.tus.ac.jp/academics/teacher/p/index.php?7280)
+- 2022年4月-2023年3月: [東京理科大学](https://www.tus.ac.jp/)[経営学部](https://dept.tus.ac.jp/mgt/)[国際デザイン経営学科](https://www.tus.ac.jp/idm/) 講師
 - 2022年4月-現任: [慶應義塾大学](http://www.keio.ac.jp/index-jp.html) [ウェルビーイングリサーチセンター](https://www.tonomachi.keio.ac.jp/ja/research/)特任研究員
 - 2022年4月-現任: [学習院大学](https://www.univ.gakushuin.ac.jp/)[経済学部](https://www.univ.gakushuin.ac.jp/eco/)[経営学科](https://www.univ.gakushuin.ac.jp/eco/education/management/index.html)非常勤講師
 - 2021年9月-現任: [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[グローバルリサーチインスティテュート](https://www.kgri.keio.ac.jp/index.html)客員所員
@@ -65,7 +67,7 @@
 - 2012年4月-2014年3月: [立教大学](https://www.rikkyo.ac.jp/)[経営学部](http://www.rikkyo.ac.jp/academics/undergraduate/business/)兼任講師
 - 2011年4月-2013年3月: [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/) [政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)特任助教
 - 2010年10月-2014年3月: [神奈川工科大学](http://www.kait.jp/)[創造工学部](http://www.kait.jp/ug_gr/undergrad/creative/)[ホームエレクトロニクス開発学科](http://www.kait.jp/ug_gr/undergrad/creative/homeElectronics/)非常勤講師。
-- 1999年4月-2005年 7月: [株式会社電通リサーチ](http://www.dentsuresearch.co.jp/)
+- 1999年4月-2005年7月: [株式会社電通リサーチ](http://www.dentsuresearch.co.jp/)
 
 ## 賞罰
 - 2021年7月6日: [The Best Paper Award for The 9th](http://inmed-21.kesinternational.org/)[KES International](http://www.kesinternational.org/)[Conference on Innovation in Medicine and Healthcare (InMed21)](http://inmed-21.kesinternational.org/)
@@ -113,8 +115,9 @@
 - 総務省　オープンデータ流通推進コンソーシアム 技術委員会 委員 (2012年9月〜2014年10月)
 
 ### 学会関連
-- 2021年8月: Topic Editor of [Standards](https://www.mdpi.com/journal/standards)[(MDPI)](https://www.mdpi.com/)
-- 2021年6月-: [経営情報学会](http://www.jasmin.jp/)理事、[論文誌](http://www.jasmin.jp/activity/books/ichiran.html)編集長
+- 2023年10月-: [情報通信学会](http://www.jsicr.jp/index.html) [編集委員会 委員](http://www.jsicr.jp/doc/hensyu202405.pdf)
+- 2021年8月-: Topic Editor of [Standards](https://www.mdpi.com/journal/standards)[(MDPI)](https://www.mdpi.com/)
+- 2021年6月-2023年6月: [経営情報学会](http://www.jasmin.jp/)理事、[論文誌](http://www.jasmin.jp/activity/books/ichiran.html)編集長
 - 2019年6月-2021年6月: [経営情報学会](http://www.jasmin.jp/)[学会誌](https://www.jstage.jst.go.jp/browse/jjasmin/-char/ja)副編集長
 - 2017年6月-2019年6月: [経営情報学会](http://www.jasmin.jp/)理事、広報委員長: [普及誌担当=経営情報フォーラム](https://iss.ndl.go.jp/books?rft.title=%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0&search_mode=advanced)編集長
 
@@ -153,7 +156,7 @@
 - [HTML5に関わらないと日本企業は世界から遅れる,](http://www.atmarkit.co.jp/fwcr/design/benkyo/html5_05/01.html) [＠IT](https://www.atmarkit.co.jp/) 2010年4月6日.
 
 # 招待講演など
-- **深見嘉明**, 中島博敬.  新時代のデータ取引を考える: Web3.0は可能なのか?, [データ流通市場の歩き方](https://blog.j-dex.co.jp/archive/category/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88)第7回, [株式会社日本データ取引所](https://j-dex.co.jp/), 2022年4月27日, オンライン. 
+- **深見嘉明**.  新時代のデータ取引を考える: Web3.0は可能なのか?, [データ流通市場の歩き方](https://blog.j-dex.co.jp/archive/category/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88)第7回, [株式会社日本データ取引所](https://j-dex.co.jp/), 2022年4月27日, オンライン.
 
 - **Y. Fukami**.[ "Knowledge Production – The Limits of Big Data and AI,"](https://speakerdeck.com/rhys_no1/knowledge-production-the-limits-of-big-data-and-ai) [Knowledge Production in a Data Driven Society,](https://www.dijtokyo.org/event/knowledge-production-in-a-data-driven-society/) [MWS Web Forum Series 'The Digital Transformation,](https://www.dijtokyo.org/event-series/digital-transformation/) [ドイツ日本研究所 (Deutsches Institut für Japanstudien: DJI,)](https://www.dijtokyo.org/ja/) [2021年9月23日,　オンライン.](https://www.dijtokyo.org/event/knowledge-production-in-a-data-driven-society/)
   - [Speaker Deck](https://speakerdeck.com/rhys_no1/knowledge-production-the-limits-of-big-data-and-ai)
