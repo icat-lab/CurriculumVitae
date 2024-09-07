@@ -1,3 +1,7 @@
+###  学会基調講演
+#### 2024
+- **深見嘉明.** 予防医療におけるAI活用の課題と可能性, [第65回](https://www.c-linkage.co.jp/dock65/index.html)[日本人間ドック・予防医療学会](https://www.ningen-dock.jp/)[第65回](https://www.c-linkage.co.jp/dock65/index.html)、セッション：口演「健診とAI 2」, 2024年9月7日. [パシフィコ横浜](https://www.pacifico.co.jp/)[会議センター](https://www.pacifico.co.jp/guide/conference)4F 414+415.
+
 ### 学会口頭発表
 #### 2024
 - Naoki Teramoto, **Yoshiaki Fukami**, Masako Toriya, Yasuhiro Kato, Manamami Miyamoto. Introduction and governance of data utilization in winter sports, [The 40th](https://www.ncl.ac.uk/business/news-events/event-items/2024/scos-2024/) [Standing Conference on Organizational Symbolism](https://www.scos.org/), 2024年7月12日. [Newcastle University](https://www.ncl.ac.uk/) [Business School ](https://www.ncl.ac.uk/business/)
