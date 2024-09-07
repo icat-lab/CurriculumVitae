@@ -1,6 +1,6 @@
 ###  学会基調講演
 #### 2024
-- **深見嘉明.** 予防医療におけるAI活用の課題と可能性, [第65回](https://www.c-linkage.co.jp/dock65/index.html)[日本人間ドック・予防医療学会](https://www.ningen-dock.jp/)[第65回](https://www.c-linkage.co.jp/dock65/index.html)、セッション：口演「健診とAI 2」, 2024年9月7日. [パシフィコ横浜](https://www.pacifico.co.jp/)[会議センター](https://www.pacifico.co.jp/guide/conference)4F 414+415.
+- **深見嘉明.**. 予防医療におけるAI活用の課題と可能性, [第65回](https://www.c-linkage.co.jp/dock65/index.html)[日本人間ドック・予防医療学会](https://www.ningen-dock.jp/)[学術大会](https://www.c-linkage.co.jp/dock65/index.html)、セッション：口演「健診とAI 2」, [2024年9月7日](https://www.c-linkage.co.jp/dock65/doc/schedule.pdf). [パシフィコ横浜](https://www.pacifico.co.jp/)[会議センター](https://www.pacifico.co.jp/guide/conference)4F 414+415.
 
 ### 学会口頭発表
 #### 2024
