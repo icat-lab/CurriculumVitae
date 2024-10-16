@@ -70,6 +70,7 @@
 - 1999年4月-2005年7月: [株式会社電通リサーチ](http://www.dentsuresearch.co.jp/)
 
 ## 賞罰
+- 2024年10月13日:[日本マーケティング学会](https://www.j-mac.or.jp/) [第13回マーケティングカンファレンス2024](https://www.j-mac.or.jp/conference/conference2024/) [ベストポスター賞](https://www.j-mac.or.jp/prize/)
 - 2021年7月6日: [The Best Paper Award for The 9th](http://inmed-21.kesinternational.org/)[KES International](http://www.kesinternational.org/)[Conference on Innovation in Medicine and Healthcare (InMed21)](http://inmed-21.kesinternational.org/)
 - 2019年11月8日: Best presentation award for [The 2nd International Workshop on Cross-disciplinary Data Exchange and Collaboration (CDEC)](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/)
 - 2018年12月3日: 日本情報経営学会 [若手研究発表賞: YIA, Young Investigator Award 受賞](https://conferenceservice.jp/www/jsim77/doc/yiajia_jsim77result.pdf)
