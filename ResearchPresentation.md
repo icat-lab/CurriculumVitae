@@ -3,6 +3,8 @@
 - **深見嘉明.**. 予防医療におけるAI活用の課題と可能性, [第65回](https://www.c-linkage.co.jp/dock65/index.html)[日本人間ドック・予防医療学会](https://www.ningen-dock.jp/)[学術大会](https://www.c-linkage.co.jp/dock65/index.html)、セッション：口演「健診とAI 2」, [2024年9月7日](https://www.c-linkage.co.jp/dock65/doc/schedule.pdf). [パシフィコ横浜](https://www.pacifico.co.jp/)[会議センター](https://www.pacifico.co.jp/guide/conference)4F 414+415.
 
 ### 学会口頭発表
+#### 2025
+- **深見嘉明.**. スポーツデータエコシステムの創造と課題, [日本情報経営学会](https://jsim.gr.jp/index.html)[2024年度 第１回 関東・東北支部研究会/](https://jsim.gr.jp/branch/local03.html) [技術が媒介する越境経済・社会研究プロジェクト](https://jsim.gr.jp/project/project02.html)ミーティング, 2025年1月12日. 明治大学駿河台キャンパス研究棟4階第1会議室とオンラインのハイブリッド開催.
 
 #### 2024
 - Naoki Teramoto, **Yoshiaki Fukami**, Masako Toriya, Yasuhiro Kato, Manamami Miyamoto. Introduction and governance of data utilization in winter sports, [The 40th](https://www.ncl.ac.uk/business/news-events/event-items/2024/scos-2024/) [Standing Conference on Organizational Symbolism](https://www.scos.org/), 2024年7月12日. [Newcastle University](https://www.ncl.ac.uk/) [Business School](https://www.ncl.ac.uk/business/)
