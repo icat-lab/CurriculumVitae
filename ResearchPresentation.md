@@ -7,6 +7,14 @@
 - **深見嘉明.**. スポーツデータエコシステムの創造と課題, [日本情報経営学会](https://jsim.gr.jp/index.html)[2024年度 第１回 関東・東北支部研究会/](https://jsim.gr.jp/branch/local03.html) [技術が媒介する越境経済・社会研究プロジェクト](https://jsim.gr.jp/project/project02.html)ミーティング, 2025年1月12日. 明治大学駿河台キャンパス研究棟4階第1会議室とオンラインのハイブリッド開催.
 
 #### 2024
+- Naoki Teramoto, Tokiko Nakamura, Daisuke Nishi, Hirotoshi Fukuda, **Yoshiaki Fukami.** Reconsidering the Concept of User Community as a Competitive Resource for User Entrepreneurs: A Case Study of a New Boutique Winery in Japan, [Australian and New Zealand Academy of Management Conference 2024](https://anzamconference.org/), 2024年12月3日.
+
+  - JSPS科研費 [23K25548](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/)
+
+- Tokiko Nakamura, Hirotoshi Fukuda, Naoki Teramoto, Daisuke Nishi, **Yoshiaki Fukami.**  Transforming Winery Resource Acquisition through Electronic Communication, [Asia Pacific Conference on Information Management 2024\(APCIM2024\)](https://jsim.sakura.ne.jp/apcim2024/), 2024年11月1日. [慶熙大学](https://www.khu.ac.kr/eng/user/main/view.do) ソウルキャンパス.
+
+  - JSPS科研費 [23K25548](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/)
+
 - Naoki Teramoto, **Yoshiaki Fukami**, Masako Toriya, Yasuhiro Kato, Manamami Miyamoto. Introduction and governance of data utilization in winter sports, [The 40th](https://www.ncl.ac.uk/business/news-events/event-items/2024/scos-2024/) [Standing Conference on Organizational Symbolism](https://www.scos.org/), 2024年7月12日. [Newcastle University](https://www.ncl.ac.uk/) [Business School](https://www.ncl.ac.uk/business/)
 
 - Naoki Teramoto, **Yoshiaki Fukami**, Hirotoshi Fukuda, Tokiko Nakamura, Daisuke Nishi. Are electronic devices replacing craftsmanship? : An analysis of the process by which coffee roasters in Japan integrate electronic devices into their work, [The 40th](https://www.ncl.ac.uk/business/news-events/event-items/2024/scos-2024/) [Standing Conference on Organizational Symbolism](https://www.scos.org/), 2024年7月11日. [Newcastle University](https://www.ncl.ac.uk/) [Business School ](https://www.ncl.ac.uk/business/)
@@ -27,10 +35,10 @@
 
 - **Yoshiaki Fukami**, Naoki Teramoto, Tokiko Nakamura, Hirotoshi Fukuda and Motoki Matsuyama. An Occasion to Be Anti Management Fashion: A Case study of a Small Size Winery in Hokkaido, Japan, [The 39th](https://www.aup.edu/events/scos-paris-2023) [Standing Conference on Organizational Symbolism](https://www.scos.org/), 2023年7月14日. [The American University of Paris ](https://www.aup.edu/)
 
-  - JSPS科研費 [23H00851](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23H00851/)
+  - JSPS科研費 [23K25548](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/)
 
 - Naoki Teramoto, **Yoshiaki Fukami**, Motoki Matsuyama, Hirotoshi Fukuda and Tokiko Nakamura. Entrepreneur's Resource Acquisition Strategies in Fashion-Affected Industries: A case study for winery start-ups in Hokkaido, [The 39th](https://www.aup.edu/events/scos-paris-2023) [Standing Conference on Organizational Symbolism](https://www.scos.org/), 2023年7月14日. [The American University of Paris ](https://www.aup.edu/)
-  - JSPS科研費 [23H00851](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23H00851/)
+  - JSPS科研費 [23K25548](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/)
 
 #### 2022
 
@@ -170,7 +178,7 @@
 
 ### 学会ポスター発表
 #### 2024
-- 大沼卓也、堀内雄司、・**深見嘉明.** [「ワインの味わいを適切に表現する日本語フォントの探索」](https://www.j-mac.or.jp/poster/dtl.php?ps_id=445):[日本マーケティング学会](https://www.j-mac.or.jp/) [第13回マーケティングカンファレンス2024](https://www.j-mac.or.jp/conference/conference2024/), 2024年10月13日. [法政大学市ケ谷キャンパス](https://www.hosei.ac.jp/ichigaya/#access)
+- 大沼卓也、堀内雄司、・**深見嘉明.** [ワインの味わいを適切に表現する日本語フォントの探索](https://www.j-mac.or.jp/poster/dtl.php?ps_id=445):[日本マーケティング学会](https://www.j-mac.or.jp/) [第13回マーケティングカンファレンス2024](https://www.j-mac.or.jp/conference/conference2024/), 2024年10月13日. [法政大学市ケ谷キャンパス](https://www.hosei.ac.jp/ichigaya/#access)
   -  [ベストポスター賞](https://www.j-mac.or.jp/prize/)
 
 #### 2018
