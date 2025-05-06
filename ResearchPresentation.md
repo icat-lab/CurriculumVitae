@@ -4,7 +4,9 @@
 
 ### 学会口頭発表
 #### 2025
-- **深見嘉明.**. スポーツデータエコシステムの創造と課題, [日本情報経営学会](https://jsim.gr.jp/index.html)[2024年度 第１回 関東・東北支部研究会/](https://jsim.gr.jp/branch/local03.html) [技術が媒介する越境経済・社会研究プロジェクト](https://jsim.gr.jp/project/project02.html)ミーティング, 2025年1月12日. 明治大学駿河台キャンパス研究棟4階第1会議室とオンラインのハイブリッド開催.
+- **Yoshiaki Fukami**. Standardization and Implementation Challenges of Digital Identity Architectures: Bridging Policy and Technology, [STS Conference Graz](https://stsconf.tugraz.at/) [2025](https://stsconf.tugraz.at/wp-content/uploads/2025/05/STSConf25_program_long-6.pdf), 2025年5月26日. [Hotel Das Weitzer Graz](https://hotelweitzer.com/en/).
+
+- **深見嘉明**. スポーツデータエコシステムの創造と課題, [日本情報経営学会](https://jsim.gr.jp/index.html)[2024年度 第１回 関東・東北支部研究会/](https://jsim.gr.jp/branch/local03.html) [技術が媒介する越境経済・社会研究プロジェクト](https://jsim.gr.jp/project/project02.html)ミーティング, 2025年1月12日. 明治大学駿河台キャンパス研究棟4階第1会議室とオンラインのハイブリッド開催.
 
 #### 2024
 - Naoki Teramoto, Tokiko Nakamura, Daisuke Nishi, Hirotoshi Fukuda, **Yoshiaki Fukami.** Reconsidering the Concept of User Community as a Competitive Resource for User Entrepreneurs: A Case Study of a New Boutique Winery in Japan, [Australian and New Zealand Academy of Management Conference 2024](https://anzamconference.org/), 2024年12月3日.[University of Wollongong.](https://www.uow.edu.au/)
