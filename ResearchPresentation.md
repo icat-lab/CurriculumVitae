@@ -4,6 +4,9 @@
 
 ### 学会口頭発表
 #### 2025
+- **Yoshiaki Fukami**, Naoki Teramoto, Hirotoshi Fukuda, Tokiko Nakamura, Daisuke Nishi, Ken Takeuchi. [Crossing Boundaries in Rural Entrepreneurship: A Case Study of a New Winery in Yakumo, Hokkaido](https://cyprusconferences.org/scos2025/detailed-program/). [The 41th Standing Conference on Organizational Symbolism](https://cyprusconferences.org/scos2025/) (SCOS 2025), 2025年7月8日. [University of Cyprus](https://www.ucy.ac.cy/?lang=en).
+  - JSPS科研費 [23K25548](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/)
+    
 - **Yoshiaki Fukami**. Standardization and Implementation Challenges of Digital Identity Architectures: Bridging Policy and Technology, [STS Conference Graz](https://stsconf.tugraz.at/) [2025](https://stsconf.tugraz.at/wp-content/uploads/2025/05/STSConf25_program_long-6.pdf), 2025年5月26日. [Hotel Das Weitzer Graz](https://hotelweitzer.com/en/).
 
 - **深見嘉明**. スポーツデータエコシステムの創造と課題, [日本情報経営学会](https://jsim.gr.jp/index.html)[2024年度 第１回 関東・東北支部研究会/](https://jsim.gr.jp/branch/local03.html) [技術が媒介する越境経済・社会研究プロジェクト](https://jsim.gr.jp/project/project02.html)ミーティング, 2025年1月12日. 明治大学駿河台キャンパス研究棟4階第1会議室とオンラインのハイブリッド開催.
