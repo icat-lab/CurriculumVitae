@@ -1,43 +1,47 @@
 # Curriculum Vitae of Yoshiaki FUKAMI
-May 22th, 2025
+August 9th, 2025
 
 Yoshiaki Fukami (Ph.D, Media and Governance, Keio Unversity):  
 Yoshiaki Fukami is an Associate Professor at Department of International Design Management, Tokyo University of Science, and a Reserch Associate at University of Nottingham. He worked at Gakushuin University (Specially Appointed Professor 2020-2022), Keio Univeristy (Specially Appointed Associate Professor, 2019-2021), Rikkyo Business School (Specially Appointed Associate Professor, 2015-2020).  He received his Ph. D. (Media and Governance) from Keio University.
-Fukami's specialization is in standardization strategy, platform strategy, open collaborative innovation. He had contributed to Open data technical strategy of government at the Vitalizing Local Economy Organization by Open Data & Big Data (a member of Technical Committee), the Committee at the Infrastructure for Multi-layer Interoperability Working group, the Committee at The Research Committee of Scheme for Interoperability of Public-sector Information, and Technical Committee at the Open Data Promotion Consortium. Information-technology Promotion Agency, Japan. He has also contributed to web standardization activities at the World Wide Web Consortium. He was awarded the Young Investigator Award 2018 autumn by Japan Society for Information and Management. He is the author of books; "Utilizing web application for your business" (Discover Twenty-One Publishing, 2010), "Metadata is changing the world" (NTT Publishing, 2009), and chapter; Platform Strategy suited for IoT based technology: How to Develop and Engage Ecosystems, in "Business Design and Business Science" (Soseisha, 2016), Behavior Analysis in Activities for Building Ecosystems: Competitive Strategy of Platforms in Standardizing Processes in "Platform for Emergence" (Nikkei Newspaper Publishing, 2011). He is also the editor of a book; "Technical review of HTML5 to enhance skills for web contents development" (RIC Telecom Publishing, 2012).
+Fukami's specialization is in standardization strategy, platform strategy, open collaborative innovation and information ethics. He had contributed to Open data technical strategy of government at the Vitalizing Local Economy Organization by Open Data & Big Data (a member of Technical Committee), the Committee at the Infrastructure for Multi-layer Interoperability Working group, the Committee at The Research Committee of Scheme for Interoperability of Public-sector Information, and Technical Committee at the Open Data Promotion Consortium. Information-technology Promotion Agency, Japan. He has also contributed to web standardization activities at the World Wide Web Consortium. He was awarded the Young Investigator Award 2018 autumn by Japan Society for Information and Management. He is the author of books; "Utilizing web application for your business" (Discover Twenty-One Publishing, 2010), "Metadata is changing the world" (NTT Publishing, 2009), and chapter; Platform Strategy suited for IoT based technology: How to Develop and Engage Ecosystems, in "Business Design and Business Science" (Soseisha, 2016), Behavior Analysis in Activities for Building Ecosystems: Competitive Strategy of Platforms in Standardizing Processes in "Platform for Emergence" (Nikkei Newspaper Publishing, 2011). He is also the editor of a book; "Technical review of HTML5 to enhance skills for web contents development" (RIC Telecom Publishing, 2012).
 
 # Affiliation
-## 2025- Research Associate at [School of Computer Science](https://www.nottingham.ac.uk/computerscience/), [University of Nottingham](https://www.nottingham.ac.uk/).
+## April 1st, 2025 - Research Associate at [School of Computer Science](https://www.nottingham.ac.uk/computerscience/), [University of Nottingham](https://www.nottingham.ac.uk/).
 
-## 2023- Associate Professor at [Department of International Design Management,](https://www.tus.ac.jp/idm/index-en.html)[School of Management,](https://www.tus.ac.jp/en/fac/keiei/)[Tokyo University of Science](https://www.tus.ac.jp/en/)
-* In charge of classes; Seminar (International), Corporate Ethics and etc.
+## April 1st, 2023 - Associate Professor at [Department of International Design Management,](https://www.tus.ac.jp/idm/index-en.html)[School of Management,](https://www.tus.ac.jp/en/fac/keiei/)[Tokyo University of Science](https://www.tus.ac.jp/en/)
+* In charge of classes
+	* Seminar (International)
+	* Ecosystem and Standardization
+	* Corporate Ethics
+	* Organizational Theory
 
-## 2022-2023 Junior Associate Professor at [Department of International Digital and Design Management,](https://www.tus.ac.jp/idm/index-en.html)[School of Management,](https://www.tus.ac.jp/en/fac/keiei/)[Tokyo University of Science](https://www.tus.ac.jp/en/)
+## April 1st, 2022 - March 31st, 2023 Junior Associate Professor at [Department of International Digital and Design Management,](https://www.tus.ac.jp/idm/index-en.html)[School of Management,](https://www.tus.ac.jp/en/fac/keiei/)[Tokyo University of Science](https://www.tus.ac.jp/en/)
 
-## 2022-2024 Visiting Researcher at [Wellbeing Research Center](https://www.tonomachi.keio.ac.jp/en/research/), [Keio University](https://www.keio.ac.jp/en/)
+## April 1st, 2022 - March 31st, 2024 Visiting Researcher at [Wellbeing Research Center](https://www.tonomachi.keio.ac.jp/en/research/), [Keio University](https://www.keio.ac.jp/en/)
 
-## 2021-2022 Parttime Lecturer at [Department of International Digital and Design Management,](https://www.tus.ac.jp/idm/index-en.html)[School of Management,](https://www.tus.ac.jp/en/fac/keiei/)[Tokyo University of Science](https://www.tus.ac.jp/en/)
+## April 1st, 2021- March 31st, 2022 Parttime Lecturer at [Department of International Digital and Design Management,](https://www.tus.ac.jp/idm/index-en.html)[School of Management,](https://www.tus.ac.jp/en/fac/keiei/)[Tokyo University of Science](https://www.tus.ac.jp/en/)
 * In charge of classes; Co-design project
 
-## 2021- Member of [Keio Unviersity Global Research Institute](https://www.kgri.keio.ac.jp/en/)
+## September 3rd, 2021- Member of [Keio Unviersity Global Research Institute](https://www.kgri.keio.ac.jp/en/)
 
-## 2021-2022  Visiting Researcher at [Department of Health Policy and Management](http://www.hpm.med.keio.ac.jp/), [School of Medicine](http://www.med.keio.ac.jp/en/index.html), [Keio University](https://www.keio.ac.jp/en/)
+## April 1st, 2021 - March 31st, 2022  Visiting Researcher at [Department of Health Policy and Management](http://www.hpm.med.keio.ac.jp/), [School of Medicine](http://www.med.keio.ac.jp/en/index.html), [Keio University](https://www.keio.ac.jp/en/)
 
-## 2020-2022  Specially Appointed Professor at [Department of Management](https://www.univ.gakushuin.ac.jp/eco/en/education/management/), [Faculty of Economics](https://www.univ.gakushuin.ac.jp/eco/en/), [Gakushuin University](https://www.univ.gakushuin.ac.jp/en/)
+## April 1st, 2020 - March 31st, 2022  Specially Appointed Professor at [Department of Management](https://www.univ.gakushuin.ac.jp/eco/en/education/management/), [Faculty of Economics](https://www.univ.gakushuin.ac.jp/eco/en/), [Gakushuin University](https://www.univ.gakushuin.ac.jp/en/)
 * Fields: Enterprize Architecture, Data Architecture, Standardization Strategy, Open Collaborative Innovation, Platform Strategy
 * In charge of classes; Business design with IoT related technologies, Technology management, IT business update, Platform strategy, Management strategy, [Baic seminar for 1st grade of undergraduate](https://github.com/icat-lab/icat_lab/blob/master/basic_seminar_undergrad/basic_seminar.md).
 
-## 2012-  Director (strategy and promotion of open data and standard for open data on the Web) at Linked Open Data Initiative (a specified non-profit corporation of Japan)
+## August 28th, 2012 -  Director (strategy and promotion of open data and standard for open data on the Web) at Linked Open Data Initiative (a specified non-profit corporation of Japan)
 * I have introduced new concept of not only open data but also of collaboration scheme through data transaction among many and unspecified firms.
 * I also have contributed to the national government’s activities to develop digital transformation with promoting sharing data among public and private organizations.
 
 # Education
-## 2015 	Ph. D. (Media and Governance),	Keio University, Kanagawa, Japan
+## February 27th, 2015: 	Ph. D. (Media and Governance),	Keio University, Kanagawa, Japan
 
-## 2012	Visiting Student Media Lab., Massachusetts Institute of Technology, Cambridge, Massachusetts, United States
+## July 4th - September 22nd, 2012:	Visiting Student Media Lab., Massachusetts Institute of Technology, Cambridge, Massachusetts, United States
 
-## 2007	M.A.  (Media and Governance)	Keio University, Kanagawa, Japan
+## September 22nd, 2007:	M.A.  (Media and Governance)	Keio University, Kanagawa, Japan
 
-## 1999	B.A.  (International Politics and Economics), Aoyama Gakuin University, Tokyo, Japan
+## March 25th, 1999:	B.A.  (International Politics and Economics), Aoyama Gakuin University, Tokyo, Japan
 
 # Professional Experience
 ## August 2019 to March 2021  Specially Appointed Associate Professor at Graduate School of Media and Governance, Keio University
