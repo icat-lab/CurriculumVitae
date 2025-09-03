@@ -4,20 +4,21 @@
 
 ### 学会口頭発表
 #### 2025
+- **Yoshiaki Fukami**, Naoki Teramoto, Daisuke Nishi. [Sustainable Growth Strategies for Boutique Wineries: Reducing Dependence on Terroir](https://www.xcdsystem.com/bam/program/6eZEwYX/index.cfm), [British Academy of Management](https://www.bam.ac.uk/) [2025 Conference](https://www.bam.ac.uk/events-landing/2025-conference.html). [2025年9月4日](https://www.xcdsystem.com/bam/program/6eZEwYX/index.cfm), [Kent Business School](https://www.kent.ac.uk/kent-business-school), [University of Kent](https://www.kent.ac.uk/), Canterbury, United Kingdom. 
+	- JSPS科研費 [23K25548](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/) 
 - **Yoshiaki Fukami**, Naoki Teramoto, Hirotoshi Fukuda, Tokiko Nakamura, Daisuke Nishi, Ken Takeuchi. [Crossing Boundaries in Rural Entrepreneurship: A Case Study of a New Winery in Yakumo, Hokkaido](https://cyprusconferences.org/scos2025/detailed-program/). [The 41th Standing Conference on Organizational Symbolism](https://cyprusconferences.org/scos2025/) (SCOS 2025), 2025年7月8日. [University of Cyprus](https://www.ucy.ac.cy/?lang=en).
-  - JSPS科研費 [23K25548](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/)
-    
+  - JSPS科研費 [23K25548](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/) 
+
 - **Yoshiaki Fukami**. Standardization and Implementation Challenges of Digital Identity Architectures: Bridging Policy and Technology, [STS Conference Graz](https://stsconf.tugraz.at/) [2025](https://stsconf.tugraz.at/wp-content/uploads/2025/05/STSConf25_program_long-6.pdf), 2025年5月26日. [Hotel Das Weitzer Graz](https://hotelweitzer.com/en/).
 
 - **深見嘉明**. スポーツデータエコシステムの創造と課題, [日本情報経営学会](https://jsim.gr.jp/index.html)[2024年度 第１回 関東・東北支部研究会/](https://jsim.gr.jp/branch/local03.html) [技術が媒介する越境経済・社会研究プロジェクト](https://jsim.gr.jp/project/project02.html)ミーティング, 2025年1月12日. 明治大学駿河台キャンパス研究棟4階第1会議室とオンラインのハイブリッド開催.
 
 #### 2024
-- Naoki Teramoto, Tokiko Nakamura, Daisuke Nishi, Hirotoshi Fukuda, **Yoshiaki Fukami.** Reconsidering the Concept of User Community as a Competitive Resource for User Entrepreneurs: A Case Study of a New Boutique Winery in Japan, [Australian and New Zealand Academy of Management Conference 2024](https://anzamconference.org/), 2024年12月3日.[University of Wollongong.](https://www.uow.edu.au/)
+- Naoki Teramoto, Tokiko Nakamura, Daisuke Nishi, Hirotoshi Fukuda, **Yoshiaki Fukami.** Reconsidering the Concept of User Community as a Competitive Resource for User Entrepreneurs: A Case Study of a New Boutique Winery in Japan, [Australian and New Zealand Academy of Management Conference 2024](https://anzamconference.org/), 2024年12月3日. [University of Wollongong.](https://www.uow.edu.au/)
 
   - JSPS科研費 [23K25548](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/)
 
 - Tokiko Nakamura, Hirotoshi Fukuda, Naoki Teramoto, Daisuke Nishi, **Yoshiaki Fukami.**  Transforming Winery Resource Acquisition through Electronic Communication, [Asia Pacific Conference on Information Management 2024\(APCIM2024\)](https://jsim.sakura.ne.jp/apcim2024/), 2024年11月1日. [慶熙大学](https://www.khu.ac.kr/eng/user/main/view.do) ソウルキャンパス.
-
   - JSPS科研費 [23K25548](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/)
 
 - Naoki Teramoto, **Yoshiaki Fukami**, Masako Toriya, Yasuhiro Kato, Manamami Miyamoto. Introduction and governance of data utilization in winter sports, [The 40th](https://www.ncl.ac.uk/business/news-events/event-items/2024/scos-2024/) [Standing Conference on Organizational Symbolism](https://www.scos.org/), 2024年7月12日. [Newcastle University](https://www.ncl.ac.uk/) [Business School](https://www.ncl.ac.uk/business/)
@@ -25,7 +26,6 @@
 - Naoki Teramoto, **Yoshiaki Fukami**, Hirotoshi Fukuda, Tokiko Nakamura, Daisuke Nishi. Are electronic devices replacing craftsmanship? : An analysis of the process by which coffee roasters in Japan integrate electronic devices into their work, [The 40th](https://www.ncl.ac.uk/business/news-events/event-items/2024/scos-2024/) [Standing Conference on Organizational Symbolism](https://www.scos.org/), 2024年7月11日. [Newcastle University](https://www.ncl.ac.uk/) [Business School ](https://www.ncl.ac.uk/business/)
 
 - **深見嘉明.**、清水たくみ、早矢仕晃章、松島裕康. [エージェントシミュレーションによるID アーキテクチャ別個人情報流出リスクの評価,](http://id.nii.ac.jp/1001/00232842/) [情報処理学会](https://www.ipsj.or.jp/index.html)[第167回](https://ipsj-is.jp/is167/)[情報システムと社会環境研究会](https://ipsj-is.jp/). 2024年3月5日. 武蔵大学江古田キャンパス1号館地下1階1001教室とオンラインのハイブリッド開催.
-
   - JSPS科研費 [20H02384](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02384/)
 
 - **深見嘉明.**、鳥谷真佐子、寺本直城、宮元万菜美.[雪上スポーツトレーニングのデータ活用導入とガバナンス](http://id.nii.ac.jp/1001/00232847/), [情報処理学会](https://www.ipsj.or.jp/index.html)[第167回](https://ipsj-is.jp/is167/)[情報システムと社会環境研究会](https://ipsj-is.jp/). 2024年3月5日. 武蔵大学江古田キャンパス1号館地下1階1001教室とオンラインのハイブリッド開催.
@@ -182,14 +182,17 @@
 - **深見嘉明**. [ソーシャルブックマークサービスにおけるアノテーション情報の機能分析](http://2007.conf.ai-gakkai.or.jp/data/paper-73.html). [第21回人工知能学会全国大会](http://2007.conf.ai-gakkai.or.jp/)論文集 [1G1](http://2007.conf.ai-gakkai.or.jp/data/session-16.html)-[4](http://2007.conf.ai-gakkai.or.jp/data/paper-73.html), 2007年6月20日. ([ワールドコンベンションセンターサミット](http://www.seagaia.co.jp/japanese/conference/), Miyazaki, Miyazaki) ([paper](http://www.ai-gakkai.or.jp/jsai/conf/2007/data/pdf/100073.pdf))
 
 ### 学会ポスター発表
+#### 2025
+* 福田 大年, **深見 嘉明**, 寺本 直城, 中村 暁子, 西 大輔, 丸山 洋平. [味覚の環世界を相互学習するテイスティング・スケッチの試行](https://www.researchgate.net/publication/395173536_weijuenohuanshijiewoxianghuxuexisuruteisutingusuketchinoshixing), [日本認知科学会](https://www.jcss.gr.jp/)[第42回大会](https://www.jcss.gr.jp/meetings/jcss2025/index.html)[2025年9月14日](https://www.jcss.gr.jp/meetings/jcss2025/program.html). ([早稲田大学](https://www.waseda.jp/top/)[早稲田キャンパス](https://www.waseda.jp/top/access/waseda-campus), Shinjuku, Tokyo)
+	* JSPS科研費 [23K25548](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/)
 #### 2024
-- 大沼卓也、堀内雄司、・**深見嘉明.** [ワインの味わいを適切に表現する日本語フォントの探索](https://www.j-mac.or.jp/poster/dtl.php?ps_id=445):[日本マーケティング学会](https://www.j-mac.or.jp/) [第13回マーケティングカンファレンス2024](https://www.j-mac.or.jp/conference/conference2024/), 2024年10月13日. [法政大学市ケ谷キャンパス](https://www.hosei.ac.jp/ichigaya/#access)
+- 大沼卓也、堀内雄司、**深見嘉明.** [ワインの味わいを適切に表現する日本語フォントの探索](https://www.j-mac.or.jp/poster/dtl.php?ps_id=445):[日本マーケティング学会](https://www.j-mac.or.jp/) [第13回マーケティングカンファレンス2024](https://www.j-mac.or.jp/conference/conference2024/), 2024年10月13日. [法政大学市ケ谷キャンパス](https://www.hosei.ac.jp/ichigaya/#access)
   -  [ベストポスター賞](https://www.j-mac.or.jp/prize/)
 
 #### 2018
-- 秋山和子、**深見嘉明**. [日本におけるコーズリレーテッドマーケティングの受容度.](http://www.j-mac.or.jp/poster/dtl.php?ps_id=137) [日本マーケティング学会](http://www.j-mac.or.jp/) [第7回マーケティングカンファレンス2018](http://www.j-mac.or.jp/conference/conference2018/), 2018年10月14日. (早稲田大学早稲田キャンパス, Shinjuku, Tokyo)
+- 秋山和子、**深見嘉明**. [日本におけるコーズリレーテッドマーケティングの受容度.](http://www.j-mac.or.jp/poster/dtl.php?ps_id=137) [日本マーケティング学会](http://www.j-mac.or.jp/) [第7回マーケティングカンファレンス2018](http://www.j-mac.or.jp/conference/conference2018/), 2018年10月14日. ([早稲田大学](https://www.waseda.jp/top/)[早稲田キャンパス](https://www.waseda.jp/top/access/waseda-campus), Shinjuku, Tokyo)
 
-- 池澤勇貴、松本綾希子、棚倉健太、**深見嘉明**. [日本のがん治療市場における放射線治療普及阻害要因分析と、普及施策の検討](http://www.j-mac.or.jp/poster/dtl.php?ps_id=138). [日本マーケティング学会](http://www.j-mac.or.jp/) [第7回マーケティングカンファレンス2018](http://www.j-mac.or.jp/conference/conference2018/), 2018年10月14日. (早稲田大学早稲田キャンパス, Shinjuku, Tokyo)
+- 池澤勇貴、松本綾希子、棚倉健太、**深見嘉明**. [日本のがん治療市場における放射線治療普及阻害要因分析と、普及施策の検討](http://www.j-mac.or.jp/poster/dtl.php?ps_id=138). [日本マーケティング学会](http://www.j-mac.or.jp/) [第7回マーケティングカンファレンス2018](http://www.j-mac.or.jp/conference/conference2018/), 2018年10月14日. ([早稲田大学](https://www.waseda.jp/top/)[早稲田キャンパス](https://www.waseda.jp/top/access/waseda-campus), Shinjuku, Tokyo)
 
 #### 2017
 - 小泉勝志郎、須栗裕樹、**深見嘉明**. [高齢者向けプログラミング教育の実践](http://www.jasmin.jp/activity/zenkoku_taikai/2017_fall/program/P1-19.html). [経営情報学会](http://www.jasmin.jp/index.html)[2017年秋季全国研究発表大会](http://www.jasmin.jp/activity/zenkoku_taikai/2017_fall/index.html), [2017年9月21日](http://www.jasmin.jp/activity/zenkoku_taikai/2017_fall/program/index.html). (岩手県立大学アイーナキャンパス, Morioka, Iwate)
