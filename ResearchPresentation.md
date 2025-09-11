@@ -4,6 +4,9 @@
 
 ### 学会口頭発表
 #### 2025
+- **Yoshiaki Fukami**, Kazue Sako. [User Engagement and Barriers in the Standardization Processes of Digital ID Architectures](https://github.com/ahdediu/ETHICOMP2025_extended_abstracts/blob/main/Ethicomp2025ExtendedAbstracts.pdf), [ETHICOMP](https://sites.google.com/site/ethicompsc/) [2025](https://autonoma.pt/en/ethicomp-2025/). [2025年9月17日](https://easychair.org/smart-program/ETHICOMP2025/2025-09-17.html), [Autonomous University of Lisbon](https://autonoma.pt/en/autonomous-university-of-lisbon-distinguished-by-the-european-commission-with-the-seal-of-excellence/), Lisbon, Portugul.
+	- [セコム科学技術振興財団 特定領域研究助成 情報セキュリティ分野（領域名：超スマート社会の「悪」の研究）](https://www.secomzaidan.jp/kiroku_r04.html)
+
 - **Yoshiaki Fukami**, Naoki Teramoto, Daisuke Nishi. [Sustainable Growth Strategies for Boutique Wineries: Reducing Dependence on Terroir](https://www.xcdsystem.com/bam/program/6eZEwYX/index.cfm), [British Academy of Management](https://www.bam.ac.uk/) [2025 Conference](https://www.bam.ac.uk/events-landing/2025-conference.html). [2025年9月4日](https://www.xcdsystem.com/bam/program/6eZEwYX/index.cfm), [Kent Business School](https://www.kent.ac.uk/kent-business-school), [University of Kent](https://www.kent.ac.uk/), Canterbury, United Kingdom. 
 	- JSPS科研費 [23K25548](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/) 
 - **Yoshiaki Fukami**, Naoki Teramoto, Hirotoshi Fukuda, Tokiko Nakamura, Daisuke Nishi, Ken Takeuchi. [Crossing Boundaries in Rural Entrepreneurship: A Case Study of a New Winery in Yakumo, Hokkaido](https://cyprusconferences.org/scos2025/detailed-program/). [The 41th Standing Conference on Organizational Symbolism](https://cyprusconferences.org/scos2025/) (SCOS 2025), 2025年7月8日. [University of Cyprus](https://www.ucy.ac.cy/?lang=en).
