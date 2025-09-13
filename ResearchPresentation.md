@@ -4,7 +4,7 @@
 
 ### 学会口頭発表
 #### 2025
-- 水野 重弦, 膳場 百合子, 佐古 和恵, **深見 嘉明** , 加藤 綾子, 小川 亮, 渡邉 健. 選択的開示技術と文化的価値観が個人情報の利用に対する態度に与える影響, [情報処理学会](https://www.ipsj.or.jp/index.html)[コンピュータセキュリティシンポジウム2025（CSS2025）](https://www.iwsec.org/css/2025/index.html)[UWS2025 \| ユーザブルセキュリティワークショップ（UWS）2025](https://www.iwsec.org/uws/2025/)[2025年10月29日](https://www.iwsec.org/css/2025/program.html#3D3), [岡山コンベンションセンター](https://www.mamakari.net/).
+- 水野 重弦, 膳場 百合子, 佐古 和恵, **深見 嘉明** , 加藤 綾子, 小川 亮, 渡邉 健. 選択的開示技術と文化的価値観が個人情報の利用に対する態度に与える影響, [情報処理学会](https://www.ipsj.or.jp/index.html)[コンピュータセキュリティシンポジウム2025（CSS2025）](https://www.iwsec.org/css/2025/index.html)[ユーザブルセキュリティワークショップ2025（UWS2025)](https://www.iwsec.org/uws/2025/)[2025年10月29日](https://www.iwsec.org/css/2025/program.html#3D3), [岡山コンベンションセンター](https://www.mamakari.net/).
 	- [セコム科学技術振興財団 特定領域研究助成 情報セキュリティ分野（領域名：超スマート社会の「悪」の研究）](https://www.secomzaidan.jp/kiroku_r04.html)
 - **Yoshiaki Fukami**, Kazue Sako. [User Engagement and Barriers in the Standardization Processes of Digital ID Architectures](https://github.com/ahdediu/ETHICOMP2025_extended_abstracts/blob/main/Ethicomp2025ExtendedAbstracts.pdf), [ETHICOMP](https://sites.google.com/site/ethicompsc/) [2025](https://autonoma.pt/en/ethicomp-2025/). [2025年9月17日](https://easychair.org/smart-program/ETHICOMP2025/2025-09-17.html), [Autonomous University of Lisbon](https://autonoma.pt/en/autonomous-university-of-lisbon-distinguished-by-the-european-commission-with-the-seal-of-excellence/), Lisbon, Portugul.
 	- [セコム科学技術振興財団 特定領域研究助成 情報セキュリティ分野（領域名：超スマート社会の「悪」の研究）](https://www.secomzaidan.jp/kiroku_r04.html)
