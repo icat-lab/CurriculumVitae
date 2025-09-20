@@ -131,6 +131,11 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
 - **深見嘉明**, 國領二郎. [意図せざる協働−ソーシャルブックマークにおけるボトムアップメタデータ生成による情報共有−](https://infosocio.org/archives/paper/vol2no2-2). [*情報社会学会誌*](https://infosocio.org/archives/paper), [Vol. 2](https://infosocio.org/archives/papervolno/vol2), [No. 2](https://infosocio.org/archives/papervolno/vol2no2), pp. 6--19, 2007年6月.
 
 ### Springer books and Lecture Notes
+- **Yoshiaki Fukami** and Kazue Sako. [User Engagement and Barriers in the Standardization Processes of Digital ID Architectures](https://link.springer.com/chapter/10.1007/978-3-032-01429-0_40#citeas). In: Isabel Alvarez, Mario Arias-Oliva, Adrian-Horia Dediu and Nuno Silva (eds) [Ethical and Social Impacts of Information and Communication Technology: 22nd International Conference, ETHICOMP 2025, Lisbon, Portugal, September 17–19, 2025, Proceedings](https://link.springer.com/book/9783032014283). [Lecture Notes in Computer Science](https://link.springer.com/series/558), vol 15939. [Springer](https://www.springer.com/gp?), Cham, 2026 (Copyright). (published in 2025年9月6日)
+	- [Scopus Index](https://www.scopus.com/sourceid/25674)
+	- DOI: https://doi.org/10.1007/978-3-032-01429-0_40
+	- [セコム科学技術振興財団 特定領域研究助成 情報セキュリティ分野（領域名：超スマート社会の「悪」の研究）](https://www.secomzaidan.jp/kiroku_r04.html)
+
 - **Yoshiaki Fukami** and Yoshimasa Masuda. [Society 5\.0 as Digital Strategy for Scalability: Tamba’s COVID\-19 Vaccination Management System and Its Expansion \| SpringerLink](https://link.springer.com/chapter/10.1007/978-981-19-3440-7_3). In: [Yen-Wei Chen, Satoshi Tanaka, Robert J. Howlett and Lakhmi C. Jain (eds.). Innovation in Medicine and Healthcare](https://link.springer.com/book/9789811934391):  Proceedings of [10th KES\-InMed 2022](http://inmed-22.kesinternational.org/), , [Smart Innovation, Systems and Technologies](https://link.springer.com/bookseries/8767), vol. 308, pp. 27–37. [Springer Singapore](https://link.springer.com/), 2022. (2022年7月6日）
   - [Scopus index](https://www.scopus.com/sourceid/21100204111)
   - DOI: https://doi.org/10.1007/978-981-19-3440-7_3
