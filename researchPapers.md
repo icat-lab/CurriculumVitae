@@ -164,6 +164,7 @@ In: Mario Arias Oliva, Jorge Pelegrín Borondo, Kiyoshi Murata and Ana María La
   Bibtexなどは，[citeUlike](http://jp.citeulike.org/user/yofukami/tag/yfjpnjournal)にまとめてあるのでどうぞ．
 
 ### 紀要
+- 中村暁子, 寺本直城, 西大輔, **深見嘉明**. [仁木町における新規ワイナリー設立に向けた資源獲得と経営に関する現状整理と課題 － 当該地区における新規就農者3者の事例研究を通した分析 －](http://hokuga.hgu.jp/dspace/handle/123456789/5086), [開発論集](http://hokuga.hgu.jp/dspace/kiyo/kaihatu), [116号](http://hokuga.hgu.jp/dspace/kiyo/kaihatu/%E7%AC%AC116%E5%8F%B7), [p.1-32](http://hokuga.hgu.jp/dspace/handle/123456789/5086), 2025年9月30日.
 - **深見嘉明**.  [医療・ヘルスケア領域におけるイノベーション源泉拡張と普及: コンテストの導入と患者起点イノベーション](https://rikkyo.repo.nii.ac.jp/?action=repository_uri&item_id=14097). [立教DBA ジャーナル](https://rikkyo.repo.nii.ac.jp/?action=repository_opensearch&index_id=71&count=50&order=17&pn=1), [No. 7](https://rikkyo.repo.nii.ac.jp/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=1775&pn=1&count=50&order=17&lang=japanese&page_id=13&block_id=49), [pp. 1-13](https://rikkyo.repo.nii.ac.jp/?action=repository_uri&item_id=14097), 2016年12月.
   - [CiNii](https://ci.nii.ac.jp/naid/120005993712/)
   - DOI: http://doi.org/10.14992/00014039
