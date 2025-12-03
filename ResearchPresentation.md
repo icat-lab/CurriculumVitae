@@ -4,7 +4,8 @@
 
 ### 学会口頭発表
 #### 2025
-- Naoki Teramoto, Tokiko Nakamura, Daisuke Nishi, Hirotoshi Fukuda, **Yoshiaki Fukami**. [Strategizing as the Process Constructing Regional Institutions : A Case Study of a New Boutique Winery in Japan](https://www.xcdsystem.com/anzam/program/m1lgC3f/index.cfm?pgid=483). [The 38th Australian and New Zealand Academy of Management Conference (ANZAM)](https://anzamconference.org/), 2025年12月2日. [Deakin University](https://www.deakin.edu.au/).
+- Naoki Teramoto, Tokiko Nakamura, Daisuke Nishi, Hirotoshi Fukuda, **Yoshiaki Fukami**. [Strategizing as the Process Constructing Regional Institutions : A Case Study of a New Boutique Winery in Japan](https://www.xcdsystem.com/anzam/program/m1lgC3f/index.cfm?pgid=483). [The 38th Australian and New Zealand Academy of Management Conference (ANZAM)](https://anzamconference.org/), 2025年12月2日. [Deakin University](https://www.deakin.edu.au/), Geelong, Australia.
+  - JSPS科研費 [23K25548](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/) .
   - JSPS科研費 [23K25548](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25548/) 
 - 水野 重弦, 膳場 百合子, 佐古 和恵, **深見 嘉明** , 加藤 綾子, 小川 亮, 渡邉 健. 選択的開示技術と文化的価値観が個人情報の利用に対する態度に与える影響, [情報処理学会](https://www.ipsj.or.jp/index.html)[コンピュータセキュリティシンポジウム2025（CSS2025）](https://www.iwsec.org/css/2025/index.html)[ユーザブルセキュリティワークショップ2025（UWS2025)](https://www.iwsec.org/uws/2025/)[2025年10月29日](https://www.iwsec.org/css/2025/program.html#3D3), [岡山コンベンションセンター](https://www.mamakari.net/).
 	- [セコム科学技術振興財団 特定領域研究助成 情報セキュリティ分野（領域名：超スマート社会の「悪」の研究）](https://www.secomzaidan.jp/kiroku_r04.html)
